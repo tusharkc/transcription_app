@@ -89,7 +89,8 @@ export default function RootLayout({ children }) {
                   />
                 </div>
               </div>
-              {children}
+
+              <div className="col-span-7">{children}</div>
             </div>
           </div>
         </div>
