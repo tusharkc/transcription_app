@@ -1,6 +1,9 @@
 import Header from "@/Components/Layout/Header";
 import SideBar from "@/Components/UI/SideBar";
+import TranscriptionList from "@/Components/UI/TranscriptionList/TranscriptionList";
+import TranscriptionListHeader from "@/Components/UI/TranscriptionList/TranscriptionListHeader";
 import { Geist, Geist_Mono } from "next/font/google";
+import FilterUi from "./components/FilterUi";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -26,9 +29,68 @@ export default function RootLayout({ children }) {
       >
         <div className="flex">
           <SideBar />
-          <div className="w-full">
+          <div className="w-full flex-col items-start">
             <Header />
-            {children}
+
+            <div className="grid grid-cols-12">
+              <div className="col-span-2 bg-white min-h-[calc(100vh-55px)]">
+                <FilterUi />
+              </div>
+              <div className="col-span-3">
+                <div className="m-4">
+                  <TranscriptionListHeader />
+                  <TranscriptionList
+                    listData={[
+                      {
+                        companyLogo:
+                          "https://images.pexels.com/photos/15406292/pexels-photo-15406292/free-photo-of-google-on-smartphone-touchscreen.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                        _id: 1,
+                        name: "GOOGL",
+                        recordDateTimeStamp: "Nov 23, 2024, 2:50 AM",
+                        shortDescription:
+                          "Alphabet Inc. Presents at BofA Securities Auto-motive",
+                        venue: "Summit",
+                        venueDateTimeStamp: "Apr-15-2025 08:50 AM",
+                      },
+                      {
+                        companyLogo:
+                          "https://images.pexels.com/photos/15406292/pexels-photo-15406292/free-photo-of-google-on-smartphone-touchscreen.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                        _id: 2,
+                        name: "GOOGL",
+                        recordDateTimeStamp: "Nov 23, 2024, 2:50 AM",
+                        shortDescription:
+                          "Alphabet Inc. Presents at BofA Securities Auto-motive",
+                        venue: "Summit",
+                        venueDateTimeStamp: "Apr-15-2025 08:50 AM",
+                      },
+                      {
+                        companyLogo:
+                          "https://images.pexels.com/photos/15406292/pexels-photo-15406292/free-photo-of-google-on-smartphone-touchscreen.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                        _id: 3,
+                        name: "GOOGL",
+                        recordDateTimeStamp: "Nov 23, 2024, 2:50 AM",
+                        shortDescription:
+                          "Alphabet Inc. Presents at BofA Securities Auto-motive",
+                        venue: "Summit",
+                        venueDateTimeStamp: "Apr-15-2025 08:50 AM",
+                      },
+                      {
+                        companyLogo:
+                          "https://images.pexels.com/photos/15406292/pexels-photo-15406292/free-photo-of-google-on-smartphone-touchscreen.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+                        _id: 4,
+                        name: "GOOGL",
+                        recordDateTimeStamp: "Nov 23, 2024, 2:50 AM",
+                        shortDescription:
+                          "Alphabet Inc. Presents at BofA Securities Auto-motive",
+                        venue: "Summit",
+                        venueDateTimeStamp: "Apr-15-2025 08:50 AM",
+                      },
+                    ]}
+                  />
+                </div>
+              </div>
+              {children}
+            </div>
           </div>
         </div>
       </body>
