@@ -1,0 +1,173 @@
+Datadog, Inc. Presents at RBC Capital Markets Global Technology, Internet, Media and Telecommunications Conference, Nov-14-2023 01:20 PM
+Event Details
+November 14, 2023
+11:50 PM GMT+5:30
+Corporate Participants
+David M. Obstler Datadog, Inc. · Chief Financial Officer
+Conference Call Participants
+Matthew George Hedberg RBC Capital Markets, Research Division · Analyst
+Unknown Attendee
+Event Transcript
+Revised November 23, 2023
+
+
+Prepared Remarks
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+We got a nice size group here. So I will work through some questions, and we'll certainly allow some time for Q&A. And with a group like this one, we might get a question or 2.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Oh that's great. Excellent.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+So we'll see. Get your questions ready now.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Ask questions. Yes.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+Please. So yes, queue them up, get them ready, we will get to that eventually.
+So yes, with us this afternoon slot, we've got David Obstler, CFO of Datadog; Yuka Broderick, IR down in front. Thank you, Yuka, for coming as well.
+So I guess, David, for you, you guys came off a really strong -- There was a lot of concern related to your print. And you guys had really, really nice results. How do you feel about the macro trends you saw? You talked about them kind of post the quarter into October. Maybe bring us through the year because it's been a little bit of an uneven year. Talk about what you said through October.
+
+Question and Answer
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. Well, we have a cloud-based consumption model. Our revenues are associated with monitoring cloud workloads, and that means that we're correlated broadly to the workloads that are through the hyperscalers as well as how clients use the platform and all the tools. And we've been, for well over a year, in a cost management environment, Fed raising rates and things like that. And we've been talking, for the last year-plus, about the award optimization. And clients managing their cost structure, not surprising.
+There was some very caffeinated growth in the period from 2021 into a little bit '22. And many of those companies that had -- were cloud data and had expanded the most rapidly, had taken a crack at their cost structure. That's because of the changes in their business. That's because of all of you people moving from growth at all costs to a balance. It was going to happen. And so that resulted in some pressure on our existing customers' use of the platform.
+I think we talked over a year ago about a cohort of cloud-native, rapidly scaled in some affected industries. And that group had moderated their usage. And what we said last quarter was that we started to see signs of some stabilization in that cohort. And in this quarter, we said that happened. So the most intense period of the optimization that we've seen to date was in the middle of Q2. And that relieved itself a little bit.
+And then we said across the whole customer base, there is an overall cost management, so there's more focus on cost. And while the rest of the customer base, even down into the SMB, hasn't been affected as much, there was an overall sort of management reducing the rate of growth of consumption of the platform. So we said on the earnings call that we're not declaring the end of this period. We think there'll still be optimization, there always is, but that some of the most intense areas had abated and some of them have even begun to grow a little bit. So that's sort of updating everybody on what we've been through.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+We -- we had a keynote and we talked about some of these trends. And I think the term that we talked about at lunch was cloud -- being cloud smart. And as you talk to sort of customers, I mean it's a journey, right? But like, I mean you said like this period of most intense optimization has at least settled out a little bit here. When you talk -- is there a way to sort of quantitatively think about if I was spending X, now I'm doing this, and like this is the new baseline? Or like is there an opportunity, do you think, for sort of getting smarter even with cloud spend?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. Yes, definitely. And that happens all the time. So this is just -- so we've said that cloud allows you -- one of the benefits of putting your applications on the cloud is that you can control burst-up conversion, you can manage capacity. And it's much more flexible than a data center model when you're invested in CapEx or in some ways a save model. And so that's definitely one of the benefits.
+We find that our customers are always -- were always looking for optimization projects. It's just that in that period of emphasis on growth, and not on smart cloud, a lot of the world emphasize speed and putting capacity on and didn't emphasize what they had done all along, which was optimizing that and looking at, as you say, cloud smart. So the world before that was cloud smart for the most part, and it looks like it's returning to that. And I think the companies that had put an emphasis on their operations all along were cloud smart.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+Yes. Interesting. And you said -- so I think you made a comment a second ago, or I know you made it on the earnings call, about some of the most heavily impacted customers were actually starting to maybe even do a little bit better and show some like, I don't know, if you said acceleration, but even better trends there. Maybe talk about -- was that because do you think they optimized almost too much and now they're kind of coming back? Or what was the dynamic there?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, the behavior they're evidencing is they rightsized. Many of them -- and we talked about signing contracts -- commitments with us and longer term. Many of them found the right equilibrium. One of the great things about our product is it's sort of a must-have utility. So in -- for the vast, vast majority, and you can see it in the gross retentions, it's not a matter of turning it off, switching, insourcing; it's a matter of calibrating the cost. And so we saw that activity, and then we saw a period of more commitment in there. And then I think we said, we saw some modest growth in that group.
+So we don't know. We don't know what's going to happen next. But that likely means that for this cohort, which is the most impacted, the weight down, the decel and maybe even to cutting their costs probably is easing.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+One of the things that we look at for you guys and other consumption model, everybody -- we're on the edge of our chairs when AWS, Azure, GCP prints. When you look at your numbers internally versus what those guys say, how correlated is -- what kind of a correlation do you see? Like others, are you surprised when, I don't know, pick GCP -- pick a hyperscaler, when they say they're sort of like more positive or sort of more negative comments or is...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Well, I would say, we're correlated long term because we're correlated to cloud workloads. And we're correlated to modern DevOps and cloud workloads. So lift and shift, picking monolithic legacy applications, lifting isn't a Datadog -- isn't what Datadog does.
+So I would make 3 comments. One, long term, we're correlated; two, the cloud -- the hyperscalers have a much broader business than these modern workloads; and most likely, AWS has more of their business in these type of workloads. And when you see some others -- and they announce it. They say there are lots of other things in here. There's Microsoft Office, there's G-Suite, et cetera. And we're not correlated to that. So I think it's not perfect. It's directional.
+And then the other thing is it's not timed perfectly because the vast majority of the expense is in the cloud, it's many times. And what they do on their monitoring and the other parts of it that aren't host-based pricing can have different timing. So directionally in long term, it is correlated. And I know all of yous are trying to get daily correlation, and it's not going to be that perfect because the cloud providers don't give you the numbers to be able to do that. And it's not a one-for-one minute correlation.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+Excellent.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Sorry about that.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+No, that's a good -- no, that's -- we're always trying to look for those little incremental nuggets. Last quarter, you talked about larger customers growing at a slower rate than smaller customers. Maybe talk a little bit about that and how this long tail of smaller customer spending may have impacted kind of net customer additions.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, definitely. So let's go to that first because that's not a dollar number, that's a net customer. And then we'll go to what we would call the paying customers. So essentially, yes, we've had very -- we report net. We have very -- we've had very similar and consistent gross. And the gross has been at a little bit higher of an average land. We'll talk about that in a second.
+So underneath of this net, the gross has been really solid throughout this period. We have a freemium to very low-use model bottoms-up. And we have a very long tail, $5 a month, et cetera. So what we experienced since the economic difficulty is this very long tail isn't -- there are some of them that dropped out. I think we said in Q2 that, that group accounted for $50,000 of total revenue. So this is just -- we just want -- this is about getting users to use the product.
+Yes, they're free and if they get a certain number of hosts, they flip over into pay, then they might flip. So that's really the gross/net story. The low end and everything is something we would watch, but it's more marketing experts, trying to get people to use it. Then in terms of size of customer, we've always had the highest net retention and -- in smaller customers and then in ramping customers. And we've always had net retention in SMB that's been -- that we said is much the same as enterprise. And it has to do because it's workload-related. So -- and that's most likely because as customers are ramping their workloads in a new product, they're growing faster. And it tends to be net-net. If they're smaller, they're not as ramped and they grow faster. So that's what's been in the company from day 1.
+Everything -- and as I mentioned, there was the most affected and then all the cohorts notched down because of cost management, but they maintained their hierarchy in spend, meaning the smallest customers and SMB growing the most on a net retention basis. Now that's -- so that's sort of what happened, everything notched down.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+Excellent. And I guess given that consumption pricing model, do you find -- and obviously, we're seeing more and more companies adopt that. And it feels like that's kind of going to accelerate from a new software model perspective. Does that help onboarding? Does that help your onboarding initiative when you're sort of paying for ROI from that perspective?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Definitely, there's no question that land and expand. And essentially, we start out always with a free trial, which takes no time to set up. So our clients are using our product. And then they decide, after they run their reports, if they want to use it because of the way the platform is set up to not have any implementation. So having that ability to get on really quickly and then manage your commitment flexibly has been -- is one of the great things about cloud. It's not just Datadog, it's also the hyperscalers, et cetera.
+So essentially, they're able to commit conservatively because these are newer workloads, see how those workloads scale. Everybody we do, you operate with some on demand for flexibility up and down. And then once you see your workloads, you can recommit. And that's what happens with the hyperscalers and Datadog. It's a very flexible model and also a model that has been very important to our customers.
+We also operate in a -- same thing as the hyperscalers on a commitment, meaning you choose which products, but you can use the platform, so you can essentially switch between products. It's really one product. And you can also decide between reserve businesses and flexible.
+And so this, again, we didn't invent it. It was the hyperscaler, and it's the way our customers buy. But it provides a lot of flexibility. So you don't have to go all the way and build a big data center. You don't have to commit to seats that you may or may not use, and that's how the product gets adopted ubiquitously and been at the core of Datadog's success.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+You -- so you started out the year, I believe your revenue guidance was 25%, and then you lowered it to 23%. And now it's back to 26%, right above where you, I think, initially started. Talk a little bit about your guidance philosophy. I know it hasn't changed, but just help us think about how you build your guidance, sort of the assumptions built into Q4?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. I mean a couple of things. One, as you progress more in the year, more of the year is baked, and so your variability once you get to Q4 is only about Q4. So you already have all that. So naturally, if the trends have proven that you're at 25% or 26%, there is not that much that can happen in the fourth quarter to change that very much. That's one thing. So that will always happen.
+In terms of guidance, we basically looked at the data sets and the environment. And we haven't changed. We've basically discount the major drivers, which are the net retention organic growth rate or usage growth and the new logos. And we look at the environment and try to take a -- it's a risk-management exercise, try to create a risk-adjusted revenue number.
+And if the world is better than that and even better than we had planned for that risk adjustment, then the beat is better than that. And then in Q2, we had -- we said we had lower organic or lower usage growth than we had previously. And that would -- we take that information and say, since we don't control this completely, we're going to risk-manage that down, and that will result in guidance getting lower. It's a risk-management exercise to try to maintain the cushion.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+So I think you said you put more weighting on some of the more recent data points than you did previous -- in your earlier data. I'm curious, when you get into the '24 budgeting cycle, how long will you maintain that Q2 data point as part of your sort of your thinking...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+We're looking at the -- so of course, we're not going to provide guidance off of the COVID period because it isn't as relevant. So we're trying to determine through analytics, through looking at slicing and dicing our customer base by size, by cohort, by cloud-native, by product and looking at the data. We get a report every morning. So we're just basically every week aggregating that and trying to see what we think is the state of play.
+It can't be perfect. We don't control it, but there's not a formula. We're essentially risk-managing what we think is the environment. And so we'll use not just -- as we said, we're not using October or September. We're using all of it, a data set. I don't know how to answer the question because it changes over time. Whether that's 4 quarters or 5 quarters or 3 quarters, it has to do with how trends are moving.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+Okay. So that's -- I guess, yes, that's a helpful...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+We're trying -- I'm trying not to disintermediate myself and lose a job. If we can create an AI CFO, I'm gone. So I'm trying to --
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+Yes. Yes, I see that. There's a human element to this.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+There's always a human element to this.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+Sure, of course.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+I might do that for a while, yes.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+So I guess the -- well, I'm sure there's somebody working on that.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, probably, and that should be great. I won't tell -- you know, I'll have it, but I won't tell everybody for a while and then, yes.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+So I guess -- so I mean -- because when I think about that Q2 data point, obviously, there was some negativity in that quarter. I guess the question is, is like that -- it feels like it's going to be part of your thought process for some time. At some point, it's going to be so far removed that you be like okay...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+It's whether that was an aberration, a bottom related to -- and you only know that as your time series develops. So at that point, this is part of our philosophy. We said the world's uncertain. This could be the trend, right, going forward. So we took down our guidance assuming that.
+Now what we do next year will be based on have we had enough of a time series and the analytics around customer base and usage to feel confident that we have sort of a stable or increasing set of metrics, and then we'll discount from that. That's what we're doing.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+I see. Okay. That's helpful. From a Q4 perspective, let's just say things just kind of stay status quo. That still implies -- I mean, based off of your discounted assumption, that's still a beat scenario.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Well, everything. So basically, what we would do is we always take the status quo and discuss it. That's what -- I mean let's call it risk management rather than beat. But basically, that's what we're doing. We're basically taking the assumptions that we see in the business, and we're building in conservatism which, if things don't change, if they stay where they are, builds in a beat.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+Yes. Okay. Bigger beat if things get better?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+More speed if they don't. Yes, yes.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+Yes. Yes. Well, let's keep focusing on things getting better.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+I have to do that for you. I have to -- basically, I had to look at her and go, so Matt, you know, that sort of thing, but.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+All right. That's helpful perspective. You recently announced 2 new DevSecOps packages, which I thought was really interesting. How do you think about -- I mean they're just brand new, so it's probably -- you don't have much data on it. But like how do you think about things like that driving the model? Like how do you think about that as a driver?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. So essentially, thinking back, if you look at -- on the website, you'll see that the philosophy of pricing of Datadog is to use the nomenclature, host, test, data and to put functionality on top. So for instance, if you're buying infrastructure and you want something that has more containers or you want network or if you're [ buying ] APM and you want a code profiling or you want -- so that is the way our customers buy.
+And they like that because they basically can think I'm buying infrastructure, it's really infrastructure, APM and logs, right? But I'm getting this functionality. So in the past couple of years, we've been sort of building this product line and getting to the point where we could do more than put it out there and having certain customers use it. So this is a mark that we are confident enough to bundle it, still focused in this case on DevSecOps.
+But the way they buy and the way we've conditioned them is to buy as this post-fee plus incremental amount. And so it's still too early. We have some good feedback, and we talk to clients about it. But essentially, this is a packaging that is consistent with the way we package to that customer base, made possible by the number of use cases covered having extended, so it can be more broadly sold through.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+Yes, that makes sense.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+What it does to the sales? We obviously did it because we thought it was a good move to enhance the sales pace. We'll have to see. It's too early.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+Yes. One other -- I want to go back to pricing because I forgot to ask it, too. There's a real tie to ROI with what you guys do. A lot of us will talk to customers, and they'll say, "Well, I love Datadog. Gee, It's like my Datadog spend just gets really big." How do you think about like -- thinking about those strategic customers? Do you want to provide -- I mean it's not shelfware, right? So like how are those conversations with customers that all of a sudden starts between $5 million, $10 million a year with you guys? And like I love it, but I don't want it to go to $20 million for what, pick a number. But like how are those conversations?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+We do it in so many ways, and we've always done it. So basically, we want to price transparently. We have a CS group and a technical account management group that have always worked with clients to help them use the product. We've developed additional SKUs where -- TAM, where we essentially go in, and we help a client use it correctly. Much of the ramping unintended is due to user error or not setting it right. So we try to help clients get to the right spend. We also have pricing that's based on volume, reserve and term. We also have a whole group, like you're saying, that goes in and helps the client understand the return on investment. We do analysis versus other vendors, open source and having slower remediation.
+And I think in our script, we had a number of things that -- where we said the return on this is quite high. So we've always, and we've gotten better at it, helping clients understand how to get return and also how to use our expanding product set to get the most return. So it's helping our clients long term is why we have that gross retention rate in the very high 90s and why essentially clients don't generally leave us. They generally work on trying to use the platform more efficiently.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+The other nugget that I think -- I think it was a new nugget for Q3, you said 2.5% of your ARR was from gen AI companies. Talk a little bit more about that because I think it's a great number. But also for companies that aren't like a bank like RBC, how are we thinking about Datadog from a gen AI perspective as well?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+So I think we gave the metric for the first time last time when we announced our product line at Dash. So there's 3 things. The first and most immediate is there are a number of modern software companies that are developing tools in the AI stack, a number of them. And that's -- and they are essentially delivering software and services to clients. And that's one of our expertise area is in monitoring, client-facing, modern development software. So those would be the technology companies. That's the [ to ] enhance, okay? That's been growing very rapidly. So it's always nice to have sectors where your product fit is really, really good and the way you model. And so that's one.
+The second thing would be that we have developed -- we've announced and are building out a number of LLM monitoring modules in our platform, and we're building integrations. And that's where an RBC or something, if and when they are injecting AI into client-facing real-time software, it's not about the marketing department generating collateral, that's not what we release, but -- and that is looking like, very early, that there are use of these integrations that's model-level monitoring and how it interacts with the software.
+And that, we think, although it's too early to give you a number, is going to result in an increase in workloads that we're monitoring. So we're building the platform for that. So that's number 2. I don't think there's -- as Oli would say, it's too early. That's not having a major effect on our numbers right now.
+And the third would be in the platform itself to make -- to introduce more AI capabilities, including our chat bot, our Bits as well as things like self-remediation or auto-remediation. That is platform, which we have, as we've done this over the years, gotten broader adoption on the platform, more client retention and more market share in the market as we've done that. So those are the 3 ways we think we can monetize this opportunity.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+Sure. When you think about -- you didn't guide to '24, and I know you're not going to give guidance today. But if you were thinking about building blocks, you were sitting in our shoes, how do we think about sort of like the major drivers to next year? Obviously, we're all looking at maybe cloud consumption has bottomed and maybe starts to improve, that obviously is a good thing. But how would you suggest we think about modeling without guiding us?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. I mean it's basically net retention plus the layering in of new customers and modeling out as they come up to speed. And I think we have numbers in our disclosure. I think this time in our Q, it was 60%, 65% of revenue growth comes from existing customers and 35%. So it's a model that would then vary the net retention, resulting in that 65% moving, and then developing your own view on logos and what the average size of that from what you've seen. And that would be the way we would build a model and then have many cases off that. Yes.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+Sure. Helpful. I'm going to pause here a second. Is there any -- is there a question out there? Yes, go ahead.
+Unknown Attendee
+Where do you view Datadog in the -- because we're seeing like cybersecurity coming to the space with CrowdStrike. We're also seeing like ITSM with ServiceNow. This morning, there was GitHub saying they also want to get into observability. So where do you see Datadog fitting into this space?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. I think it's a question as to what do they mean by it. Like we say ITSM, we're not trying to get into caseload or human capital. ITSM for us is the ability -- it's DevOps and it's the ability to use our product to -- more efficiently. So that's what we say. Like if we just said ITSM, you would say, oh, you're going to go into ServiceNow. I'm just being very like black and white with you. And I think that's what a lot of other companies don't do, because in our end market, which is essentially monitoring real-time, customer-facing applications that are run on the cloud using DevOps, most of these other companies need something else, and they're not in the market.
+In security, we also don't mean endpoint, we don't mean network, we don't mean so many. We mean essentially using security signals in building and putting software in production for our DevOps, so DevSecOps. So a lot of others mean something else. So I think it's really getting under and understanding which is your end market and what are you trying to do. And are you successful at it?
+The rest of it, we could do -- like it would be much the same thing. Like, okay, let's just go into ServiceNow's market. Yes, of course, we could. We could create a company at 10,000 employees, we're -- built from scratch, but we're not doing that. And most of those others aren't doing it either. What they're saying. They're just using -- they're using a lot of words, okay?
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+Maybe just on that competitive question. The -- there's $4 billion of Splunk ARR that -- who knows what's going to happen to that in the future. How do you -- what do you guys think about that in terms of like how their customer base aligns with yours and how big of an opportunity that could be?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+We're not in their market. Their vast majority market, we're not in, that's centralized security SIEM. We're not in that market. It's a completely different architecture because our architecture is to be able to be in real time and have access and use, and they're not. So they have some business that we compete with them on where they've gone into Cloud SIEM. But -- and it's not whether they deliver their security SIEM in the cloud or on-premise. The vast majority of their market is not our end market. Some of it is, and we've been winning in that part for a while. So it's mainly a different market.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+Okay. Maybe in the last 30 seconds here, that went quick. We're going to -- we're sitting here next year. Fast forward a year, what are we going to be talking about? Like what are some of the most important trends that we should watch when we're sitting here at this point next year, and we're like asking you questions about...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. Yes. So it would be -- number one would be the growth of cloud workloads, modern cloud workloads as an underpinning for the business. That's the most important. Number two would be our market share in the platform and our ability to continue to win the full platform, so our ability to consolidate and win. Number three, let's say would be what's happened with AI, how real is it. And lastly would be the success of DevSecOps. Those would be the things.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+A lot of drivers.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. A lot of the drivers, yes.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+Excellent. Well, that was too quick. I intended more questions, but could have kept going.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Okay. No problem. Thanks a lot.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+From all at RBC, David, thanks for coming.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Thank you.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+Appreciate it.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Thank you.
+Matthew George HedbergRBC Capital Markets, Research Division · Analyst
+Thanks, David.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Thanks a lot. Thanks for the great questions. Thank you, everybody.

@@ -1,0 +1,174 @@
+ServiceNow, Inc. Presents at 51st Annual J.P. Morgan’s Global Technology, Media and Communications Conference 2023, May-23-2023 03:55 PM
+Event Details
+May 23, 2023
+3:55 PM EDT
+Corporate Participants
+Chirantan Jitendra Desai ServiceNow, Inc. · President & COO
+Conference Call Participants
+Mark Ronald Murphy JPMorgan Chase & Co, Research Division · Managing Director
+Event Transcript
+Revised June 12, 2023
+
+
+Prepared Remarks
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+Okay. Good afternoon, everyone. I am Mark Murphy, software analyst with JPMorgan. And it is a real pleasure to be here with CJ Desai who is President and the COO of ServiceNow. First of all, CJ, it was great seeing you on stage at your own conference.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Thank you.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+Last week out of Las Vegas, and thank you. I know you're a popular guy, there's a lot of demand for you. So thank you for taking the time to be here.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Of course, absolutely.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+Maybe you can spend a moment just giving us a super brief introduction of yourself and in case there's anyone in the audience who is not aware of what ServiceNow does. Just a super quick brief introduction.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Of ServiceNow as well?
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+Yes.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Okay. I'll start with ServiceNow. ServiceNow was created in 2004 in San Diego area by Fred Luddy. And he created this as a platform company for any type of workflow automation. So any task that can be automated digitally, he wanted to do that. ITSM, which is our largest product line, was actually the first demo that was created on top of ServiceNow and became the first biggest use case to get to $1 billion in revenue. So that's how Fred started the company.
+After that, Frank Slootman became the CEO. Frank hired me in 2016 and said, "CJ, we need to hit $4 billion in revenue by 2020." That was Frank's call with Mike Scarpelli who was the CFO at the time. And then after Frank was John Donahoe. John stayed with us through 2019 October. And then Bill McDermott came from SAP to take ServiceNow to the next level. And Bill has been here now 3.5 years. I'm CJ Desai, and I'm responsible for products, engineering, our cloud, customer service, professional services and a few other things.
+
+Question and Answer
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+So thank you. That's a wonderful overview. Thinking back again to last week on stage, Bill McDermott was there and he said, this is the quote, "ServiceNow is the intelligent platform for digital transformation, but people still ask me what does ServiceNow do?" and that a lot of people still don't know.
+So for this audience, we hear the term workflow often. We hear the term orchestration layer. Amazon and Microsoft would also say, right, that they can handle some workflows. They would also say that they're a platform for digital transformation. So when you look out at this audience of non-IT professionals, how would you convey this differentiated role that ServiceNow has in the IT landscape?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes, absolutely. So many companies will claim that they are a platform company, that's okay. And they'll say that we also do workflow. And then the term gets used fairly generically at times, Mark, like you said. Here is how I would describe it.
+If we take just a simple example that an employee at your firm wants to move -- we are in Boston, so let's use as -- Boston as an example, from Boston to San Francisco. If an employee moves at a bank from Boston to San Francisco, there are so many departments that get involved in making sure that transfer happens, the mobility team from relo, is the payroll going to be different from Boston to San Francisco, is the department changing, the cost center changing, is the employee's role changing as she moves to, say, San Francisco?
+When you think about all of that at a corporation, these are complex workflows that need to be executed digitally for that transfer to happen. And even once the employee is transferred, the first 30 days, 60 days, 90 days in the new role, what are the to-do list, training that, that employee has to go through? These are very complex workflows that go across departments in an organization.
+The employee doesn't care. The employee sometimes don't even know that, that's the name of the department, that's mobility, which will help the employee with the relocation. That's just the example of an employee just moving from one city to the other. You can think now more complex scenarios in IT landscape that a payroll system is down, why did it go down? What was the root cause? How can we get it up and running? And all that storming and forming happens in ServiceNow from an incident management -- major incident management perspective. These are extremely complex workflows. And workflow is nothing but a task orchestrated in a certain sequence across systems, across clouds, across people to get work done.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+Okay. So you used this term storming and forming, and I like that one. ServiceNow has been storming its way into our CIO surveys now for -- really, if you look back since 2011, right? The company was still private.
+ServiceNow would rank consistently near the top in our survey work on -- we would look at the spending intentions, we would look at the linkage with digital transformation, we would look at who's going to be used for cloud.
+How would you describe to this audience what is it that has vaulted ServiceNow into that kind of a position? And then, how have you maintained that also for quite so long?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes. So one of the things is, when the company was created -- and most people say it, but a very few do it, the focus on the end customer and end user for use cases was very special and continues to be special at ServiceNow. We do not sell to small enterprises as some of you, if not all of you know. We only sell to upper end of the mid-market to large, to very large, to governments. That's our segment where we do business.
+And we are very focused on making sure that our customers get value out of any use case, whether it's ITSM or whether it's HR service delivery or customer service management. And if you look at our renewal rates which are best in class, the reason is we work very hard with our customers to make sure they get value out of the platform. And even if we decide to go after certain use cases, that use case is something that they can truly see that ServiceNow -- like I want to, Mark, give an example, when we entered the HR space, they said the same thing, "Hey, you do IT. Why HR?"
+And we said, we are not system of record. We do not want to be system of record that SAP, Oracle, Workday and others do, that's great. We are the workflow or the system of action layer so that when the actual work that needs to be get done for an employee that spans organizational boundary outside of HR, that's what we do. And we proved that. And now it's a decent-sized business with north of 1,000 customers for us.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+Decent sized?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+So we're commonly hearing out there when we do our field work that once you win the hearts and the minds of central IT within these big organizations that you're targeting, that then it becomes very easy to expand outward into the other business units.
+You just mentioned HR. But people will mention legal, they'll mention customer support, finance and so on. Can you shed some light on the mechanics of that? In the trenches, how does that IT stamp of approval kind of help grease the skids for ServiceNow so you can spread out across the business units?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+So a lot of you have been observing technology industry. Mark, I know you have done a lot of work, including the service you mentioned about intentional spend, security being one and a few others in the past on JP's surveys.
+But one thing I'll tell you that over last 10-plus years, the number of times I have heard, which has not turned out to be true, that CIO is irrelevant. The -- it is all about the developers, the spending is moving to developers. Yes, it is true that some technology spending does move to developers. Developers need to be productive, get it.
+So to answer your question, CIO, where we chose our first use case at scale, which is ITSM, beginning of the last decade and has continued to grow, that is our core buyer. We have won hearts and minds of CIO. And around 2016, 2017, CIO became aware that ServiceNow can be the ERP for IT.
+And that's not a small term because a CIO's job is pretty broad: keep systems up and running; create new digital services; serve lines of businesses, whether it's HR or sales or whatever or finance. And we very much focused on CIO being the core of the core, and we were selling to the CIO versus somebody will sell to Chief Revenue Officer and the CIO has to run a CRM system.
+Somebody will sell to the CFO, let's say, a financial system, that's the buyer, and the CIO has to run and operate that versus we had actually product selling to the CIO. So CIO -- because we became the ERP for IT and we have never lost sight of that core buyer and that core stakeholder. And so once you serve the CIO saying, "Hey, we are here for you. We are not here that we are trying to sell to HR or finance like the HCM system of their CFO," that gave us permission to say, "Hey, Ms. CIO, can you introduce us to the CHRO?"
+And again, you are going to leverage the ServiceNow platform that you have been leveraging for HR use cases. You are going to leverage the ServiceNow platform for customer support. And that's what allowed us to gain permission to go to other buying centers.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+So another element to this that has caught our attention for a long time is the fact that you do have a very integrated platform. Out there at your event last week, I was speaking with one of your very largest partner firms, and he was actually describing what you were just referencing.
+He said many companies have done ITSM, right? And now his term was -- he said they're workflow-ing out. They're workflow-ing out from there across the rest of the company: HR, legal, finance, supply chain security. The quote was, "It's exploding in so many areas and they're succeeding with it." And I stepped back and I said, "Well, but how? How can this company succeed in so many different parts of the organization?" And he basically just said, "Integrated platform. Integrated platform, people want that."
+So can you speak to that part of the philosophy? It's kind of been guiding ServiceNow in a unique direction of integrated platform. And then what are the advantages that it affords you that might not be clear to people in the audience?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes. So for customers, like this partner told you, it's workflow out. For us it's platform out. So you start with the platform as the core and some of the mechanics that I shared -- because a ServiceNow platform has user experience built in, machine learning built in, workflow built in, RPA built in, process mining built in. All of these are, think about, building blocks that are part of the ServiceNow platform.
+And now when we decide, as a company or as an engineering team, that we are going to go after a supply chain use case, what I shared is that, with one or two scrum teams, somewhere between 7 to 14 to 15 engineers, because the platform provides all core services, we can create a version 1.0 of any use case for, say, a supply chain department.
+And then from a customer perspective, customer says, we use you for ITSM. Are you telling me it is the same mechanics when we roll it out in supply chain, your portals, your workflows and others? We say yes. And all the user access model that you have built in, security that you have built in will just extend. So you're not installing yet another platform and you don't need to install in yet another team to scale that platform.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+So this platform keeps broadening. I think at the last update, CJ, we were told there are 11 organic businesses with over $200 million in revenue. So it's becoming actually pretty diverse. If you had to pick one or two of those and say, do your work, keep an eye on this because there's nascent potential here and this is going to be a durable compounder, where would you tell us to look?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+I would say the same thing, I think, I said in 2017, which was now 6 years ago. To start with, customer service as an area. We are ServiceNow, customer service, ServiceNow, service. That is a large TAM. And when you do industry-specific customer service like a telecommunications or a financial services, we believe that the market is large enough and this can become a massive business for ServiceNow outside of IT, so that's number one.
+And number two is we just entered last year what you called our finance and supply chain workflows. Again, we are not trying to be system of record. But specifically, workflows for procurement department or a supply chain department or a finance accounts payable department, we believe there is enough pain points that ServiceNow can solve. That's another area that has potential -- it's an $11 billion TAM is what we disclosed last week, but it has potential to be a very large business.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+Okay, so -- well, you gave us a couple of areas to focus on and do the work. I do want to ask you about HR in addition to this. So I recall, CJ, this was several years ago, I traveled out to the HR Tech Conference. It was probably in Las Vegas.
+And I -- it had been a long week. I walked into the partner pavilion, and I immediately saw a ServiceNow booth. Big booth right in the front, very crowded. And the -- I had a brief moment of figuring that I somehow went to the wrong conference, right? I didn't know about it then.
+And last week, we were kind of milling about and talking to multiple partners at your event. And several of them called out HR as their #1 growth vector. And so -- and they're saying that they're getting inbound requests on the HR side. Could you help us understand then why is HR a logical extension for you and maybe which pieces of that are resonating?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes. So first of all, just at the highest level, the good news for us is we have divided our product lines in 4 big buckets: technology workflow, employee workflow, customer workflow and creator workflow, right? All four of us -- four of those workflows are growing nicely for us. So we don't have this challenge, oh, one has -- is declining, and we need to move the R&D and other allocation to the other area. All four are growing nicely, all four of them, okay? So that's number one.
+Number two, HR, which pretty much in its earnest, started in 2016, where customers said, hey, for HR case management, onboarding type of challenges or offboarding challenges, ServiceNow can do this thing. What has resonated the most is an employee, in trying to make that employee productive, is something that always has been our focus and take friction away.
+To give a very simple example, think about a large bank. And if you want to get something done for -- with the finance department, you go to somewhere else. With legal department, you go somewhere else. With your facilities, you want to go somewhere else that, hey, I became a manager, I need an office.
+We provide a single portal for employees -- because employees at the end of the day do not care what the org structure looks like. Okay, there are four lines of businesses, and there is this HR function. They want to go to one place to get help and they want one place to get things done. And that's what we have done with HR products.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+So you're mentioning the employee portal or I think you call it employee center at times.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+You have onboarding, you have that piece and then you have this HR agent type of a work space. Where do you think it would expand beyond that? Or is there enough to be done there for a while where it's not necessarily going to be expanding?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+So we are expanding on making life easier for managers to manage their employees and what are the workflows required for managers to deal with. Skills is another area that we launched last week. On every job function has skills, career path, right? You need certain skills to be a manager, certain skills to be a director, certain skills to be a VP, whatever it is, or a software engineer. How do you do that skills mapping? How do you have the conversation with your manager in a meaningful way? And that's another area of focus for us.
+And then because of the pandemic, what has also happened, as companies have tried to figure out this hybrid workplace where some will say, we allow our employees -- or we mandate our employees 2 days a week, some will say 4 days, some will say all 5 days, it varies. How do you do facilities management and how does employee get that experience that if I'm only coming 2 days, that means I don't have a desk that is assigned to me because no corporation will assign you a desk if you're coming 2 days. So can I book something? Can I book a conference room? Can I look at the maps? These are other areas within employee experience standpoint that allows us to expand.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+Okay. So you just mentioned the pandemic. And when you think back on this -- if you think back 1 year at this conference, that was the time when we just started to have a few software companies that began calling out some challenges in the demand environment, right?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+That's correct.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+And then over the summer, ServiceNow was also relatively soon in kind of identifying the change, right, and called out macro crosswinds. That was last summer.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+I think Bill went on CNBC.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+That was -- that's the one. That's what I'm referring to. So most companies kind of recognize the environment was changing a little later, right, or admitted it later. But how do you connect the dots on the macro environment if you kind of start with the last several quarters? And then, how does business confidence feel to you right now today?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes. I would say 2022 and 2023, from my perspective, are very different, right? So 2022, there were a lot of conversations, especially in the first half that we saw, one around supply chain and what does that do to fulfill demand when you talk to companies or corporations, potentially talent shortage and all of that.
+And then second half of 2022, including this 2023, it has become all about interest rate environment, the cost to serve, profitability, focus. And there is not a single conversation, Mark, I have where there is not a conversation about efficiency and automation. And simply put, I'll just do this pattern matching over 100-plus customers in, say, last month.
+They say, we are solving for 2 things. We want to automate better, while at the same time, our digital agenda is still on because digital is still required, right? But it's not at all cost, but that's the efficiency gain that we are solving for. It's the year of efficiency or year of productivity and all of that. That pivot happened once the interest rate environment changed at a global scale.
+So from our perspective, we are pretty distributed in terms of industry, public sector to financial services to health care manufacturing, telco, media and others. So we see it all. And that is -- I would say, United States of America continues to be resilient for ServiceNow -- this is a very ServiceNow-specific comment, for us, very, very resilient, because we are a workflow automation platform.
+So we see that from a demand perspective, whether it's IT automation or HR automation or customer service automation. We are seeing also similar things in Central Europe. We are seeing U.K. turnaround for us this year. And so I feel, given what we do around digital and automation, we are still seeing demand for ServiceNow.
+And customers take -- I mean, last week, we had 15,000 in attendance. And you have so many companies that have cut travel budget for profitability and others. We had, I would say, median number per customer 12 to 13 folks being sent, which just tells you that they want to learn more about ServiceNow.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+There was good energy there, and it was crowded and it was busy. How was the pipeline generation activity?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Pipeline, so far -- so our sales and marketing team did a great job to make sure that, one, there are still customers who don't understand that we are the end-to-end intelligent platform for digital transformation, not just IT service management or IT operations management. So these customers coming in and sending this many folks from line of business and IT, it just opened up.
+And I had so many conversations over 3 days there where customers are like, I didn't know you did supply chain or I didn't know you did customer -- or I didn't know you had field service management product. So one, our existing pipeline that we need to nurture and mature, a lot of those customers came, and then now it has allowed us to also expand the conversations to say, I didn't know this.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+Okay. So you felt pretty good about that.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Very good.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+Okay. So now you do a lot of business in the financial services vertical. We learned when we were out there, some of the banks sent 30 people, 60 people to that event. So you know that's a big commitment. But we're constantly getting questions from investors about whether this regional banking crisis could cause any issues. I mean maybe you have some deal deferrals, even if it's not from the regional banks, all right, even if it's from other banks. What are you seeing so far?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+So our Q1 numbers, when you see -- when we reported them in April, we were not impacted while the crisis or -- however you want to say it, the phenomena that was happening in the regional banks in Q1. And when I look at the pipeline for this year and out years, right, we look at 4, 5, 6 quarters out, there are certain product lines we have besides our core of the core, which is ITSM and ITOM, is still demand for our risk solution in banks specifically.
+So we will have a Chief Risk Officer level conversation or we have digital risk level conversation. Our security products are resonating well with both large and midsized banks. And then between banks and the insurance companies and others, we are also seeing demand for mid-office, back-office workflows.
+So we can -- and again banks, all of you understand, they are tough customers. You have to prove out the use case, you have to show the value before they make a purchase. The cycles with all the banks have always been long. But they understand ServiceNow really well now and allowing us to expand in other areas besides just IT.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+So there were -- there was good energy out there. Obviously, it's not a perfect environment. Obviously, the typical software company has been -- growth has been slowing, right, across the entire industry, and nobody has been immune to it.
+There were people out there, there were partners out there last week who would recognize that, but then they would also say -- at least hypothesize that ServiceNow could be a bit recession-resistant, they didn't say recession-proof. But we would say, well, why? They would say because companies, they're consolidating legacy point products, right, onto a modern platform. And their feeling is that they do continue to do that even during a slowdown. So is there an element of truth to that? Is there an element of truth to being a little bit recession-resistant?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes. Listen, 2022 was the first year where the word R came out, right? It was '22 that, hey, there are parts of economy that may be slowing down despite the labor market being super resilient. And ServiceNow did pretty well. We did pretty well.
+If you look at our proxy statements, the demand was there and we executed on that demand. And it exceeded -- even when we reported our Q4 and fiscal '22 numbers, it exceeded what was happening compared to the other SaaS companies, which is what I can compare us against, with close to 29% subscription revenue growth in 2022.
+And now when we look at 2023, we had a strong Q1. We reaffirmed our guidance, and we won't do that unless we feel that we are, given what we do, still in the strike zone of purchases that companies are trying to make.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+Yes. Okay. Well said, well said. So CJ, in the time that's remaining, let's switch gears a little bit and go into the topic that's on everyone's mind, which is Generative AI, right? You spent quite a bit of time at the Analyst Day talking about ServiceNow's vision.
+I'll tell you what actually stood out to me. When you were on stage in front of the main session, the loudest response from the audience, and it was by far, it was when you were showing this demo of, I guess, I would call it text to code. But basically, someone goes in and -- someone types in, right, create a workflow for notifying like certain teams if I have -- if there's a level 1 incident.
+And then the system basically spits out the code, right? So it understands what you're asking, it spits out the code. But it's in the proprietary ServiceNow...
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Format, yes.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+Scripting language, right? And so people kind of went crazy. And then you can hit copy -- you hit copy, it goes on a clipboard and you could drop it right into the app, and then it's live, I mean so what -- I assume you noticed that response.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Oh, 100%.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+Yes. I mean how much of a productivity base do you think you can provide to the typical -- the admin or a ServiceNow platform owner?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+So I'll go to the first principles, okay? And this is super important for all of you to understand. In 2016, when we ended the year, we were $1.3 billion in subscription revenue. Last quarter, we hit $8 billion run rate and will be $8 billion by end of this year, right?
+So you think about 8x growth in 7 years, that's a very fast license subscription growth. That's great because of the use case is this, that, so on. But our ecosystem has not kept up with it, meaning trained ServiceNow professional. Every large customer I speak to, they say we cannot find people who understand ServiceNow and how to code in ServiceNow.
+So when we showed that demo that you write in natural language something and it spits out ServiceNow code, that was a domain-specific LLM that we created in ServiceNow by feeding ServiceNow proprietary code that we know how to write because we wanted an accurate code to show 15,000 live audience -- because anybody can take picture and if that code is faulty, which was a rejects for e-mail address, number of incidents and this and that, that's a game over. You don't want that demo, and we did a live demo.
+The reason you got this really nice applause and people who were cheering and there was like a gasp and all of that is because every customer is dealing with not having enough ServiceNow professionals, and this just creates more developers on ServiceNow, creates their learning curve faster and ability to modify rules in ServiceNow, that's it.
+And so this allows our ecosystem to expand. Our partners, you mentioned, Mark, have a massive backlog to implement many of our product lines that our customers have purchased, and this allows them to scale faster. And we will be able to monetize that. We are providing offerings on the productivity enhancements that they will get.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+So -- and you're using -- you mentioned the domain-specific LLMs. The thought process was -- for me, was you have OpenAI, that's the general purpose LLM. The value-add is going to be the domain-specific.
+And at first, I heard it as that you're using Hugging Face for that, a private company. And then I think later on, I started to realize, it seems like that's also going to include NVIDIA.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+That's correct. I could not, on Financial Analyst Day, disclose NVIDIA because Jensen came on Wednesday, and he wanted the press announcement to go after we have announced it for NVIDIA shareholders as well.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+I see.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+So we are working with NVIDIA team on IT service management-specific LLM. And Jensen was very proud. His team showed me that morning the results we are getting with open source LLM that NVIDIA is helping us fine-tune. Because general-purpose LLM with 175 billion parameters, whatever the numbers are and it will continue to increase, that's interesting, but it's general purpose.
+What our customers want is, "Hey, CJ, I'm a large telco. I use you for these 5 products. How can I enhance my productivity? And can you please take care of it using gen AI?" And because that's what -- for ServiceNow-specific use cases, they don't want to build a gen AI model. They want us to build the gen AI model, which is why I call it domain-specific. And NVIDIA and Hugging Face are our partners to be able to do that, where we don't require 175 billion parameters and we can still compute efficiently.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+Okay. Let me finish on observability. At a super high level, so why is observability going to end up being a good fit for ServiceNow? I mean you have incumbents out there. We had Datadog here yesterday. You have other incumbents. They're pretty modern, right? They've been working on metrics tracing, monitoring, logs. They've been working on it for a long time. Why is it a good fit for you?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Here's what I would say. At the highest level, our customers said, you have a right to play here because things that come out of observability platform at this particular applications performance is slow or something changed where this application went down, eventually makes a call to IT service management where you have all incident repositories, so our customers said, you should play in this field.
+And only when our customers say you should play in this field, we play in that field. Our platform was designed for human workflows, digital workflows, not machine data. Hence, we did the Lightstep acquisition. Lightstep used to do tracing really well, then they added metrics. And now, late summer, we are going to add logs. So we will have a full cloud observability solution that integrates with ITSM and ITOM.
+That is our differentiation. And given there are multiple solutions out there -- there are, as you know. You talk to any bank or any manufacturing company or any government, they'll say we have 5 of them. That's totally fine. We are focused on observability at scale at a cheaper cost that integrates really well with the backbone of IT, which is ERP for IT, which is ServiceNow.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+Okay. Wonderful message to end on. CJ, I can't thank you enough for hopping on a plane and flying across to be here with us.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Of course, absolutely.
+Mark Ronald MurphyJPMorgan Chase & Co, Research Division · Managing Director
+Thank you very much.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Thank you.

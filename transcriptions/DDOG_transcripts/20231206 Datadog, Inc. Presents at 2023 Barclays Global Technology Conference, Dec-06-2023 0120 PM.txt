@@ -1,0 +1,172 @@
+Datadog, Inc. Presents at 2023 Barclays Global Technology Conference, Dec-06-2023 01:20 PM
+Event Details
+December 07, 2023
+2:50 AM GMT+5:30
+Corporate Participants
+David M. Obstler Datadog, Inc. · Chief Financial Officer
+Conference Call Participants
+Raimo Lenschow Barclays Bank PLC, Research Division · MD & Analyst
+Event Transcript
+Revised March 11, 2024
+
+
+Prepared Remarks
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+Guys, welcome to our next session. We were just debating if we talk one more time about cloud optimization or [Technical Difficulty]. And then we decided we might do some cloud optimization once again.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+[indiscernible] rejected the [Technical Difficulty] even know what it is. But he said he would talk about UEFA champions league football. We could do that.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+We could do that as well. But like, yes, let's do a little bit of Datadog first...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+We'll do a little bit optimization, yes.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+I mean -- and I apologize to start like that.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+No problem.
+
+Question and Answer
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+What happened was when we were talking earlier, it's almost not fair. Like when the on-cycle guys reported, everyone was super scared. And now, the off-cycle guys are in the middle of the reporting season. And they are the ones who are like, "Oh, my god, yes, I want to be a..."
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+Like when you reported your results, I mean, we had a nice share price reaction. Like what were the highlights from you, if you feel free, to get everyone back on page? And then we can take it from there.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+The themes are similar to what we've been discussing, which was first optimization. We had said that starting in Q2 of last year, we had the effects of optimization. The most intense was around highly ramped cloud-natives in certain affected industries.
+In Q2, we said, too early to call, but we had seen sometimes a stabilization in that most affected group. And then in Q3, we mentioned that. And indeed, the signs were more robust that there had been stabilization. And in fact, that cohort, which was the most affected, had, in many cases, committed to longer-term contracts and were growing slightly.
+We also said, staying on the theme of optimization, that even though we still were in a cost-conscious environment that the cohorts other than that had improved somewhat. We used the word "moderation" or "less intense". There are lots of words that we were using. So that was one thing that everybody was very concerned about.
+What's going to happen next? We said that in October, we had a relatively strong month, that 1 month does not a quarter make. But we updated everybody, and we don't want to say further after we speak then. But we said essentially that as of our earnings call, we had seen the continuation of less-intense optimization. Number 2 was new logos.
+Number two was new logos and all the effects around that. And what we said was on that, we have had pretty strong trends throughout this whole period. And we can talk later, but indicating that newer workloads and higher-priority projects were being more maintained, that was more stable than the optimization of existing workloads. And we reminded everybody that we had been a net [ consolidator ]. We have been winning share. And what we said was that, that has continued.
+The next -- I would say the other 2 topics that we talked about were, tell me if you want to handle these in later questions, about the AI and then the security packaging. So if you want to wait on that, we can do that. But those were the things.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+Yes, you touched all of my subjects already, but like that was a preview, okay, so now the real thing.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+What do you think about that?
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+Yes, yes, yes. It's a shame...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+I'm waiting for my first daughter to get a university place here, and tell me which school, I suppose...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. Okay.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+You talked about new logo a little bit. Like what have you -- like throughout the last few quarters, the [indiscernible] is tougher. I'm not going to mention optimization again, but how is new logo the whole time?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, yes. Let's say that it's been essentially a very stable gross new logos at slightly higher lands, resulting in some record quarters of new logo. And I think we said that in the last 2 or 3 quarters. And we gave examples in the script of a number of larger enterprises. And a number of them were in traditional industries, who, either in a land or in a consolidation, had gone with Datadog. And we've seen that trend paying.
+Now, it's likely that had we not had this type of economic environment that, that trend would have been better, but it had a lot less variability or volatility. And the learning from that is that either the consolidation or the new workloads and projects, particularly for larger enterprises, has continued to be prioritized, even when there's other cost [ management ] efforts going on.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+Do you see on new logo -- like, no, to -- let me start over. Because the -- we had optimization in installed base, et cetera, did you lean in on new logo by having a salesforce kind of repurposed a little bit more, just kind of go out and go hunting more rather than farming? Or -- did you do anything there or it just naturally happened?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+No, we always -- I mean we're always putting our sales team in terms of the major new logo centers with being in the commercial mid-market and a [ put ] of the enterprise. So we continued doing that. Our commission plans for enterprise essentially are based on net ARR. So we do all that work in terms of assignment of accounts. But we wouldn't change in what we were doing.
+I think we are getting better in consolidation selling in terms of looking at both value and the cost side. We found in a lot of places that our customers do want to go to a platform, they do not want [ Splunk ] solutions. We have the products in the platform, and we are able to essentially both create greater utility and take that money and also lower in the meantime, mediation in a consolidation. And we've gotten better and better doing that.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+And then the -- is part of that higher ASP that you worked on a new logo side, it's -- your platform is brought, you have a lot more to do there, correct?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. Exactly, exactly. That and then what we always said was most of it is greenfield and land and expand. But as you have more existing workloads that are being consolidated from other vendors on the Datadog, you do have a lot of the deals.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+If we look at your space, I remember like a few years back, I wrote these big reports about the observability war, and everyone is coming from a different angle, et cetera. Now it's funny how much the market has validated it. Like you have like 2 public companies left. Splunk was the last one that got acquired.
+Do you see a change in the market in terms of like how competitive certain vendors are? Is it becoming easier for you with like just bidding deals or kind of at least competing with some of those guys?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. I would say, this is -- a trend that has been going on for a while. So when we went public, we were far down the lead table in observability. And now, according to Gartner and others, we're #1 in terms of the revenue.
+So that trend has been going on for a while. I think it has mainly to do with the product. It has to do with the fact that we start with infrastructure. We then did a very good job of cleaning up the other products. So the objections were another vendor got there [ first ], might not have the product priority or overcome and the benefits of the platform.
+Whether that -- so that's been going on. Whether that will be further -- we get this asked a lot, will be further enhanced by the going privates and acquisitions, too early to tell. We certainly give everyone a sense of what's going on, but it isn't new that we've been winning the market share from those vendors along the way.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+Yes, yes. And then if you think about it like your product set is much broader now. So you remember like IPO, there was a lot of infrastructure monitoring. You guys have been increasing on R&D and are now much broader. How is that helping you on the land? Does that give you more landing spots? And then, do you have any stats there like how the other products are doing it?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. I mean we basically -- the cross-sell stats, or over 80%, are land. And then if you look at what we reported in our script, you see all of those trending up. I mean when you go back to 2, if you're in the 80s, you can't go to infinity. So there's some leveling out of that. But that has definitely identified both the lands.
+The more important factor has been the expanse, where any net retention, about 1/3 of the expansion is products that the clients didn't have a year before. So that is most [ significant ] factor, but certainly in landing as well, that's been a factor.
+We talked on the call that we gave some metrics. We said that infra had passed through $1 billion. And though APM and logs and the families we define them had passed through $500 [ million ]. And as you said, we went public, we had some of the other products but much smaller. So that is a very good, I would think, infra metric because if you add up the other 2, it's double the infra. And we've always said that it's 2 to 3. So that -- we're seeing that directly in the numbers we reported.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+Yes. And I'm still trying to avoid optimization, so I'm going to blame on you. The...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+We can go back to optimization, that's fine.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+The -- if you think about -- like how do you think about your customer -- your addressable customers? Like if you think -- we just had the keynotes in front of us now, and they were very [indiscernible], et cetera. You guys were always broader. Is there not some sort of a [ new ] customer base that you're defining slightly more than you used to do or like...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Well, we do define in this SMB that's 1,000 employees or lower. Mid-market, that's 1,000 to 5,000, that's a quasi-enterprise scale. I mean Datadog now has 5,000 employees. So we have been [indiscernible]. And then you have 5,000 and above. And so we are broad.
+And we're broad, I think -- and we can be largely because of the way the platform is designed. The platform is simple but not simplistic, extensible with exceptional services. So it's all back to the product, in that it can be consumed by a broader group of customers, potentially different strategy than ServiceNow.
+Be that as it may, there are different ways to go to market. For instance, when you're talking large enterprises, you're talking about a multi-division type of sale, potentially involving constituency. So we've organized our sales team in that way in more what you would know as enterprise selling.
+And then, when you get down to the SMB, it's more of evolving them from a frictionless self-service over time, and they know the product to a contract. So it definitely varies but our product, because of the architecture, is able to be appropriate for that [ broad base ].
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+Yes. And then last question on this is like last quarter, you talked about very low tier in Q3. Like can you talk about like -- because some people still model on number of customers added. But then if you can get someone to [ 3 ], then the models are wrong.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, it's hard. You can't -- it's hard to do that because -- and that's why we basically gave some [ increase ] in growth because at the very low end, these are self-service. So there's no salesperson. They will go back and forth between their credit card. So they will move. And I think we said last quarter that difference in delta in that movement, like [ 400 or 500 ] was $50,000. So that's why that metric can be confusing.
+We have not seen what others have talked about, which has been a [ falloff ] in SMB. Actually, the SMB has always grown on a weighted average basis faster than the other segments and continues to do so. It's just we've seen that very low end, very little revenue dollars. I would even say, they -- it's a turn, maybe they just went from [indiscernible] down to the level that's pretty rare.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+Yes, yes, yes. This has nothing to do with your deemphasizing because you have more -- upper market interest, it's just basically a natural...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+No, that's separate from the sales-enabled channels that would be this group. So what this group of customers are not in any sales channel, they're self-service.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+Yes, yes. So it doesn't impact. Okay. Yes, it makes sense. Shifting gears a little bit to the installed base. Like you mentioned the -- how do you guys call it, the digital...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Cloud Maintenance, yes.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+Yes. It got better in Q3. Do you have any visibility that -- do you think you're done yet? Or do we like -- I mean some of them had like corporate events, where they needed to do -- any visibility for you? Or like it's good for now?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Well, there's visibility. First of all, cloud and observability is always going to [ happen ]. So if you're not -- you basically put new workloads, and then you see how they work, et cetera. And we study this, we're studying many different cohorts. I think what we said so far is we see some stabilization. But given all the risk factors in the market, we're not comfortable saying it's over, it's not over, it's just that it's less intense.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+Yes, yes. Okay. And then when I talk to the hyperscalers, the one thing that -- and don't -- correct me if I'm wrong, but I would say that you guys suffered in the hyperscalers wars that the motion of moving workloads from on-premise and classic to cloud has been a little bit delayed. People have kind of been on on-prem for a little bit longer. And you're still achieving the numbers with kind of that headwind in a way. It's not even near optimization.
+Is that a factor that you kind of consider? Or was it just the hyperscalers kind of thinking they could grow more?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+I think the biggest factor in the sort of the picture that wasn't a straight line was zero interest rates. A lot of capital deployed -- capital markets that were emphasizing growth versus profitability. And therefore, a number of cloud natives went very, very fast. So that was probably like pull-forward or not as well-thought-out planning.
+And so the biggest factor has been the [ deflation ] of that bubble. It's like the whole world, right? Simply, there is an inflation, a deflation. The rest of the trends, although there is more cost consciousness out there, as I talked about the new logos, the movement of workloads, the consolidation, the new -- all of those have been much more consistent through the process.
+So I'd like to think of it as sort of if you draw a line through this and you sort of do normalization, potentially at least, I think, that gives you a better sense of what really is sort of [ happening ] greater. And that's the biggest factor that's happened in the last year. We haven't seen, in particular, the slowdown of new workloads.
+Essentially, it may have been a bit more if this -- we weren't in this environment. But there could well be some other factors that have allowed us to make up, which could have been our winning, our market share capture, our expansion of our product line, all the things may have overcome the factors that are out there that could have weighed that down further.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+Yes, yes. And then I don't know when -- like if it's a finance guy asking a CFO. So if you don't want to go there, I'm happy as well. But like how does AI come up for you guys?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, definitely. No. I mean you can't do that without talking about that. AI is -- one we're seeing is that Datadog's customer base, one of the strengths of it is in modern software companies to delivering their products to their clients. And of course, most of the stack of AI is being delivered right now through APIs and other things.
+And so that group, that was a 2.5% [ through ]. And that has been a high growth for us. It's not a large part of the business. So that's serving companies that are providing AI products.
+We also announced a number of product releases at our DASH. And broadly, they go into 3 areas: One, we're building integrations with both those sets. That's what we do. We're basically data dogs. All of the data is in there.
+So as clients develop applications and put them in production, we can monitor. That's just like in beta and being launched, but we see some activity. And that will help us get more volume. And that's what we've seen in the types of similar situations.
+And then platform investments, where we're trying to put more AI and large-language models in our platform. That could be things like auto remediation or quicker resolution of [indiscernible].
+So all of those are opportunities. Probably the biggest opportunity would be the workload we sell, where we're not -- we are doing that ourselves in our platform, but we are a second degree effect after clients develop applications and put them into production.
+I was just listening to the previous speaker go through some discussions with their clients about essentially what software companies and banks even are doing, which is they're not largely in production with a lot of these. They're thinking through options, and we won't see the effect materially until those applications are in production.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+Yes, yes. And I mean it must have been for you, like -- look, of capability, you guys did AI like not generative AI, like you guys have been working on AI for a while with anomaly detection, et cetera.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Definitely. I mean AI was not born 6 months ago. Datadog is essentially taking a lot of data and building correlations and patterns using learning and metric correlations to predict what's going wrong and can be optimized.
+Of course, if you can create models that do that faster or more predictive, that will improve the utility. And I think the same thing could be said about a lot of software products where it's not the AI itself, it's what can that do for a client to help them use the software product.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+Yes. And then on new things, like there's still ongoing lots of innovation coming out of you around security, DevOps, DevSecOps, et cetera. Like maybe less you but more Olivier. Like what's the stuff that he is getting excited about?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Well, go back. So half of our R&D investment is in the platform. So I think that's one of the ways [indiscernible]. When you think about platforms, you're thinking about [indiscernible], large language model, the auto remediation, ITSM, that would be alerting and case management; CoScreen, which is the video collaboration. We just bought a little company to keep Excel-type spreadsheets in the platform longer and not be downloaded. That is a very important part, and that is at the R&D group.
+It may not be as exciting to everybody here, but that's at the very core of what makes [ Datadog ]. So we're all very excited about that. And in fact, a number of our acquisitions are about trying to [ utilize ] that platform. And then the biggest things in terms of where we go are, as you mentioned, incremental, security -- and I'll get to that in the shift left.
+But even in the APM, there's a lot of great investment. Here's an example. When we launched our APM product, because it's, I would say, less frictionless to instrument application, we launched it, but still there was more work to do in making the instrumentation of applications as frictionless. So we have projects on that, that's to make APM even easier to use and detect.
+And then on security, one of the interesting things we talked about was -- we've always talked about DevSecOps and DevOps using it as opposed to centralized cases. That's where Datadog has its most competitive advantage. That's where Datadog has the data for infrastructure and logs and applications.
+And what we announced in terms of the packaging was essentially getting to a point with a product and infrastructure or cloud security, an abstract was developed that we could proactively attach. That's a very big opportunity that's aligned with not only the product build but also the world of DevSecOps, which is engineering, security or learning as such, upfront when you're developing and deploying in production rather than as a detection and remediation after the fact.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+Okay. Yes. Makes sense, yes. And I've got a planted question here. And I'm not trying to get '25 guidance -- or '24 guidance out of you. But as we think about next year, as you think about next year, how would you think the ranking is? What's driving revenue? If it's -- if revenue is changing next year? How would you kind of get the back lift-up?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+So the biggest factor is the usage growth rate of customers. So that's been somewhere between -- depending upon [ 65% ] and 80% of our revenue growth. So that is the biggest, and that comes, as I mentioned, 2/3 from the same product, 1/3 from cross-sell. The -- no matter what the new product, biggest opportunity isn't [indiscernible].
+When you think about how big the market is, how we have a very significant number of customers who aren't using all the pillars, the attach rate, so that is a product, the biggest.
+And then there's some things on top of that, that -- our security, cost management, incident management. Instead of managing a number of other products that aren't in that $1 billion or $500 million but are attaching nicely and can be back to [ growth ].
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+When you think about part of that, some of your other guys in the industry talk about like, "Oh, we need to start thinking about like if things get better and you start investing a little bit more." How do you think about that kind of profitability versus [indiscernible] as you kind of [ go ] for next year?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Well, one thing, unlike some others, we never went crazy and we never didn't invest. We've been able to modulate that. So even in this year, when the pace has been less, we still invested significantly. So we have a list of prioritized projects. And if you go into an R&D and in sales and marketing, we have been trying for some time to -- it's already a bit there. I think you mentioned that [ in this ] quarter, we overshot our margins.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+Yes, again, yes.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+In that case, both the top line is better than we had thought from the Q2, and we have been very good at optimization. And so we're trying long-term to balance and compound the free cash flow, which is a product of revenue growth, the most important, and doing that at a good margin.
+And I think we gave the guidance on margin back when we went public, 20 to 25, we called it long term. We got there faster than that. But I think we've been able to prove over and over again that we could have a model that is able to be calibrated in attractive ways.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+Very like -- if you think about like as you grow as an organization and you only need to think about like changing maybe processes or like things need to kind of change and evolve to kind of -- at a greater scale, is there anything coming up from your perspective? Or is it just it's a very natural evolution in terms of how you kind of...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Both. When you think about R&D, I'll start there first, we essentially have always been pretty good at having projects and executing efficiently. So I think in that way, I think we're getting better about where we hire geographically, doing this in a methodical way.
+And go-to-market, I think that's where you probably have more maturation in different markets, emerging markets. And Asia, where we already are, but you're doing this -- you're creating a leadership that is a bit more decentralized. So you're making sure you have great heads of EMEA, great heads of APAC.
+There's a number of markets, including [ Fed ], where panels are really important. So we're investing more in that. I think we're essentially diversifying our marketing and that we were very digital and event-based. And I think we're evolving our events to be more spread out geographically, but also getting into account-based marketing and others.
+So I think there's a lot of things we're doing in maturing in the go-to-market because we know these are good markets, it's the timing and investment and we've had good payback. That's some good examples of how we've been, I would say, growing what we're doing and not just rinsing and repeating.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+Yes. And then we've got a minute left, so last quick question. Usage of cash, like how do you think about that? Because you are cash flow-positive, good cash position. Like what's the thinking there?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Well, I like the 5% return right now. I like that. I think that we have -- essentially have wanted to have enough cash so it never holds us back. We've done a good job of that. We're [ not ] at a point now where we're saying in any way that we're into stock buybacks, et cetera. But we know that as we accumulate cash and we don't find a use to it, that our job is not to accumulate on the balance sheet. And we study it. It's not -- now is not the right time, but we do look at that, and we could do that in the future.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+Yes. Perfect. Yes, great finishing statement.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Thank you very much.
+Raimo LenschowBarclays Bank PLC, Research Division · MD & Analyst
+Thanks, David.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Good. Thank you so much.

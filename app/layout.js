@@ -51,6 +51,31 @@ export default function RootLayout({ children }) {
                           "Alphabet Inc. Presents at BofA Securities Auto-motive",
                         venue: "Summit",
                         venueDateTimeStamp: "Apr-15-2025 08:50 AM",
+                        participants: [
+                          {
+                            name: "Alan S. Lowe",
+                            company: "Lumentum Holdings Inc.President",
+                            designation: "CEO & Director",
+                          },
+                        ],
+                        transcription: [
+                          {
+                            speaker: "Simon Matthew Leopold",
+                            company: "Raymond James & Associates, Inc",
+                            designation:
+                              "Research Division, MD & Research Analyst",
+                            content:
+                              "Well, thanks a lot, folks, for joining us. My name is Simon Leopold from Raymond James. We're here at our Annual Tech Conference here in New York. And we've got a fireside chat session with Alan Lowe, the CEO of Lumentum. Alan, thanks for joining us.",
+                          },
+                          {
+                            speaker: "Simon Matthew Leopold",
+                            company: "Raymond James & Associates, Inc",
+                            designation:
+                              "Research Division, MD & Research Analyst",
+                            content:
+                              "Well, thanks a lot, folks, for joining us. My name is Simon Leopold from Raymond James. We're here at our Annual Tech Conference here in New York. And we've got a fireside chat session with Alan Lowe, the CEO of Lumentum. Alan, thanks for joining us.",
+                          },
+                        ],
                       },
                       {
                         companyLogo:

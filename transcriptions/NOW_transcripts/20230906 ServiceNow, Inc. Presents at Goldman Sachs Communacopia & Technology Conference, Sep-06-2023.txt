@@ -1,0 +1,185 @@
+ServiceNow, Inc. Presents at Goldman Sachs Communacopia & Technology Conference, Sep-06-2023 01:05 PM
+Event Details
+September 06, 2023
+4:05 PM EDT
+Corporate Participants
+William R. McDermott ServiceNow, Inc. · Chairman & CEO
+Conference Call Participants
+Kasthuri Gopalan Rangan Goldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Karl Emil Keirstead UBS Investment Bank, Research Division · Analyst
+Event Transcript
+Revised September 07, 2023
+
+
+Prepared Remarks
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Thank you. All right. What do you think? Shall we get going? Should we get going? Yes, we should get going because we have a very special guest here, Bill McDermott. Thank you so much, Bill, for coming to the Goldman Sachs, I think it's your second year in a row -- third? Fourth year in a row, right? Second time at the Palace Hotel -- the lovely Palace Hotel.
+You guys have heard the story. Bill, I met you first in 2003 Sapphire. I think, May or June 2003. I came home feeling inspired, and I'm still inspired, and every now and then, I feel like I need a little bit of inspiration, I talk to you, and I'm back flying like an eagle, all over again.
+So thank you for the tremendous impact you've had on me and the industry and the impact you're going to have in the future of the industry, you're going to build this defining enterprise software company, the 20th century -- 21st century, sorry.
+So what does the future look like? What does Bill want to accomplish for the company and for shareholders in the next 4 to 5 years?
+
+Question and Answer
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+Well, Kash, first, I want to thank you and everybody here for having me. It's really an honor to be with you, and it's a lot of fun, and I get as much inspiration from you as, hopefully, I give you in return. So thank you so much.
+I came here, about to enter into year 5 of ServiceNow. I don't know where that all went. But there are 2, I believe 2 main forces that shareholders should be very excited about when it comes to ServiceNow. And this idea of these 2 waves of digital transformation are converging at once.
+One wave is really the great reprioritization where companies are now really leaning into platforms that matter. And we have proven, we are one of those based upon our long-standing track record of winning results. Think of us as the UX layer for the enterprise. And I do repeat, nobody has to lose for us to win. We reside above the mess, we clean up the mess, and we make the mess more efficient. So that's one major wave.
+In the consumer application world, they're all looking for super apps. So I want you to think about this ServiceNow platform as a super platform. Great reprioritization. We're going to win it all.
+And then on the other side, this other wave that's coming and converging with this idea of one UX with the enterprise is obviously AI and gen AI in particular. And what's super cool about what we are doing is we are composing LLM models that are domain-specific and targeted specifically for the ServiceNow platform. And that gives us an advantage because we've had that data in our control for 20 years and never leaves our platform and customers have a lot of confidence in the reliability of that data and what we're able to do with it.
+So my goal is to make ServiceNow the super platform for the enterprise. Where, if you think about people, processes, data and devices, it can all converge on this super platform for the enterprise. That's what we want to pull off in the next years.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Awesome. Fantastic. So a lot of how you're able to accomplish this in the future will depend upon the lessons you've learned in the last 4 to 5 years.
+What are the things that you've learned in your -- during your tenure at ServiceNow? You've managed through a downturn. We had the big surge in business because of COVID, et cetera. We went through high interest rates, low interest rates. What are the lessons you've learned from the past 4 to 5 years that you can apply to the process of scaling this company to where you want to be?
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+Sure. Well, again, I look at everything through the Winners Dream. And when I came...
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+I love that book.
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+Yes, thank you so much, Kash.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+You should tell us a little bit about that book? What are the key -- if somebody does not have the time to read the book, which I highly recommend that you do. But what are the key takeaways from that?
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+Well, the key to Winners Dream begins with an early quote from the great Robert Kennedy, when he said, "Some men see things as they are and say, why? I dream things that never were and say why not?" So through all of my business experiences, whether it was a teenage entrepreneur or coming into the business world, knocking on cold doors for living in New York City at 21, to today, it was always about a great dream that was put together with amazing people, that's including your employees and your customers. And we never lose sight of who we work for. We work for the customer.
+So I think the big idea in ServiceNow and the track record over these years has been really to focus single-mindedly on transforming customers and their businesses and being ever loyalty -- ever loyal to them and the innovation that we are creating for them. And that innovation happens in geographies, it happens in industries, and it happens in personas, but it happens at mass scale. And that's why it all started with the Winners Dream to be the defining enterprise software company in the 21st century.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+And you were using the Winners Dream to articulate the key lessons learned over the last 4 to 5 years. And I interrupted you by asking you to summarize the book. Sorry about that.
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+I think the big lesson is this, we have a great product. I think all great companies have to have a great product. And we have a wonderful engineering team, beautifully led, and we have a great product which is a platform. And the thing about platforms and this great reprioritization I am talking about is there's an app for everything. But nobody wants every app. They want to clean up the mess and invest in platforms that truly matter with consumer-grade UX and incredible capability to just get the job done.
+And so we moved heavily into focusing on our core which, as you know, began with IT, expanding that with the employee experience, which came in very handy when you think about COVID and getting Delta's 40,000 employees immediately activated on the ServiceNow solutions that we brought out in a week, or Scotland with millions of people on ServiceNow in COVID.
+So really this whole platform approach to IT, the employee, and think about customer service. It's much more than taking money out of people's wallet with a 360-degree view of their wallet. It's about the messy middle. It's about that whole back office and the customer journey on an end-to-end basis, which is why the customer service management solution at ServiceNow has scaled so beautifully. And now it's about what we've learned with engineers.
+Your company has thousands of engineers. Lots of companies have thousands of engineers, but we also have citizens that are going to develop apps. And the reason that they're going to develop apps is because there'll be 750 million net new apps built in the next 2 years, and there's not enough engineers to build all of them. So not only we have to service the engineer on text-to-code or text to workflow automation or text to new app development, but we have to do that for citizens.
+Just like you and I that work in the enterprise that have to build apps to get the job done so simply that it scales. And when you put all that together on one platform with one data model and one architecture that scales to infinity and beyond, you could become the super platform, which is what I've learned. And I believe strongly in our vision to do this organically that we would bet on ourself that we would cut the boat loose and go out to sea and believe that we could achieve it. And that has actually now been proven to be the right strategy and it's working.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Yes. And to your point, since you joined, the customer workflow has now gone up, I don't know, multiple times over. It's a $1 billion-plus business?
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+Multiple times over, it will be our next $1 billion-plus business. We could also say that for the creator. And what we've done now for the citizen developer and the engineers who are really catching fire on building net new apps on the Now Platform. But the cool part of all this is it's all integrated. 85% of the digital transformation story in the marketplace today does not deliver a positive ROI. And people say, why doesn't it work? Why can't we get a positive ROI?
+Integration. There's a 5-decade mess of multiple solutions, applications and platforms and operating systems and databases. And then as this release on the on-premise and this one made it to the cloud and the other one didn't, and what do I do with the upgrade? And is it co-located? And where should I put it? We got that mess under control with one UX and one steady platform that's expanding across the enterprise. And now that has caught fire and people are like, I'll start retiring the things that aren't adding value. I choose to invest in platforms, not 1 million points of light that never give me a positive ROI. So this great reprioritization is really happening.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Let's talk about vertical solutions. Your telco public sector, [fin serv], we've had countless examples over the past several years. At the same time, I watched with great excitement how you built the vertical solutions product line at SAP and how that gave the second, third inning and a new breadth of fresh air for a company that was contributing, right? Tell us about this vertical journey here, not just a go-to-market that is focused on salespeople selling telco, but the product itself is -- sure is verticalized. Tell us about the journey and the opportunities that ServiceNow has?
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+Well, thank you, Kash, for that question. Customers want solutions, and birds of a feather flock together. So if you think about an industry, there is the market-leading brands that want to transform their business on market-leading platforms. And then when one does it, many others tend to follow.
+So if you look, for example, you mentioned telco, AT&T uses ServiceNow for their 5G strategy, their digital fabric strategy. We are their platform of choice to run their business. If you look at JPMorgan, you mentioned financial services. They have a 99-plus percent improvement in their innovation rate. What used to take 32 days to bring to the market now takes 1.5 hours on ServiceNow. Plus they announced a $50 million savings on ServiceNow. I think that is per annum and probably conservatively at their Financial Analyst Day, we're honored by that. And Goldman Sachs is a great customer. Thank you very much, Goldman Sachs.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+We're deploying it right now.
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+You are. And you run ServiceNow for IT, your EX, your employee experience strategy and your customer service management strategy. And you have 7,000 engineers in Goldman Sachs, and I believe the creator strategy could be immensely important, especially with the combination of gen AI. And incidentally, one call out I want to put out there also for Goldman Sachs, which we did together with something called Welcome Connect because David and your company had a very strong vision to connect refugees.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+He's coming tomorrow, David.
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+It's awesome. Please tell him I told this story.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+You want to see him later.
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+Oh yes, that's right, tomorrow. So connecting refugees to their sponsors when they come to the United States from all the various challenges that we see going on in the world today, on the ServiceNow platform, we sponsored that together. It's just a beautiful thing. So I could also go on with manufacturing and health care and life sciences. So what is the reason for all this?
+First of all, if you want to be a market maker and a winning company and really dominate, you have to have industry-specific solutions to fundamentally rethink how industries win, help them see around corners and constantly innovate. But also you retain those customers 100% of the time, they don't leave you. And you easily get a 30% to 40% uplift in the industry-specific SKUs that those great companies use. So you get your baseline revenue from the horizontal platform, but the industry SKU on top, then gives you 30%, 40% and sometimes 50% uplift. And that's without the gen AI impact of these amazing use cases. I'm sure we'll talk about some of that later.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Absolutely, yes. We're -- I didn't want to make it just about gen AI. There is a core value of ServiceNow.
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+Yes.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+It is. Yes. Good to Service. The Knowledge User conference, you had a significant pickup in your pipeline coming out of Knowledge. Tell us about what's your view of the follow-through? Is that -- how is that pipeline growth benefiting ServiceNow as you start to execute the next several quarters?
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+Sure. Well, very important. We have an event we call Knowledge. Some of you come every year. It was in Las Vegas. Just in financial terms, there was 3 billion in pipeline that attended. So people that have an interest in our company, 3 billion. After the event, we had an incremental net new 0.5 billion created at the event. So that's how we measure things.
+Did we get a net new ACV kick out of the event? Yes, we did. And we explained to the world what our innovation plan is, what our road map is. And I was especially moved by the fact that Jensen Huang himself came from NVIDIA to announce, along with ServiceNow, the serious partnership we have with generative AI building LLM models specific to the ServiceNow platform, and we're very honored by the partnership with NVIDIA.
+And I think that was a really beautiful moment because the next day, when NVIDIA announced earnings, they went up $185 billion. And I was very certain, it was all because of the keynote at the Now Knowledge conference. So it's really -- it's super cool just to see customers dig in with us. And really, the highlight of the whole event was gen AI.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Next year, we want him to come back to your conference and have your stock price go up.
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+Yes. Absolutely, it could happen today.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+So on that, and since you brought up generative AI, what does the product roadmap look like? And I know you got CJ, the best in the business, working on things. So what were the new opportunities you uncovered as a result of having Jensen over and developing your own LLMs, et cetera?
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+Yes, I believe CJ is the best in the business. I believe our engineering team is second to none. I really do. And we have been very committed to that team and really built that team, and it's strong, and it's incredibly resilient. But what we wanted to do is really build things and showcase what we have done.
+When I first came into the company, you might remember, we acquired a company in Montreal, Canada called Element AI, and it was not for the revenue. We haven't bought an ounce of revenue. It was all about the data scientist, the great engineers, the incredible workforce that is in Canada around AI and a Turing Award winner in terms of the founder of the company. And it all came to ServiceNow at a time when people weren't even talking about it. And we started building large language models specific to the ServiceNow platform with NVIDIA then. And we've been doing it for 4 years plus with NVIDIA and even more than that with ServiceNow.
+So we're not dealing with wet paint. And we were announcing AI with our Pro version several years ago, if you remember. And our Pro version of our platform actually sees a 25% uplift in the pricing power that goes along with AI. And now on September 20, we have a release called Vancouver that is going to unleash lots of innovation in AI, in IT, in the employee experience, in customer service management and of course, in this creator for the citizen developer to text-to-code, text to workflow automation and text to new app development, which I think will be a sensation.
+This is also going to culminate with the sales force of ServiceNow turning on because we have lots of bandwidth now to talk to customers about, not to mention the 150 Lighthouse accounts and 100 beta customers we now have experiencing LLM models on the Now Platform, 100 beta out there right now. And so we are not constrained by the demand, let's put it that way.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+And what are they saying? What are the early results like?
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+It's amazing because we're not talking about moderate improvement. We're talking about breakthrough improvement. So if you're an insurance company, you want to completely rethink the underwriting process on the Now Platform that has a pretty nice payback.
+And all these industries have their own scenarios, and that is what we are working on. But again, specific to the Now Platform, because when you work with that data and it's controlled in our cloud, it consumes a lot less of the params around GPUs and so forth that you would compare it to a ChatGPT in the consumer world.
+So this highly controlled, highly reliable, with great results and great ROI, and that's why our customers are excited because we're not trying to be all things to all people. We're trying to be the best version of ServiceNow. And this might just be the iPhone moment not just for the industry, but in particular, for ServiceNow.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+We had our Chief Economist, Jan Hatzius here yesterday, and he has been making the call that it's going to be a softlanding, and he's been right so far. And we have -- we just developed a term called software landing. It's very proprietary to Goldman. I am curious to get your thoughts.
+Jan's been -- Jan's lowered the probability of a recession from 20% to 15%. And the world economy seems okay from his perspective. Rate increases probably are down for the most part, maybe we have 1 or 2 more. What does that mean for ServiceNow in calendar '24, after going through a period of deep instability, uncertainty, waiting for the recession that never happened, what could life look like in '24 if things stabilized?
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+Yes. Well, I think we've proven that we're an all-weather company because we've operated in difficult conditions, whether it was COVID, the war, the various economic scenarios around inflation and interest rates and all the other crosswinds that you can think of, and we performed very well.
+What I see happening is the market is looking good, and it's looking better for '24 than it did for '23. Because in '23, you're still burning off '23 budgets, and disproportionately, I think we're winning our fair share of that. But in '24, according to the experts like IDC and others, IT budgets will double. It will double.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Double in 1 year or...
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+Double in 1 year. So you're talking about a 3.5% IT spend going to 7%. Now let's layer some more interesting data on that. Platform-as-a-Service was forecasted to be 30% this year, and Software-as-a-Service, 17% this year. If you start putting increased budget on that, we would then probably be not just in the best neighborhood, we'd also be on the best street. And then you can determine if we're the best house on the best street. But in all those scenarios, spend is going up.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Yes.
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+The other thing I'm pretty sure of...
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Even 3.5% growth rate going to 7% growth rate?
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+Broadly, yes. And then platform and SaaS going up way more than that. But then the other thing I'm seeing out there is the customers are saying, where am I getting more budget from other departments to put in to my gen AI initiatives?
+No CEO wants to walk into the boardroom, and when the Board says, gee, what are you doing about AI? Like what's your AI strategy? And they don't want to really be in a situation where they don't have one, and they're not going after it because everybody knows, this is the moment. And if you missed this moment, you could miss a market, you might actually miss being a competitive entity if your competition moves faster. So there's a race that's going on right now. And decision-makers are leaning in.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+That's exciting to see that because I've wondered, why are we going to get that 15% more, 20% more? But not everybody gets their AI products will be funded at the same rate.
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+That's why I say the great...
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+And I've had questions from investors, who is the AI loser? Which company is not going to be able to get that yield?
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+Well, I think again, I go back to these 2 waves. Please think about this great reprioritization and the move from operating systems, databases and on-premise applications to cloud-native platforms. That's number one.
+Number two, once the customer has determined that, they know they're going after the AI revolution. And we believe, as the first mover in the enterprise SaaS PaaS market, aside from the hyperscalers, I don't see anybody that has a better platform to capitalize on this moment. And you say, well, why is that? Because if you're in a single-threaded category, you can build single-threaded applications for that category, and you'll do okay on that. But we're the platform that goes across all of them. And therefore, our lion's share of the wallet spend should be, in relative terms, quite nice.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+I know that we talked a little bit about Pro Plus and the price uplift you get on Pro Plus. And immediately, it drew some questions, can you really do this? Yes, we get a discount. But can we really get 30% more lift? So if you could just enlighten us on the value that the customer is going to be getting in return for the Pro Plus to deserve its pricing...
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+Absolutely. So the main thing is keep this in mind. We don't want to do anything that's not in the customer's greater interest. So all of these use cases have a great ROI, and the customer is getting much more than any share that ServiceNow would extract out of the value of these ROI cases. So it's all about the customer, and not for a single second do we think we can put a product on the market that we charge too much for and the customer didn't get the value out of it. It would be a waste of everyone's time.
+So what we're seeing is in the SKUs and the use cases and the betas we're running, the reliability, the leverage the customer is getting is immense. And therefore, we feel very strong that there'll be more seats, and there'll be more value per seat than even our Pro version was when we first introduced it years ago. And we have a very thirsty market for this innovation. So it's all coming together at the right time.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Your view that AI is top of mind for your customers is shared by many of the CEOs that have been presenting here for the past couple of days.
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+No doubt. This is the AI -- this is the moment. This is the iPhone moment for the enterprise. It really is the iPhone moment for the enterprise. And I think uniquely, if you can connect people, processes, data, devices together in a holistic solution that's relevant to industries that serves the greater good of the personas that are operating in these companies and you have a company that's already operating at scale, you have Vancouver, but we'll release more AI solutions in Q4, too. And then we have Washington that's coming out in Q1 of next year.
+The thing that I have to give a shout out for is the incredible work ethic of our team at ServiceNow. They are working tirelessly to bring this to market for our customers so our customers can serve their customers. And if you think about the partnership with NVIDIA and you think about the ecosystem effect of ServiceNow and a willing ecosystem also participating hand-in-hand with us, shoulder to shoulder with us, you'd be really impressed.
+Yesterday, I was at our office in Santa Clara. We expanded a couple of new buildings in our office. So you're all welcome to come any time you want.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+A new building? That's great.
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+And the place is packed. People are fired up. And they're hard-pressed to get that innovation out the door, and they know that the pressure is on because we're pushing, but they're also proud of their work.
+Another thing I've learned along the way in the enterprise business is our people come to work every day, and 100% of their time is spent on building the next great thing. That's awesome because engineers don't want to consolidate the past. They don't want to work on all the boring stuff that the past brings with it. They want to come to work with new ideas and new ways to do incredible things to make a difference in the world. And because of our strategy and our platform, that's all they do at ServiceNow.
+And something we don't really spend enough time on, I want to give you the [indiscernible] on it, you see the 99% retention rate for our customers. The retention rate and the happiness of our employees is off the charts. We absolutely have the best retention rates of any enterprise software company in the world. And that's especially important with engineering and also go to market, so you never break the covenant with the customer, but it's true of all functions. And you can see that not just in the Glassdoor ratings. We're not being -- not just being in Forbes, Most Admired Companies, which is great and Fortune's, too. It's really in the hearts and the minds of the employees and the proud swagger that they carry to work every day.
+But the thing I always remind them of, we're never going to be anything, if we don't remember really the essence of where it all began. And we want to be the company that Fred Luddy built, the company that's hungry, that's humble, that's ever focused on doing the right thing for the customer because that's who we're all working for. And I really do believe we've embedded that deeply in the culture, and we don't miss an opportunity to reinforce it. Example was yesterday, and it was really a thrilling day for me to just see so many happy people. And when you got a happy company, you could do a lot of great things.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Exactly. Like you made me happy 20 years ago.
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+There you go.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+I was about to give up on the sell side. I mean, what -- you know, software is dead?
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+We had a pretty good run.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+I know. Yes, it was a fantastic run. So on that note, anybody with a question? If you can raise your hand, we will try to get a mic over to you. We've got about 4 minutes and 30 seconds.
+I don't see anything.
+So as you guys make up your mind, I had one for you, Bill.
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+Sure.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+The effect of generative AI on the labor market has been widely debated. Doomsday scenarios have been predicted, and some have predicted otherwise, that it's going to empower us even more. So we'll have a more empowered workforce, more intelligent workforce. So the cost of knowledge comes down, so we'll be able to spread more automation. Where are you with -- especially with your 100 customers that have been trying out the product, are they coming to you and saying, no, we're going to get rid of a lot of people because it's tough -- automating or are they seeing other things?
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+I think that there are certain functions where automation, by definition, will create a change in the workforce. If you think about a call center agent and the repetitive tasks that they do and just how impactful AI can be, I think you might have less people doing a certain thing. But there'll be more money left over for companies to reinvest and do great things, whether they're going to build great products or provide better services or expand their team in general. So they're more profitable, exciting companies than doing things that are soul crushing for the people that are in those jobs, they turn over, in some cases, 40% a year anyway. So I think that the people would rise up and be super happy to do something different, to be retooled or reskilled.
+A lot of these jobs are so soul crushing. If you just talk to the people, they'll tell you that. So I'm a big believer that it is not going to be a reduction in headcount idea. It's going to be an improvement in human productivity and growth mindset. And I think companies will use this as a weapon to move out and move forward and not have to send out the quarterly note. There's no doughnuts, don't drink the water, and please, whatever you do, don't travel to see our customers, we got to save money. I think we're growing a growth mindset again.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Yes, yes. That's great. And one of the things that I thought about, which I'm sure you've thought about. And in fact, Jensen, when he presented at your conference, the value of data. And when generative AI just exploded on the scene, there was this initial view, oh, this is disruptive. It is somewhat disruptive. But then quickly, people realize that these things need data to train, and who has the data? You have the data. So tell us about how valuable the data is?
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+Data is hugely important because if you think about customers, first of all, a lot of the consumer data and the hallucinations that go along with it and the security risks and so forth are not problems that we're managing because we're dealing with enterprise data, the customers' data. We've been working with that data and the customer for 20 years. So enterprise data is one really big advantage that we have.
+The other really big advantage that we have is we're one platform with one CMDB, and that architecture is a massive competitive advantage for protecting that data. And the way we run our cloud, we do not co-mingle any customer data. So that customer's data is their data. It's highly secure. It's highly refined. We've been working with it for a long time. And all the use cases that we have are specific to the Now Platform and specific to the customers' data. So I think that is a very important point that you're making. And I would not want to be in this business if we didn't have our own CMDB because that data is a competitive advantage for our customers, and we can operationalize that data in new and magnificent ways for our customers. So that's one big thing.
+The other thing is we will have far less GPU consumption. It will be with NVIDIA, by the way, but far less consumption because of the controlled environment and the controlled use cases that we're working with. So it's not a whole bunch of interconnected GPUs dealing with highly complex models that are extremely costly and a real drag on the cost and the CapEx and all the things that people worry about. We're in a privileged position. And I think that will show not just in the revenue growth, but also on the margin profile of the company.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Got it. On that note, I like the rocket ship analogy that you had in your Analyst Day. So I wish you guys a safe take off and a safe landing...
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+Thank you.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Coming back to this amazing opportunity that you have in front of you.
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+Thank you.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+So I wish you all the best, and thank you for coming to the Goldman Sachs conference, and we'd love to have you back again.
+William R. McDermottServiceNow, Inc. · Chairman & CEO
+Kash, I want to thank you. And also, I want to thank you all for your time. I mean you could be in a lot of different places and this room is really crowded today, and it means that you're interested in our story. And I'm honored by that. And we're going to work our hearts out to make sure that we are the defining enterprise software company in the 21st century. And we're just getting warmed up. That's a promise.
+Karl Emil KeirsteadUBS Investment Bank, Research Division · Analyst
+Thank you very much.

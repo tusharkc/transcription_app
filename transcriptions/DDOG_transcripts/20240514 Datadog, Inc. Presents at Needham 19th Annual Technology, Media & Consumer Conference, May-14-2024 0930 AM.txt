@@ -1,0 +1,221 @@
+Datadog, Inc. Presents at Needham 19th Annual Technology, Media & Consumer Conference, May-14-2024 09:30 AM
+Event Details
+May 14, 2024
+7:00 PM GMT+5:30
+Corporate Participants
+David M. Obstler Datadog, Inc. · Chief Financial Officer
+Conference Call Participants
+Michael Joseph Cikos Needham & Company, LLC, Research Division · Senior Analyst
+Event Transcript
+Revised May 14, 2024
+
+
+Prepared Remarks
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+All right. Perfect. We're live. So my name is Mike Cikos. I'm lead analyst covering infrastructure software here at Needham. Thank you for joining us at today's TMT conference. Pleased to announce that we have the CFO from Datadog with us. Thank you, David.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Thank you for having us.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+It is going to be a 40-minute fireside. I have a number of questions on my side, but I do want to leave some time at the end for you guys should you have any questions you want to lob in. But let's try and make this as interactive as possible. And thank you again for joining us.
+David, we're right on the heels of the Q1 earnings season. I don't feel like it never ends as far as earnings season.
+
+Question and Answer
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Exactly, yes.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Just to start put some parameters around it, can you provide a quick update on the company's most recent earnings results? Quick highlights from that.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. Some of the highlights were, I think, we talked about the organic growth rate, which is related to the press or not press of optimization, where we said that the organic or same-product growth rate in the first quarter was higher than any quarter since Q2, Q3 of 2022. That indicates the second theme, which is the press of the optimization, particularly for the larger customers, has continued to abate. So that's the reason why the organic growth rate -- the principal reason it went up.
+We talked about the fact that we continue to see clients get back to work, get back to workloads in migrating applications to the cloud, which is what triggers our revenues. Some of the themes that we talked about were seasonality in Q4 to Q1. Despite the fact that we had the largest ARR or adds, the sequential growth between Q4 and Q1 is always lower because of the linearity, where the fourth quarter is front-weighted because of the December effect of holidays, which we had talked about. And the first quarter is more back-weighted, more normal in linearity, which causes that pattern. So the business put on a lot of ARR.
+In addition, we continue to have solid new logo growth. One thing that is talked about quite a bit, we'll talk about here, is the impact of AI, where we'll spend more time. We gave a metric about customers that are tools providers that are increasingly using Datadog. But I think we said, and this is echoed by a lot of other software companies that, for the most part, AI injected into applications -- production applications is going to take some time, and a lot of the work is more internal and sandbox, et cetera. So we can talk more about that.
+In terms of the P&L, we continue to have strong results, strong cash flow, strong operating profit. We did say we're in investment mode, trying to ramp up our investment during the year. We could talk more about that. And I'm sure there will be a question and we can talk more about the seasonality between the fourth quarter and first quarter in billings et cetera, which caused changes that don't affect our revenues and need to be looked on a weighted average basis but are the source of much question from investors and analysts.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Awesome. I think you just teased every dimension...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, we go [ Dog ].
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+You could just go...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Exactly, exactly. Yes, yes.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+You can just go for 40 minutes, I think.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+I left you some room. I said, we'll go into some of these things...
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+I appreciate it. I appreciate it.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+So I did, yes.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+So coming back to like one of the other things that we heard coming out of this quarter as well, hoping you can shed some light on, but a lot has been made out of the extra day in 1Q related to the leap year. Can you explain whether this was a benefit or the materiality of it from a revenue standpoint to how the March quarter played out?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+So a portion of our revenue is, mainly in the logs area, Synthetics, have to do with usage consumption uses. A number of our other products are based on high watermarks in a month or other types of metrics. So it has some effect to the positive not material. But one has to look at the -- within the quarter or any quarter, this applies to any quarter, essentially, number of weekdays or workdays is a positive. Number of weekends where people aren't working is a decrement. You have to look at holidays and when they existed and whether that means people were back to work on a certain day or not.
+So it's not a significant thing within the scheme of all of that. And we would be talking -- if we did that, we'd be talking about that every quarter because there's that effect every quarter of plus or minus based on the number of, I would say, work days in the quarter.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Great. And we've gone through that same exercise. It's a days adjusted basis for folks.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Days, exactly, yes.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Exactly.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, exactly. Days adjusted including -- you'd have to have -- and we do it. We look at it essentially as weekends. You have to look at also where the holidays were and what happened just whether they were on Thursday or Friday, things like that.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Okay. And then I guess, a couple of different elements. If I start with the positive first. I think one of the things that kind of surprised people which is the, how strong the RPO growth was on a year-over-year basis, right? 52% on RPO. cRPO is up low 40s. Given those dimensions, it's kind of tough to dismiss how strong those pieces are to the story. Can you help us think about why that might be less relevant versus -- I know you continue to point people towards revenue trends on the consumption.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Of course, revenue and ARR. Yes. So that has to do with commitments and contracts. We don't recognize revenues based on the commitment, we recognize it based on the consumption with an underpinning of the commitment. So if they don't use the commitment, it gets recognized. So that can be quite variable and needs to look at -- needs to be looked at overtime. Sometimes it could be quite a bit higher than the revenue growth, sometimes lower. And we try in each quarter to basically reflect that.
+In the fourth quarter, we talked about the fact that we had, a, the normal seasonality of more intense commitments or contracts in the fourth quarter. Plus, we had client demand for 3-year contracts, which was higher, which took the RPO up. Now you might ask what about the cRPO? That also created a contract duration within that 1 year and also complemented the cRPO. So it's both of those things.
+So I would say duration plus timing in the year. It doesn't mean it's a bad thing. Long term, the cRPO and the revenue sort of converge, and it really depends about something we don't -- that you have to compute, which is the micro-duration movements sequentially and year-over-year.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Got it. And then just to be upfront about it, but on the RPO or cRPO, I think you guys have cited those multiyear commits. So when we look at the RPO and the strong growth there, is there a change in customer behavior? Should we think about that RPO growth as reflecting customers' willingness to consolidate on to Datadog is the first question. And then I have a follow-up on that as well.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. It would be not just consolidation, it would be commitment to Datadog. So if essentially -- our pricing is essentially unit base that has a discount structure based on volume committed to and some, not a lot, of multiyear. So it would mean that clients are committing longer to Datadog. Sometimes that involves consolidation, sometimes that involves more of the same product they're using. So it could be either way, but it does reflect increased long-term commitment from clients to Datadog.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+And there's no additional incentives when I think about what your market team is going after? There's no additional discounting to try and drive that behavior today versus where we were 6 months a year ago...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+No additional discounting. The discount -- the discounting maintains, which is, I would say, similar to what you might see in the software industry, which is just based on volume, and there is some based on commitment or term. It's -- I think we're -- you can see from our gross margins, and you can see from our pricing, which has been stable, we're very disciplined around it. But there's nothing in the compensation system that says, you get paid one thing for a 3-year deal and one for a 1-year deal.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Understood. And impressive in the macro too. I think if I shift -- let's cut RPO and cRPO for a second. Let's go towards the [indiscernible]. I know a lot of people were looking at the billings only growing 21% in Q1. Again, why is this less of a determinant when thinking about how the company is performing?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. So that has to do with the seasonality. So if you look at billings -- if you're just looking through the average growth over time, you'll see it's around 29% and revenues were 27%. So what that will demonstrate is that billings will sort of move around both sequentially and also when it is during the year because our economics are not determined -- our cash flow is affected, but our economics on the revenue side are not affected by when the bill goes out because of the consumption model.
+So you commit and you -- so essentially, that moves around based on what happens. It doesn't matter to us whether contracts are sent out, the bill is sent out on December 30 or January 7, but it does affect that variation.
+So sequentially, you're always going to see a spike in billing. And we say this all the time in Q4 just because of the contracts, commission plans are off in aggregate for the year. So there's a lot of activity, as you would see, clients making commitments for next year. All of that produces higher Q4 billings. And then Q1, there's less of that. And it happens, I think, if you look in our reporting pretty much every year.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Awesome. And if we, I guess, shift gears over to consumption, right? So 1Q consumption trends were described as improving from Q4, more similar to the strength that you guys were observing in 2Q or 3Q of calendar '22, right? So first question is, was that strength in line or stronger than you guys had anticipated? And how have the consumption trends played out thus far now that we have April in the rearview?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Well, we essentially have been saying to back up that. Starting in Q2 of 2022, we began to see clients start to optimize. But optimization takes time. It's a process. So you will see the carryover from the previous quarters. And then it began to become more intense.
+The time series indicates so far that it peaked in the second quarter of '23. Now, we'll see what happens going forward. So that would indicate that you were here. You started to go down, but you didn't go -- it doesn't go like this, it goes like this. And then we were flagging in the last couple of quarters that we saw it start to lessen, and we gave a number of examples, including the most intense optimizers. So that means it went down and it starts to go back up.
+So I think when the answer is, was it a surprise? It was. It was something we had flagged to everybody that we saw the -- I think we said the attenuation, we use a lot of words there, of optimization trends or something like that. So it continued back in that track of recovery. Why? Because we said that we were pressed on by the larger spenders and particularly concentrated in cloud natives but not necessarily only cloud natives. And we said in this quarter that our largest spenders exhibited the most organic growth, which meant that they -- these would be signs that they had gone through optimization, potentially even overoptimized a bit, and now they're sort of back on trend. So that was a complement, not a press.
+As far as -- so that's what happened in Q1. As far as April is concerned, again, all of this is so micro that we caution everybody that it isn't -- it's only at a quarter level that we can see really what's happening. Now April continued the trend of being higher than the previous April because April always has certain things about it. So you compare April to April, and it continued that trend of going up. But again, it's too micro to say anything more than what we said about Q4. Like we don't know any more than what we told everybody about the trends in -- sorry, Q1, I meant Q1.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Makes sense, makes sense. And I'd like to see if we can develop something and we're following your hands for those gradations to figure out...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+See, I'm doing it.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+If we could quantify that, right?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. I mean that whole trend of down and up, I mean, yes.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+I think...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+You wanted to do something new. He said he wanted to do some new things. So I figured that we would -- we didn't have a board, so we'll figure we'll do some curves.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+So we have 4 tailwinds now, right? We have consolidation, cloud migration, easing optimization and then GenAI, which we're going to tackle more towards the middle to end of this. But out of those 4, like what are you most excited about when thinking about this model in the near term now? Where are you thinking about as far as like nearest-term drivers if you're trying to think through those 4 dynamics?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. I think the biggest driver in the company would be -- biggest 2 drivers would be the resumption of what we think is a very long-term trend of modern DevOps. That's what we do. So I think that's the biggest long-term driver. We've now proven it's not going to be a straight line in one direction.
+And then the other is one we talked about, which is the expansion of the platform. And we gave a number of metrics around the product attached for the non-3 pillars. We gave a metric around products that have been created in the last few years. So those 2 are essentially the most proximate and, I would say, drivers, that could be complemented.
+We don't know enough to know the speed by a replatforming or a move towards modern applications that is accelerated by AI. That could be another factor that complements that thing. We don't know yet, and we're optimistic, and we see some activity. So that's another thing that we think could be a growth driver that really hasn't -- that's in very early stages right now.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Okay. And we've also seen, I guess, this historical, at least over the medium and long term, this correlation between hyperscaler growth and Datadog. I think one of the things that people were looking at this quarter is that, for whatever reason, that wasn't there. And I'm trying to think through why would there be that lag between cloud hyperscaler growth versus Datadog growth? Or when, again, over the long term that catches up but...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+And by the way, this is a convention that analysts and investors have used to summarize. It's not something that -- we don't have that, meaning we have -- at the core, we have modern workloads that are in the cloud being a driver. That's long-term correlated, but it's not going to be a perfect match. Why isn't it?
+First of all, those businesses are much broader. They have lots of things in it. And you'd have to know the parts of it that are related to modern client-facing apps. Also, we -- they may well have -- we don't know, but they may well have exposure earlier to AI because they may be monitoring internal apps. I think we have that with the office assistant. All of these things that we don't really attach to, we were attached to production client-facing.
+So there could be a mismatch there. There could be mismatch between the time that -- and I think you'll see that on the way down that the mismatch between the amount between putting a host in place and then getting monitoring in place. So there's tons of reasons why over a micro time, it's not going to match. But over the long term, the movement of applications to the cloud and delivering them in that way is a long-term driver in the business.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Have we seen a shift at all? When a customer decides to migrate to the cloud, historically that decision to invest in observability lags. Is customer behavior changing that cloud migration is now being more closely tethered to an observability spend? Or is there still that lag as far as how customers behave?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Still a follow-on because if it's not -- if you haven't basically secured the cloud capacity and built the application, there's nothing to monitor. And there's no revenues for Datadog until there's an application running in production on the cloud for the most part.
+So yes, there's always going to be -- we always called it a follow-on -- a quick follow-on. Yes, so there's -- it's never -- it can't be because you have to have and secure the host before you put the applications on, and then we monitor them. So there's always going to be a timing mismatch.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Okay. And on optimization, I know, again, big point of focus last year. Even this year, things continue to improve. I guess what are you seeing under the hood that gives you signs or reason for optimism as far as these optimization and headwinds abating or things are starting to shake free?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. I mean you have the trend that we mentioned of the most intense optimizers growing in a more programmatic way that indicates they're getting back to the business of growing applications rather than cost management. So you have that. The -- if you look at the cohorts, particularly large cohorts, you see this movement, that continues.
+I would say investors shouldn't expect that we go back to the bubble or caffeinated days, where things were being flung around. I mean you still have -- at this point, you still have a cost-conscious environment. It's just getting back to more sort of normal business practices of evaluating priority of projects.
+So I think we have the underpinnings of back to sort of normal-type behavior as evidenced by what I just mentioned of the organic growth rate of those types of customers. At the same time, given that the Fed has kept rates high, that there is still risk factors out there in the market. We still have some headwinds in the economy that have not abated completely.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Okay. And with AI, the company has also given us color as far as composition of ARR that's coming from next-gen AI customers. It was 3.5% in the most recent quarter. So can you provide some more color as far as what modules, what products those ARR -- sorry, those next-gen AI use cases are shifting towards within that Datadog cohort?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Definitely. It's the same motion that you would have across our customer base, meaning usually the infrastructure and then plus APM and/or logs is the core motion. And the reason is that what they're doing is they're offering a modern cloud service to their customers that has to have significant uptime and has the same sort of characteristics of delivery as our core cloud natives. So they're adopting it in a similar pattern in terms of the product mix and used in the same way as the rest of our customer base.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Got it. If I think about the product road map, during the Investor Day, you guys gave some stats: Cloud Security Management, 8% penetrated within infrastructure; AppSec, 14%; Cloud SIEM, 19%. What can you tell us about the customer cohort that has been early to deploy these solutions? And what are you guys doing to drive deeper penetration of those products?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, yes. Good question. So the products are still in bill, but like our other products, as there's more functionality and more use case, we're able to market it and put it out there in front of a customer more aggressively. So at the core, it is being used by DevSecOps. So it's been used by our traditional customer base. It's not right now a centralized CISO type of sale or use.
+So what that means is our customer base, based on their behavior in the platform, want to see more signals in the platform on what's going on with the application in real time. And so that's the way the product has been designed, and that's who are the early adopters.
+So they would be cloud natives. They would tend to be places that are more nimble and potentially have the CISO or the security function closer to the DevOps. So it really is an add-on to our normal DevOps or DevSecOps motion.
+And what we did most recently in order to try -- it's a sort of a marketing or packaging is to say, okay, you already have -- because all the customers already have our infrastructure or our APM is you add this on as a module, and that's the bundles we talked about. And so that's a way of trying to attach this in a way of this is another piece of that. And that's early days but shown sign of success. And that's where we're currently marketing the product.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+And the company has also evolved its pricing and gone through iterations on the different mechanisms that you guys look at. One thing is, I think, Cloud SIEM pricing -- the price changed back in December. Can you walk us through like what inspired that change?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Definitely. It's very similar to what we've done in a lot of our products, which we develop it with a client. We see how clients are using it. We float pricing, and we see how it's used. And in that case, the learning was that the way both the product pricing and functionality they need to be changed because in the security, the retention had to be longer because of what -- how you use a SIEM.
+And there's certain functionality in the organization of the work that needed to be there. So this is how we've developed all the products over time, which is we've often floated a price and then changed it over time when we see what the trigger is. And in this case, we learned from customers, we learned how they were using it. And we changed the pricing, as we always do, to align more with customer use and the functionality in our learnings to be, again, aligned with how customers gain utility out of the product.
+And it's -- we're optimistic. We think that -- in the SIEM, we think that -- essentially, we made some -- I would say, there were learnings and mistakes, right? So we used what we knew already and then learn, but there's been a lot of investment in the past year or so in the product itself and in the pricing. And we'll report, but we think we're in a place where we can be more aggressive in selling Cloud SIEM.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+What about the newer product that's still in limited availability. You guys gave the great stat on the earnings call. It's already -- despite being in limited availability, Flex Logs is already north of $10 million in ARR, right?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+So just for perspective, you had a product at that scale and still be in limited availability? I'm just trying to think about the hunger for this solution right now.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Interesting. I don't know the answer to that. We certainly have had very strong ramps of products before. But what that I think indicates is that we essentially learned from clients on how they use their logs and attempted and did rearchitect the pricing and delivery to separate out storage and compute, et cetera.
+And the reason why that ramped is with that limited availability is to a set of clients who sort of were most correlated with having their log bill or their log use moving in directions that may not have been optimal. So they -- it's great. They adopted this. So that's, I think, the reason -- we'll learn more as we go to general availability and see this with more customers, the overall fact. But I think the learnings and the reason we said that is that the customers that was really sort of the most appropriate for really liked it and really found utility in it. So we're optimistic about the future of Flex Logs.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Awesome, awesome. And IT Event Management was another one, right? So that was just launched last week. And if I'm not mistaken, it's priced on a per event basis. What has the early feedback been on the offering? And which -- I guess, when I think about the third-party tools, are there certain ones where customers are drawing to as far as how that integrates with other players out there?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. Of course, with the 1 week in the market, it's difficult to...
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+[indiscernible]
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+It's difficult to draw a lot of conclusions. I would call it early. But it's like every other product. We essentially looked at clients and how they -- and creating value. So we've always been -- and one of the reasons why clients want everything in this single platform and love Datadog is because we sort of make order out of the chaos of all these signals. And this is another attempt to do that.
+This is, I would say, not a consolidation play as much as a platform enhancement play for the use of Datadog driving more use into the platform. And because they're trying to organize everything that comes in and prioritize it and flow it into the right place. So this is not -- like a lot of people ask us, what about ServiceNow or whatever. This is about having the platform be a bigger portion of our clients' work day and that they get a lot of utility out of it. It's too early to know how this is going to manifest itself, but this was based on feedback from clients. And so they seem excited that we're doing it. But again, 1 week does not a product make.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+And I think with the IT Event Management, you guys have also been quick to point out that it is specifically focused on the DevOps persona, which you have been entertaining since existence.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Exactly, exactly. So I think there's a lot of -- and there's great companies out there that have done this type of workflow for different personas. So far, what we said is that this is about our users. And it could be that it gets to be a greatly monetized SKU. And it could be also that it creates more love for the product and the platform and helps clients use it more, everything that we're thinking. And I think it's -- when you go back to Oli and Amit and others in the thinking, all about like how a client uses the product and making sure that this is something that they're in all day every day in their work life, yes.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Bits AI was announced with the quarterly release as well. And so there's probably 2 things I want to touch on here. First, like what is the value that Bits AI is providing that Datadog solutions didn't have that you're now unlocking with this new capability?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. It's very similar. It's the product -- the platform becomes more useful. So if you can essentially use AI either to interact with the platform or as this evolves, understand more about what's happening in your applications, it means quicker remediation time frame. So again, this is all sort of based on client feedback, but it's a very similar theme, which is to have a client be able to do their job more efficiently and spend more time in the platform.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Can you help us think about the AI technologies as well? Like I feel like every vendor is trying to go through pricing. How do you price this technology? What kind of -- I guess, what do you extract from a monetization standpoint versus the value you deliver? So how do you guys are weighing that on -- internally on your side, right?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+We don't know. I mean we're going through it. We're spending time. We don't know. I think it's easier for us to, first, think about these tool vendors we talked about, they monetizing AI in similar ways to the way we've monetized clients.
+The next thing is a little harder to think about, but we're getting data points. That was the use of the integrations. So that means as applications are essentially being developed and using more integrations and there's more work, we think we're going to monetize in the same ways on infrastructure, hosts, logs, et cetera.
+And then there's another thing which is, are we going to see quicker and more aggressive modern application development? We think so. But again, these are all too early. So we, like a lot of customers, are thinking about this but don't have an answer to your question of how we would monetize.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Yes. And I know you guys gave us the metric on the earnings call too, something like 2,000 of your customers are using those AI integrations to that.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, using. And that's a good -- that's -- we're trying to indicate through these metrics that there's activity but also hold down the euphoria because we're all -- it's a process. And I think Oli said right up front that this is going to take some time. We're going to learn along the way, and we don't quite know how it's going to go, yes.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+And the honor of those expectations, right, I think one of the things -- and we're all just doing our monkey math, but if you look over the most recent 3 quarters, what we're doing on our side is you guys have outperformed your guide on revenue by $20 million over the last 3 quarters. And so when we look at Q2 in the guide that we have, those actually implied decel. Can you help us think why there is that implied decel? And is -- are we stuck at $20 million? I mean it's a high-quality problem to have showing my company's beat revenue by $20 million, but can it actually go on over time?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+I think, first of all, you have to understand how we always do our guidance, which is we always take the drivers and discount them. So there's always going to be a decel. There's very largely going to be a decel. So that's a good part of what we're doing here.
+The math of continuing the trend produces numbers higher than that, but we've been very clear to everybody that what we do, because we can't control the usage, we can -- we have good ideas about what's happening is that we take those trends and discount that. So that's the main reason. And we haven't changed that methodology since we've been a public company of discounting those trends when we provide guidance.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Right. That was probably one of the dominant topics that we got just given the net new ARR generation was the strongest in Q1 versus going back to 4Q '21, I think, you guys had said.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, definitely, definitely. Yes, yes, exactly.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+And then the other thing is you guys are within earshot, if I look out over the next couple of years, of $1 billion in cash flow. So -- and you already have a significant amount on the sheet.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Definitely.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+So does that, in any way, change your thought as the CFO as far as use of capital and where you want to deploy that? Or can you help us think about how you're force ranking, where you're making your investments?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. I think it's a lot, but not a lot if you're able to identify a strategic M&A or something. It's like, yes, it looks like a lot. But it isn't a lot when you think about acquiring a quality company that's larger than we have. I'm not saying we're going to do that, but we want the flexibility to be able to consider that.
+And so I don't think we're at the point now where we're into additional capital planning promises to The Street. But we think it's good to have that flexibility to -- for strategic and investment purposes and are happy with where we are.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+And I have more questions on my side. I did want to be true to my word. Does anyone have any questions out there? Otherwise, happy to keep going. We do have a microphone in the back.
+All right. We'll keep going. Competition, just coming off the product road map questions, but there's been a lot made at -- we were talking about Flex Logs as an example, right? Is there any change in competitive dynamics given some of the M&A that's taken place in the observability market?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. The continuation of what we've seen, which is that a number of companies which we have been successful competing with and consolidating have decided to go private or be acquired. And so essentially, what's been going on, if you look at our growth, et cetera, is that we've been winning market share.
+And I think we talked a little bit on the earnings call that some of those companies try to be more aggressive in pricing, and it didn't work because we continue to consolidate. And so it's largely because the purchase is based on value or the product features. And so we have seen the beginnings of signs of sort of more discipline from those now that they maybe have debt or have gone private or things like that. But this is a continuation of a trend that we've seen going on for some time. And we'll have to see whether that accelerates that trend or maintains that trend or what.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+With those companies being acquired or going private as well, does that give you an opportunity from a talent perspective? Because I know you guys continue to aggressively invest in your head count. Are you seeing more churn out of those companies coming towards you? Or is it more of the same? Or do you just not want those folks?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Well, I think that it can go both ways, right? So when you've done things in a certain way that has won the market, you may not want all the way. But there are good people everywhere. So of course, we -- yes, the talent market, I would say, still competitive in a number of ways, particularly in R&D, AI, et cetera, but it has abated. I think it is an easier market. And we continue to recruit from a variety of sources, including companies that were competitors or companies that are specialists in AI or other software companies. So I think it's all part of the equation of not having as a competitive labor market in -- across the board as we had 2 or 3 years ago.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+For the hiring plans that you guys have this year, have you given any more color regarding where -- which departments or specific teams you're looking to build out within Datadog as you think about the future of the company?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+I think we gave color on -- a little bit on the call, which is we continue to have a very strong pipeline of R&D projects. So we are continuing to hire there, both in terms of the platform or growing the platform, the integrations and some of the new product areas that we talked about, security or cloud costs, et cetera, or event management.
+So we are continuing programmatically to grow there in sales and marketing, also in some of the newer markets, in some -- in places we really haven't built out to scale like Fed and government, in channels and things like that. So I would say it's a pro rata investment broadly speaking between R&D and sales and marketing that we're continuing, all sort of bottoms-up. So it's based on territories that have targets. It's all principled in that way.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Right. This is something everyone's watching as far as that correlation to ARR growth.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, definitely. We have over -- I think that we -- again, just like the market, we didn't -- and we said this all along, we haven't been able -- it's impossible to do like a straight line. So we said sometimes the ARR growth has gone quite a bit higher than the talent acquisition.
+Last year, we were more conservative. We pulled back. Now we think we are more confident and are investing more. And I think the right way to look at it is on a weighted average basis, when you look at it, are you sort of moving the talent acquisition to be at or slightly below the ARR growth, which results in uptick in margins, which we delivered over the years.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Yes. And maybe last question here, but just given how expensive the portfolio of solutions has become, has the ramp on those new hires in the sales and marketing organization remain relatively consistent? Or is there -- because again, I'm trying to figure out how you swallow all those different products from the market side.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+I would say it has -- it takes up to a year to ramp in enterprise; for commercial or SMB, maybe 6 months. I think the investments we've been making have been on complementary functions, sales engineering, technical account, product marketing, to help them to understand the whole products. But it's a challenge. I mean, as the product suite gets broader, you do have to -- it's not a specialist sales team, we think, because we're still selling to DevOps. But it does involve product experts that help them do their job. And so we've been investing in that quite rapidly for a number of years.
+Michael Joseph CikosNeedham & Company, LLC, Research Division · Senior Analyst
+Terrific. And with that, we'll leave it there. But thank you, everyone, for joining us. Thank you, David.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Thank you very much. Thank you. Thanks.

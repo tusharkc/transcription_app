@@ -1,0 +1,164 @@
+Dynatrace, Inc. Presents at Baird’s 2023 Global Consumer, Technology and Services Conference, Jun-07-2023 03:45 PM
+Event Details
+June 07, 2023
+3:45 PM EDT
+Corporate Participants
+James Martin Benson Dynatrace, Inc. · Chief Financial Officer
+Conference Call Participants
+William Verity Power Robert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+Event Transcript
+Revised June 07, 2023
+
+
+Prepared Remarks
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+All right. We're going to go ahead and get started. For those that may not know, I'm Will Power. I cover cloud software for Baird. Really pleased to have Jim Benson here, who -- probably, welcome back to the conference in a new capacity, I guess, but...
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+Yes, thank you.
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+Chief Financial Officer of Dynatrace. We have Noelle Faris here, who heads up Investor Relations, here as well. Dynatrace, of course, is a leader in the cloud observability market with a multitude of solutions. So thanks, Jim, for being here.
+We're going to jump into a fireside chat. And if there are questions from anyone here in the audience, you have instructions how to submit them, and I'll check the iPad to include those as well.
+So maybe just kick it off, for anyone less familiar with the story, perhaps you can just provide kind of a quick overview of where Dynatrace is today, the journey it's been on, and kind of how you think about the market opportunity?
+
+Question and Answer
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+Well, so you provided a good opening. So first, thank you for the introduction. So I've been with Dynatrace now for about 7 months. So I got lured from semiretirement I was in for 2 years and came back.
+And I came back because I was familiar with the space from -- coming from Akamai. It was actually an adjacency we were thinking of. So Dynatrace is obviously in the observability space, which is all about identifying where are there defects in software and then specifically, how do you go address those defects.
+So they're a leader. Dynatrace is a leader in this space. Dynatrace is unique in this space in that many of our competitors use dashboards. Think of it with min-max alerts with alerts firing red, yellow, green. You have a bunch of IT operations resource chasing down alerts and figuring out exactly where issues are.
+Dynatrace is a bit unique in it applies a level of automation. It applies a level of precision and analytics to identifying specifically what the root cause problem is so that you can go remediate the problem.
+So it's a leader in the space. It's been public now for about 4 years, about $1.2 billion in revenue, a unique breed of company that has focused on balanced growth and profitability since its inception.
+So it's not been a story of growth at all costs. It's been a story of consistent growth and profitabilities. 28% growth last year, 25% operating margins, 29% free cash flow margins. We had a little bit of a benefit of a cash spin, but call it mid-20s free cash flow margin. So very healthy, balanced portfolio in a really growing market space that we're excited about.
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+So you touched on this a little bit. You've been here since the beginning of the year, I guess, right?
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+Yes.
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+So what really attracted you to this particular platform to come out of semiretirement? And what have you kind of learned in the 5 months, positive or negative?
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+Yes. No, it's a great question. So a couple of things. So one, I knew the CEO. So I did know Rick McConnell. I worked with Rick at Akamai. So I had a little bit of a history. I generally knew the space. And I'm a big believer that more and more workloads are going to move into cloud environments. More and more workloads are going to drive an enormous explosion in data and complexity. So those were undeniable things for me.
+And to me, it was about -- well, is Dynatrace a unique asset and an environment that I know is going to grow significantly? I did my own channel checks on the company and really liked what I heard that it is a -- it has a very unique platform. There's certainly others in the space. So it isn't like as if we're the only one that provides observability in security.
+I think we do it in a much more elegant and automated way. And I've been part of companies where that -- there have been really, really great technology. And I think those companies, if they can figure out the go-to-market models or the models that win, and I think Dynatrace is in one of those positions.
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+Yes. So you've come on board. What are kind of your 2 or 3 key priorities, I guess, starting out as -- taking a fresh lens on the business?
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+I think that certainly before I joined, there was a -- one of the things I'll give the company a lot of credit for and the CTO of the company, Bernd Greifeneder, who's the founder of the company and CTO, is that using the analogy of skating to where the puck is going. He's always done that. He's always been very forward thinking and on multiple occasions has basically kind of rebuilt the platform.
+And so I think that there's been a tremendous amount of innovation that has been produced by the company. In our fiscal '23, which was last year, where we basically launched a new platform that we call Grail had a tremendous set of new capabilities. And in doing so, there's just a tremendous opportunity to continue to grow on that.
+So '23 was the year of product introductions. '24 is a year of product adoption. So a big priority is adoption, trying to get adoption of customers, leveraging the platform and expanding the use cases. So that's certainly a big priority.
+I think another big priority is scale, this work we need to do in the company around better scaling. I mean, obviously, the business at 25% operating margins scales pretty well. I'd say we have work to do to standardize things a little bit more, to make things a little bit more systematized, so to speak. So that's another key priority, trying to build the company to scale.
+And then I think the third priority is continuing to tune the go-to-market motion. We've been at that for a bit that we have a direct model, and then we sell through channels with the hyperscalers through -- recently through GSIs and with regional channel partners.
+And I'd say selling direct into regional channel partners has predominantly been the way the company has grown. A bit more recent with the hyperscalers and with the GSIs, early days with that. So those would be the 3 big areas, which is getting adoption of the platform, scaling the company and continuing to tune the go-to-market model.
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+Well, that's a segue. I know just a couple of days ago, you all had an announcement of a change in Chief Revenue Officer, previous CRO retiring, and you announced the new one. So I guess, something that was expected. How does that -- obviously, the potential will be there for disruption, right? And changes in...
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+It's a great -- it's a very fair question.
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+Yes. So how do we think about the impact of that?
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+So I think the way to think about it is you start with investors around -- we didn't specifically talk in the announcement about, hey, you didn't reiterate your guidance. Well, we didn't reiterate our guidance because it had basically been 3 weeks since we provided our guidance.
+So we knew this was coming. It wasn't finalized, but we knew it was coming. So that was embedded in our guidance. So there's no fear that is this going to be some disruption.
+I would say -- I'll use the phrase there's no there, there. Steve Pace has been a fantastic CRO for the company. Steve is in his early 60s. So it's not surprising with Steve kind of being ready for retirement. Very planful transition, I'd say, a very multi-month search.
+I'll tell you that I don't -- there's always a worry about disruption. I don't think you're going to see any significant changes in the go-to-market approach with Dan. Will he tweak things at the edge over time? Yes, there's nothing wrong with the go-to-market model. We're not fixing anything that's broken.
+There's significant overlap between Dan coming and Steve leaving. So Steve is not leaving until the end of Q2. So not really worried about disruption, to be quite frank, because Steve is still going to be here.
+And many investors today have asked me about, well, what appealed to the company about Dan? And Dan brings some attributes that are really, really quite positive. And one is Dan's history has largely been around large global accounts. So he did this when he was at ADP. He did this when he was at EMC. When he came to VMware, that's where he started, pivoted, he's now running the Americas.
+So he knows large global accounts. That's the customer set that we sell to. So he knows how they operate. He knows how they buy.
+Secondly, he's been involved most recently with VMware with a multichannel model that is very similar to ours but at scale. So they have a model that is direct. They have a model that is through hyperscalers. They have a model through GSIs and channel providers or channel partners that are in the region.
+So very similar go-to-market model, but he's seen the movie of scale. So those large global accounts, he's seen the movie at scale, which is of significant appeal. And he's got a very good operating style. So his culture will fit very well with the company. So I'm excited to have him join.
+Disappointed to see Steve kind of leave but kind of happy for Steve. And quite confident that there will be minimal disruption, that there's a significant overlap period, and there's no real expectation that Dan is going to radically change things.
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+Okay. All right. That's helpful color. Maybe just touch on macro optimization. Both, I guess, somewhat tied together. You talked about longer sales cycles for a while, but that's starting to normalize. I mean, any kind of change in kind of what you're seeing from purchasing behavior? And there's been a lot of ups and downs depending on the company as cloud optimization impacts. Maybe anything you'd preface on that front?
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+Yes, I would say for us that probably, the macro environment probably worsened into December of last year. So that was probably the peak of when we saw some significant scrutiny in deals, significant maybe views of expansions that maybe you thought were going to be a little bit bigger and came in a little bit smaller that I'd say that environment really hasn't changed well.
+It's -- for the last 5 months since then, the environment is still one of deal cycles are elongated. I'd say what's a little bit different is we are much better at operating in that environment. So I used the phrase, call the ball. Our sales organization is much better at being able to forecast the business, knowing that you need better pipeline coverage to deliver the bookings that you're -- that maybe you're driving for.
+So I'd say in the first half of last year, I think the sales organization was not accustomed to that. They didn't really quite know how to deal with an environment where deals were. So I'd say there was a bit of a predictability issue. I'd say the sales organization is well equipped now.
+So it's the new normal bit where I think people have kind of been conditioned. It's still an environment, though, that there is tight budget scrutiny. They're still buying. So the demand environment is still reasonably healthy. They're just buying at a more moderated pace.
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+Okay. Anything on the optimization front you're seeing as you look across kind of different capabilities you provide?
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+Yes. So I mean, I think on the optimization front, when you think about different companies that are affected by optimizations, you initially think of the hyperscalers, right? The hyperscalers were the first to talk about it.
+And you saw their business slow significantly as they help customers. Customers had moved workloads and hadn't optimized those workloads, and the hyperscalers started to work with them on that, and hyperscaler growth slowed.
+Companies and competitors of ours that were very tied to that hyperscaler growth and had consumption models also saw the immediate impact of that. We didn't really see that impact because we're not a consumption model. Our model is a commitment model.
+And so the variability that we've seen was more driven by deals, maybe being deal cycles being elongated and maybe deal sizes being a little bit smaller, not necessarily an impact of consumption trends whipsawing the business kind of growth.
+And then I'd say the last thing on optimizations is that the benefit of the Dynatrace platform a bit is while we're affected by optimizations, there is a level of efficiency that we bring to the IT operations community. Because of the automation that we have built into the platform, your IT operations community can manage more productively.
+And so managing more productively means more efficiently, you need less IT resources. And so leveraging a Dynatrace tool set with that community has allowed for kind of improved efficiency. So think of it as it's cost avoidance. They don't have to increase their IT staff if they're leveraging our platform because they're not chasing as many alerts.
+So I think we're less affected because of not having a consumption model. And I'd say we're -- we have maybe a bit more automation. And so this automation has allowed companies to consider us as far as synergies, as far as leveraging our platform.
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+Well, let's maybe then shift to kind of platform -- the automation capabilities. We'll get to Davis, et cetera. Maybe just starting with Grail perhaps as -- what is it that Grail brings to the organization into the broader platform maybe that you didn't have before? And how does that kind of compare to perhaps some of the competitors in the market in terms of capabilities it might enable?
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+Yes. So I think what we had before was obviously, the roots and history of the company began in application performance monitoring. So I'd say having a data construct that was unified within the application infrastructure platform was something that existed on the kind of, I'll call it, the existing platform, not the Grail platform.
+What you get with the Grail platform is in addition beyond application and infrastructure data, you can now get traces, routes, logs, real user measurement, metadata. This is all incremental data points that using the Davis engine can map the topology of a customer's environment in context.
+So there's a much richer set of data to be able to leverage. I probably should have mentioned logs as well because logs is a new area that we believe that with the Grail capability, our ability to ingest and store logs can be more economically beneficial to customers.
+We can do it at a lower cost. We can charge customers less for that. And so these are a lot of tremendous benefits. Now we've been at it, Will, for 6 months. So we have, I think, a little over 300 customers with POCs.
+We've won some business. We actually did win a 7-figure log, like only land recently in our fourth quarter. So we're getting traction. But as I said earlier, one of the big priorities is a year of adoption. And so we need to do more work around driving adoption.
+And I'm sure one of the things we might talk about is we have a new contracting vehicle that we've announced with -- that we call the Dynatrace Platform Subscription, which is basically a way of customers to better leverage the Dynatrace platform. So they commit to a dollar amount over a 12-month or a 36-month period. And they get a rate card, and they get a rate card that can leverage the entire platform.
+And so there's no more, well, I want to buy this module or that module or this module and that module. Commit to a dollar amount, rate card. So it's a dollar commit with a consumption drawdown.
+And so it does have elements of consumption in the sense that you can leverage the platform. But for the customer, it's a commit model. And what we've tried to build into the platform is a level of predictability so they can see, oh, I'm burning through my commitment early.
+So we're providing early warning indicators in the case customers want to maybe modulate or they're okay with that, and they want to maybe renew early. So I think there's a bunch of things we're trying to do with the platform to get broader adoption. And we think having a better vehicle for customers to buy from is one of those.
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+So you already answered part of the question, I guess, on that. But on...
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+Happy to talk deeper about it.
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+Yes. What are you seeing in terms of customer interest and adoption? And what are the use cases that folks that are using that are taking advantage of?
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+So it's really early, Will. I would say that we've had DPS for a little -- probably 1.5 years. But it's been limited availability, and it's been with our largest customers. And think of limited availability is code for it was manual, right? You had this way of tracking a customer's consumption, but it wasn't scalable.
+But we did it on purpose. We did it to learn. We did it to learn. We tweaked the model. And so the Dynatrace Platform Subscription general availability has only been available for a month. So I'd say I couldn't give you a lot of history.
+What I can tell you though is our belief, Will, is that we will -- customers that will leverage the Dynatrace Platform Subscription model, our belief is expansion rates will be higher than customers that don't because it's a more frictionless way of leveraging the platform.
+You don't have to continue to re-contract. So we have a little bit of evidence from the 100 or so customers that are leveraging it today. Now admittedly, that sample is biased because they're our largest customers. But our belief is that expansion rates for DPS customers will be better than customers that are not on DPS.
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+And what are the incentive structures for sales that maybe you've put in? Was that part of the sales like kickoff timing would have been this year?
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+So we had a sales kickoff about a month ago. And there was a lot of training, as you can imagine. Because we had to be a little bit careful with Dynatrace Platform Subscription limited availability that we really wanted to be selective of our customers that we put on that.
+So there was a lot of training to the sales organization on DPS general availability. There's no special sales incentive, Will, that like if a customer doesn't want to buy DPS and they want to buy it through a kind of SKU-based model, they can continue to do that.
+So no special sales incentives. They're being trained on like how to sell it, like how to position it with customers. And like I said, we've been at it maybe 1.5 months. So I'd say early days, but I do believe that to give you kind of just to put it in some kind of numbers context, that our belief is over the next 3 years, the majority of customers will leverage the DPS vehicle for contracting. And so it's something...
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+That makes a lot of sense, yes.
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+Yes, it's something that we're going to measure. And it's something that we'll share with the investor community around how we're doing on that.
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+Okay. I mean, I guess as you think about kind of your core monitoring capabilities across APM and network, I know logs are still early. Are you seeing comparable growth across them? I mean, I know you've been in APM longer, I guess. So maybe network grows faster. But I mean, how do we kind of think about growth trajectory across peak capability?
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+You're talking about from an app -- from basically a module perspective?
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+Yes.
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+So I'd say application performance monitoring has been the mainstay of the company, continues to grow very, very well. I'd say infrastructure monitoring is growing at 2x those growth rates. So we've been growing very, very well in the infrastructure side.
+On the application security side, we have about 10% penetration of application security into our installed base. So good early traction, well on track to the goals that we kind of set that we said we'd probably be $100 million in roughly 3 years of ARR. So very good growth.
+And as you said that, early days on logs. But we are quite optimistic that logs is an area that there's a level of frustration from customers that they're not necessarily getting the value. They're paying a lot for basically ingest and storage.
+We think we can offer a more economical model for ingest and storage. And their ability to do query is cumbersome with existing solutions. We believe their ability to do querying with our solution is going to be it. So we think we are going to have significant opportunities in logs.
+And we've said that maybe it would take 3 years to get our application security business to $100 million. We think it will take about 2 years to take our log management and analytics business to $100 million.
+So I feel very good about the portfolio. I would say that I feel good about the go-to-market motion and some of the things that we're doing. So I'm cautiously optimistic that we have the right portfolio, we have the right differentiation, and it's just a matter of getting the go-to-market motion tuned to be able to address it.
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+Okay. I got a question trying to come in here, but it hasn't fully come through. So let's see if it comes through. And otherwise, maybe I'll see if the person wants to ask it fully. There's maybe a WiFi...
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+I thought you said he was going to come up here.
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+Challenge there. The Davis in automation, right, that's been a key area of differentiation in the market. You've been focused on AI for a number of years. What are the additional opportunities, particularly with all the discussion around generative AI, et cetera? What's the kind of thought process roadmap there?
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+So just to level set people, so Davis AI is what we call causal AI, which is basically a -- when you generally think about a customer's environment, a customer's environment is pretty complicated. And what the Davis AI engine allows you to do is to look across a customer's environment, understand all the interdependencies between different data points in the environment to identify potentially where there may be pain points for software that might not be working well, where software potentially needs to be inspected and tuned. So Davis AI is the underpinning causal AI engine, causal being kind of root cause, where is the specific root cause problem with precision for customers to go identify and then go remediate.
+We think the opportunity with gen AI -- gen AI, we announced at our Perform conference a few months ago, we announced our own version of gen AI, which was ChatDQL, which is the Dynatrace Query Language, which is our own version of kind of think of ChatGPT but using large language models that's paired with our Davis AI causal engine because one of the things with -- generative AI has huge opportunities for productivity improvements.
+And with the explosion of data, the complexity is going to increase. We think combining gen AI, which is an ability to query, with causal AI, which is an ability to -- so you have a specific data set to give you more precise answers, is the right sweet spot. If you combine gen AI with very generic data sets, you're going to get very generic and maybe biased answers.
+So we think there's an opportunity to combine and link gen AI with causal AI to provide better answers for customers, which allows them to query more. We monetize queries. So if they can get more precise in queries, we're going to get value from a monetization perspective. They're going to get more value in getting the specificity and precision in automation that they want.
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+Okay. So we've got a partial part of this question that's come through, asking if you could talk about OpenTelemetry, kind of what that is and the opportunities. That's the part of the question that I can see.
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+So OpenTelemetry is effectively an open standards tool set. We integrate with OpenTelemetry. So the Dynatrace platform integrates with OpenTelemetry, but OpenTelemetry by itself is limited. OpenTelemetry combined with and integrated with the Dynatrace platform and some of the capabilities that we have can enhance the observability landscape for a customer. So we leverage OpenTelemetry, but OpenTelemetry on its own has limitations.
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+Yes. Okay. Yes, I think that gets to the -- what I can see from the question. Maybe just to touch on your numbers a little bit more. You've gotten -- guidance for the year. Maybe just talk about kind of what underpins confidence in your guidance as you kind of move through the year in what's still kind of an uneven macro environment and whatnot.
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+So I think someone said to me, geez, you use the word prudent a lot in our guidance. And I say that with a smile. But I think because we live in an uncertain macro landscape, we were cautious in the guide that we put forth to the investor community that you can imagine and I can assure you that our internal plan for the company is much more ambitious than the guidance that we set forth.
+Having said that, we think it's important to provide numbers that reflect what we believe is going to be a continued macro landscape for the remainder of fiscal '24, our fiscal '24, which would basically be for the next year for us. That expects a continued level of deal scrutiny, expects a continued heightened and elongated deal cycles and reduced deal sizes.
+And so our guide suggests that we're going to -- not because we think the opportunity is not there, but we're just cautious about customers are buying, but they're buying in a much more moderated way. And so our guide tries to reflect an environment that that's going to be the case.
+And I've told investors that obviously, we'll get another bite at the apple here after our first quarter and then after our second quarter to update the guidance. But we wanted to make sure we had guidance that we had reasonable confidence that we can execute against.
+The guide does reflect the continued balance of growth, even though growth has moderated from where we landed in '23, and profitability, that mid-20s operating margins, kind of a growth that's slowing but an environment that we will continue to try to drive more leverage out of the margin model.
+Now we're somewhat advantaged relative to our peers because we've had a pretty healthy margin profile when it wasn't very fashionable to have a healthy margin profile, as I mentioned earlier. And so we're in a good position. I think there's more leverage in the model, to be frank. But we want to tune leverage with opportunity.
+And we -- I think that the opportunity in the observability and security landscape is significant. And we want to be cautious about kind of driving too much leverage too soon and not being able to make the investments we think are required.
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+Right. Okay. We're actually down to our last minute. Let me just close with you're generating good cash flow, have a good balance sheet. Maybe just talk about priorities for use of cash, where M&A might fit in the landscape for you folks.
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+Yes. So we have about $550 million of cash. We have no debt. And you do the math on our guide, you're going to generate $300-plus million of free cash flow. So you say, all right, what is your -- I would say we will be modestly active looking at acquisitions but much more in the tech tuck-in variety.
+So I would not think that we are not going to do anything that is significant on the M&A side. But there may be areas of M&A where we could do an acquisition that accelerates a road map in a particular area. So some of the use of cash will be M&A.
+And then I'd say -- when we get to the point where I'd say cash is at a level that is beyond probably what we should be sitting on, we'll probably do something in the way of a share buyback. But we're not -- I don't think we're at that position yet that I think we want to be able to be opportunistic with cash, and I'd say we're not in a position where the cash that we're sitting on is excessive.
+William Verity PowerRobert W. Baird & Co. Incorporated, Research Division · Senior Research Analyst
+Okay. That's great. Well, for time, we're going to have to wrap up there. I think the company is available for a short breakout session if there are additional questions. So please join me in thanking Jim for all his comments.
+James Martin BensonDynatrace, Inc. · Chief Financial Officer
+Thank you.

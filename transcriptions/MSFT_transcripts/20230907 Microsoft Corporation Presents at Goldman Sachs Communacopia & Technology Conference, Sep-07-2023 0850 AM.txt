@@ -1,0 +1,233 @@
+Microsoft Corporation Presents at Goldman Sachs Communacopia & Technology Conference, Sep-07-2023 08:50 AM
+Event Details
+September 07, 2023
+4:50 PM GMT+1
+Corporate Participants
+Amy E. Hood Microsoft Corporation · Executive VP & CFO
+Conference Call Participants
+Kasthuri Gopalan Rangan Goldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Gili Naftalovich Goldman Sachs Group, Inc., Research Division · Research Analyst
+Event Transcript
+Revised September 07, 2023
+
+
+Prepared Remarks
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+This is an amazing conference. What do you guys think? And I wasn't lying when I said day 3 is going to be the best day. Don't tell that to executives that presented on day 1 and day 2, right, Amy?
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Exactly, exactly.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Amy, a little known trivia is that we should be saying welcome back to Goldman. Welcome back home.
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+That's right.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+You used to work at Goldman.
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+I did, a long -- many moons ago.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Many moons ago.
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+It was my first job. Well, not my first, first job, but like my first...
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+After business school or before business...
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Professional job.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Yes. Were we nice to you?
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Yes. I put some hours in.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Okay. That's very -- that's the ethos, it's hard work, yes.
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+I'm not sure how to answer that, Kash. But I put some hours in, learned a lot, met a lot of great people.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+I'm continuing the tradition.
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+There you go.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+So welcome to the Goldman Sachs Technology -- Communacopia and Technology Conference.
+I just want to start off with a question -- high-level question. So you and Satya have talked about 3 key priorities: maintaining your lead as -- in commercial cloud, investing to be ahead of the curve with AI and driving operating leverage at the same time you invest and you drive leverage at the same time. What are the things you need to do right in order to get all these 3 things perfectly on the dot?
+
+Question and Answer
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Oh, that's good question. I think for us, if you think about those 3 priorities, at some level, we've spent the past decade as a leadership team working to deliver things in parallel, right, whether that was growing our leadership to be a leader in commercial cloud and delivering what I think of as quite strong operating results through that period.
+And if you think back a decade, the third piece of that was investing to lead in commercial cloud. So it's a -- the tools and the execution are quite consistent. Now the second priority is investing to lead in AI instead of investing in the cloud transition. And in many ways, I think the skills, capabilities of the leadership team, the technical skills our teams have are far better than they were a decade ago when we started the first journey to make the transition to the cloud.
+And so I think when we talk about what does it mean to maintain our leadership in commercial cloud, it means continuing to invest and take share at every layer of the stack. When it says investing to lead the AI wave, it's both building the infrastructure but also the capabilities, the partnerships, the talent we need. And I think that's something that I feel good that we've been doing. I think it became more transparent to others that we've been doing it in the spring.
+And then the final piece, deliver operating leverage, I sometimes think it's a fancy way of saying continue to put your resources where they add the most differentiated value. The language we would use internally often is more that: what's the most important thing you have. And it's about where you put your talent and your resources toward growth and making those calls. And those are calls we're generally used to making.
+I think the pace of this wave, I think, is what's bringing some of the excitement that we see. And so I think with experience, you're pretty good at pace. And so I think that's probably how I think about it.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+And you've done this really well the last cycle, right? You've managed to not compromise the investments. What is driving the leverage? There's a playbook that...
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Well, I think there's a playbook. I think there's also capability. It's one thing to have a list of things that you should do, and it's another thing to have done them, built experience, built context, built the fabric, and more importantly, built the architecture that can be a platform that we didn't have a decade ago -- or more than a decade ago, I guess. I've been here awhile. And so I think that always feels good. And I think it's also you're -- we're more familiar with those types of transitions, and there's a lot of confidence that comes in your ability to make them, right?
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Yes. Very few companies have made the transition work, and you guys did it. I remember, Azure was something that we talked about in 2009 -- 2008, '09. It's not a new thing. It's...
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Well, I think I like to talk about it a lot more than you would ask me about it in 2008 and '09. But I think this is one of those things where -- people do forget, it's been -- that transition has been a long time to get us to this place where we are, as the leader in commercial cloud, and I feel very good about that. I feel good about the capabilities that the team has to deliver as we make this next transition.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Got it. So our economist, Jan Hatzius, has been calling for a soft landing. We call it a software landing. That's a Goldman Sachs-specific term. So it looks like the odds of a recession are lower than what the entire industry thought. So as you look at calendar '24, when you talk to customers, what is your collective assessment of where enterprise tech spending is heading at this junction of the economic cycle?
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+This question, I think I've been asked now for a couple of years in different ways. And I start by saying 2 things. Number one, we tend to be long-term believers in tech growth. And so we tend to say we think tech spending as a percentage of GDP will double, still believe that.
+And then the second thing we're pretty consistent on is that we should control what's controllable for us, and that's our execution and our focus on share gains and staying competitive. In a short-term period of time, it's best for me not to worry about the things that I can't control and focus a lot on the things I can, which is leadership, share gains, investment in the next cycle, customer usage, customer wins.
+And I think when we do that, and we've done that, I think, through other periods, it's always served us well. That focus on what you can control tends to lead you to far better outcomes than cycle spend on whether it's better or worse or the same than yesterday. And I think most of the nature of our relationships with customers is not about a day-to-day relationship. It's about fundamental transitions that they're trying to make in their infrastructure, in their business, in their applications, in their focus.
+And so if that's their focus and that's our focus, it tends to work quite well to not be so short term. And so I think that tends to be my perspective on this one. But I think lots of people who are much closer to it like to opine, and they should certainly do that.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+[ I love this ] fascination, what does next year's budget look like? Is it up or down? And then you get into the micro aspect. It's a cyclical thing. It's a structure.
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Well, you just have to be more -- I mean, I think in some ways -- I always say -- I mean, I'm a budget person.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Where did you get that?
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+I know. I mean I'm the only one that loves budgets. So I think if you stay focused on, wait, I want to be the most important thing no matter what the budget size is, you always end up in a better place. And that's something, again, you can control. We're working on the right priorities with customers.
+Are we the best positioned? Have we built trust? Have we built -- have we executed against that? Do we have great ideas to deliver value in the short term, right? Can we deliver great ROIC to a customer because on their most important thing, they've asked for help? And those things make you the top of a budget. And then I'm far less concerned about what is the budget.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Budget, yes. That's really well said. I want to move on just to AI. I'm sure you've never been asked a question -- somebody just woke up. Good morning. No, I didn't mean to say good morning. Can you -- this podcast you did with your CTO, Kevin Scott -- by the way, fascinating guy, absolutely fascinating.
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Very talented guy.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Brilliant, beautiful mind like our CIO. When you said this could be the quickest path to $10 billion, I was trying to do some calculations on a spreadsheet, trying to wrangle my brain about it. And I said, you know what, Amy -- let me just ask Amy what she meant by that. And can you give us a little bit more color on that?
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Sure, sure. I think in some ways, if you think about the -- combine 2 things, you combine addressable market and pace -- if you think about AI, our ability to monetize that fits at every layer of the platform, whether that's Azure, OpenAI services, whether that's the Copilot -- GitHub Copilot, you think about the breadth of the portfolio that we've announced and to see they're already shipping and being used or we're getting close, it would tell you that we're able to probably more quickly make those transitions than we made the server to cloud transition. The products are coming faster, they're coming with higher quality, they're more finished. And the opportunity is quite clear. Customer demand is already there. There's pull. I remember a lot more pushing along...
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Well, I would say...
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Yes, it took a lot more of that. And so you combine those factors with what I do think is sort of a unique moment that this tech transition makes many things more possible sooner, then you would say, it absolutely should be the fastest $10 billion business we've ever built. And then we should be investing toward that belief.
+And for me, that means where are you putting your operating resources, where are you putting your capital, what's the partnerships you're building, what's the customer investment you're making. And it's really important for all those things to align because otherwise, you're just probably lacking ambition if you're not willing to be consistent in your logic that the opportunity is there, the product's there, there's customer demand, so then you should be investing toward that. And I think that's another thing maybe you learn over time, right, is that you have to align those things in a deep way. And then the company executes at its very best.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Yes. And you did that with the cloud, I mean, directing your capital -- we used to ask, why is CapEx going up? Cloud.
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Yes. I think it's -- I think one of the things that we do take quite seriously is our commitment to be clear about what we're doing, right, and why we're doing it and then to deliver results that are in line with that commitment. And so I think saying it can be the fastest $10 billion business, I think, is both a statement about TAM, execution, our position and what the market feels like in terms of pace.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+We hope that when you come back the next time, if you do, we hope you do, that there is a bigger target than $10 billion.
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Yes, we were talking last night a bit about my first, I think, Analyst Day, where we talked about...
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+2014?
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+I think that was it. I think I sort of tend...
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Moscone, right?
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Like, sort of blocked some of it out, where we talked about our first cloud target for ARR. And I think it's interesting in that regard.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+And you crushed it. I remember asking you a question. You had 160 million seats of Office 365 as your target. It seems like a really big target. Today, you have multiples of that. So congrats.
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Well, mostly to everybody else, but I get to come here and talk about it, which is probably far easier than the execution.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+The partnership with OpenAI, that's key to your AI strategy. So can you help us understand the nature of this partnership? What is the life of this? Is it perpetuity, a short-term thing? There's a lot of mystery around this OpenAI thing.
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Goodness. First of all, the partnership, as we've, I think, talked about, started years ago. We were already making investments in AI, had AI services. We -- there's a lot of ambition, I think, from that team, and there still is, of course, in terms of what's possible. And I think their ambition and our capabilities at the platform were really strong overlap to be able to execute -- help us both execute better.
+Then that partnership evolved over time, as we've talked about, with investments and now really a partnership where we're both able to grow our businesses and commercialize. And I'm really excited for what they've achieved, and I'm really excited for what we've achieved. But I think we each bring unique things to the partnership. And I think it's something that is a durable partnership. And I'm always excited when both companies are able to achieve better things, and we've done that together, which is good.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+And so we should not assume any risk to the nature of the agreement and so life's good so far?
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+You should assume we're both executing, I think, really well. And I'm pleased with our ability to work together.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Got it. So we have a tremendous number of companies that are using Azure OpenAI services. I think the last count was about 11,000. And you added a dizzying pace of about 100 customers a day in the June quarter. How do you see this trajectory playing out in your pipeline, the depth and breadth of these customer engagements?
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+I think I often get asked, is there any -- is it unique to geo or industry or size of company or its...
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Use cases.
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Use cases. The reality is when you get to numbers like 11,000, it's pretty globally distributed. Most industries are represented. I think the number and the excitement around use cases, it's actually pretty broad, Kash, I would say.
+Everyone from -- I think we've -- there's a lot of good use cases and I think blogs by our Head of Sales, Judson Althoff, who'd go through specifics, I think, gives you a sense. But it's everything from car manufacturers to big health care companies, to industrials. And whether they're doing automation work, whether they're doing marketing work, which I think is popular, whether they're doing customer service engagement, customer support work, review summaries, I mean, there's just -- there's -- the use cases, at this point, tend to more be limited, I think, by the experimentation companies are going through, trying to figure out where they can get the highest return on that investment.
+They tend to be great engagements, right, with customers because they're really trying to solve, where can I put this to use and get return quite quickly? And I think customers are seeing that, which is why I think you still continue to see optimism, right? Otherwise, when you try something and you don't see the return, I think it can be more tempered. But it seems like across industries, across customers. We still have a good wait list.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+A wait list?
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Yes. We'd like to have less waiting. But we need to work through that and continue to get customers in proof of concepts that they love. But they're excited about getting deployed, and so we'll continue to work through that.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+How long is the wait list? Long?
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Lots of customers are excited, which I'm excited about.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Great. That's great. It's good to curate the first set of customers, get them successful and then...
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+I think you just want to make sure that you're able to do the work that you're trusted to do, that you find use cases at customers that can be done responsibly and safely with a focus on return for them. And I think that's part of the excitement at the beginning of any new technology is to see...
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Exciting.
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Yes, it is, it's exciting.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Gili said she is dying to ask...
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+I know, I was waiting to make sure you gave her time. Otherwise, Kash, I was going to give you feedback.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+I know, I know, right? Gili, sorry.
+Gili NaftalovichGoldman Sachs Group, Inc., Research Division · Research Analyst
+Thank you, first of all, Amy, for being here and taking the time to be with us today. I wanted to double-click on Azure and a little bit of what you're seeing when it comes to cloud optimization. You talked a lot about the investment cycle you've done over the past decade and the transition that we've seen. What are you evaluating when it comes to customer cohorts or geos to evaluate like where we are in the cycle and how long it might last?
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+I have to say this is the question that I think we get asked the most.
+Gili NaftalovichGoldman Sachs Group, Inc., Research Division · Research Analyst
+Hopefully, this is a little different.
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+No, it's not about that. It's, I think, because it's become, I think, just a new -- almost a new language that means, frankly, I didn't do a great job of explaining that optimization is sort of just part of running workloads and has always been a part of running workloads. And I think when things were really, really, really growing and you never talked about it because, I mean, it just seemed like a normal part of running a business.
+And so first, I would say there's not anything particular that I would go through one cohorting or geos or industries or where they are in cycles. I was back up and say, customers optimize. Our job as the platform provider is to help them do that. We should incent our people to help them do that. It's about running a workload as efficiently as you can to get the highest return over every dollar spent. It's an important concept.
+And then you want that money reinvested into new workloads. And of course, the interest we're seeing in AI is a great example of that, right? Being able to make room in your budget to get started on some of the newer -- or maybe just a different workload that's been on your list, right, and that you've tried to work into your budget.
+And so I look and say, gosh, our -- at Microsoft in particular, I think our comps are -- we're starting to lap some of the bigger optimization quarters almost people call them, which makes me laugh a little bit, but we're starting to lap some of the bigger ones. But people should not think that means that's a thing that came and lasted a little bit and then people stopped doing it. Customers should do it, they should get the most value out of it, and we should continue to have them focus on reinvesting. Hopefully, that savings and room in their budget back into new workloads.
+And so I think that's a process that we're focused on making sure we're doing, and it's also a process that, because of some of the comps, gets a little easier, which I know everybody is always focused exactly on that one number. And I think that is probably -- I should say differently, everybody is welcome to think of it the way they want, right? That's about life. The way I tend to think about it is as I described it, right, which is it's a normal part, and our job is to make sure we do that and customers get value, and then we can help them reinvest it in great things.
+Gili NaftalovichGoldman Sachs Group, Inc., Research Division · Research Analyst
+So on that reinvestment, obviously, with generative AI, how are you thinking about the magnitude of implications that might have when it comes to inferencing or training? And obviously, Azure is going to see an impact from not just Azure but also Office 365 and the Copilot you touched on.
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Yes. That's -- it's interesting. In general, one of the important concepts for us this time as opposed to maybe a decade ago is a decade ago, we had a lot of different businesses running on their own infrastructure, right? Because we were taking -- which sounds antiquated. We took exchange and then made a change online. We had SharePoint. We made [ here for it ] online. And then we had the platform, right?
+And this time around -- and you can say when you have those things, you notice there's an opportunity for inefficiency, right? There's no fungibility of assets. This time, sitting under a lot of this, right, is a very fungible platform.
+And so whether that platform needs to be used to support third parties or is supporting first parties, it's the same platform. So demand and the ability to say, oh, gosh, we've got more Copilot demand or we've got more platform, third-party demand for Azure OpenAI services, it lends itself to a lot more flexibility on whether that's an inferencing workload. Maybe it could be a training workload, which have some unique aspects. But in general, the bigger point I think for us and for how we're running the business is to make sure that is as fungible as it can be so that we're able to meet the customer demand as it exists and do it in the way that makes the most sense for us.
+And so I tend to think, while people call -- I call that thing Azure, right? And so then Azure then fully sits under every AI-enabled workload that we offer is probably the best way of thinking about it, which is far different from a decade ago and I think allows for a lot more confidence in terms of return on invested capital over a shorter period of time.
+Gili NaftalovichGoldman Sachs Group, Inc., Research Division · Research Analyst
+Does that translate to CapEx when you think about that incremental step-up as...
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+They're all lying.
+Gili NaftalovichGoldman Sachs Group, Inc., Research Division · Research Analyst
+Yes. So like when you think -- like if we think about the incremental step-up, I think something that the community is really thinking through is how much of that is gen AI-related? And how much of that is data centers? And you guys have a much broader footprint now than you did when you first started with Azure.
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+That's exactly right. I think some people are like, oh, gosh, is this all for gen AI. And the reality is it's not. We have a giant cloud business. A lot of the capital is going to support that cloud business. I guess I can call it non-AI. It's a funny term, but is to maintain replacement capital, growth capital just for the core.
+Then you have the investment that's coming to support. I'll use the term AI-enabled workloads. That's the Copilot, Azure OpenAI services. And that's another piece of it. But I wouldn't say it would be -- it wouldn't be right to think most of that as AI-related, but it's a driving piece.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+And I think the investor feedback has been -- it's all about GPUs. AI is all about GPUs. So if you're going to be doing AI, then you're buying more GPUs, which are inherently more expensive. They depreciate much quicker. So everybody is doing the math on assimilating that the core Azure has a certain CapEx profile, a certain profile of the tech stack that goes into it, which is well commoditized, well worn. You've got massive efficiencies and economies of scale, whereas this new cycle you're getting into, that's the concern. So well, I guess...
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Yes. I think it's -- in some ways, the skills and efficiencies that we've gone through on the Azure side of running an at-scale business, you'll see the same things happen on the AI platform side. You'll see software improvements, you'll see power improvements, you'll see investments in optimizing these large models. You'll see -- and so you'll end up with -- a lot of efficiency growth is, I think, I would say is a good way of also thinking about it.
+There are always -- to use your -- inefficiencies when you're seeing some surge, like we are, but only in that it takes time to plug things in. But we can -- but the time until it's being utilized is pretty short. Whereas I think in the -- if you say, gosh, well, is it the same as it was 5 years ago or 10 years ago in this process? It's not. I mean time to monetize or time to revenue is pretty tight.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+And the learnings -- and that was really the heart of the question, the efficiencies you picked up in the prior cycle, some of that is translatable, although people look at the jump in CapEx and say, well, it's really inefficient, but it's not. You can -- [ all of this is ] learning.
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+No, I think if you think about the fact that -- most of the things that we're talking about contributing 1 point or 2 in revenue from AI, we started talking about for the first time in March. And so -- like if you take like just a minor step back from the excitement, we're seeing, I would argue, quite good revenue growth from products that are months in market.
+I also think it's important to realize that AI workloads aren't just -- don't just require AI services, right? They require data services. They require their platform services. And whether that's the excitement around fabric, whether that's the excitement around some of the other data work, I think, that we've announced recently, you'll see AI workloads contribute to core Azure even if it's not AI revenue. And it's an important concept. That's partially what additionally drives capital needs, right, is that you got to have the investment in the data estate prerequisite.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Amy, are we going to have more Copilots than pilots? That's not a question. I'm trying to...
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+I wasn't going to answer it anyway.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Yes, yes. Because everybody is talking about Copilot. So you guys are -- and a whole bunch of software companies. Everybody's got a Copilot. Even on-premises companies have Copilot, which doesn't make any sense because you're on-premise. And what would you be flying? Anyway. So that's...
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+We have a few.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+My real question is you've got a beta program going on at Office Microsoft 365 Copilot. I think, one -- a financial services firm that I may be affiliated with and you may have been affiliated with in your past is also testing it out. What has been the customer feedback on this Copilot and how are they justifying the price you're asking?
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+The feedback has been good. We made a point to have a good customer set, I think industry representation, functional representation to get good feedback on how it's being used. As you might imagine, people are like, oh, you use PowerPoint and you're able to fix -- listen, I know it sounds [ much like ], oh, my gosh, that doesn't sound like it saves time. Listen, if you can say something, hey, please fix all these fonts through a 40-page deck. And it used to take you, I mean, a long time.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+I like Helvetica. She likes Courier.
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Right. I mean this is the kind of thing that causes a real problem in my world. I have some noticing issues. And so if you can do that in a second. But you do that 1,000 times for a lot of people who are working day-to-day and having deliverables. Whether you're doing marketing content generation, whether you're doing prompts, Azure doing maybe creative and ideation has been a lot of the feedback.
+I think Teams in general has gotten a lot of feedback in terms of its ability to do meeting recap, meeting summary, if you can't be there, it feels more like you were there, that ability to really, I think, better use your time maybe. I don't know, maybe everybody only goes to meetings that they're like, oh, my gosh, I'm so glad I came.
+I, on occasion, am willing to just read a summary and feel pretty good about it. And I think -- but think about that in terms of having everybody's knowledge be more up to date, you feel like information passes us. There's just so many, I think, natural extensions when you use it. I think it's been changing for me in terms of how I work. I can speak individually, but I'm not terribly interesting. What's interesting is I think the broad feedback, and the broad feedback has been quite good. The feedback is what we use to inform the price. So that price is value-based. And so I feel quite good about it.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+And it goes back to your earlier point, at a high level, we talked about IT budget. But the point is to gain a share and be at the top of the stacks. And your answer is that...
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+This is, I think -- one of the most important things is like this can't be tech for tech's sake. It's got to add and change how you work, the efficiency of your work, the value of your work. And if it does that, then it will be at the top of the budget list. And I think that's on us, to ship a high-quality product with great innovation that keeps getting better, and the customers say, absolutely.
+Listen, we'll still bicker, right, because that's just like the nature of how you procure. But at a fundamental level, that's the bar, right? And I think it's important to always take the customer perspective on a lot of these things is that you have to earn that, right? You earn it through making it obvious that people's -- that their employees' lives got better. And I'm excited to have that happen.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+I thought I would ask you one more question about the attach rate that you expect against this 160 million Office installed base for Copilot. But...
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+You're going to guess I'm going to say something like, listen, we're excited to get to GA. We're excited about the feedback. We're excited that we have 160 million customers to talk to about this that are already using and loving Microsoft 365 and have the opportunity to have them get more value out of it. That's probably what I would have said.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+In the 40 seconds that we have, any key messages you want us to take away? What are the...
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Well, no, I feel like it's -- I always -- I love these meetings, but I always feel like we don't talk about some of our businesses. And so I would say...
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+You're welcome to come back.
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Sorry, I know. We had a big day in our gaming business yesterday with the official launch of Starfield. And I think Phil Spencer mentioned it on social media that we had 1 million concurrent users on the first day. It's a huge moment for us. It's a brand-new franchise. I'm super proud of that team. And I think a lot of optimism about the title.
+Also saw some good play on PC, which is a great extension, which we've been talking a lot about, extending our gaming franchise beyond just the console. So since we don't ever talk about consumer and I happen to love the gaming business, I thought I'd get my pitch in for Starfield. But other than that, thanks, everybody, for -- I know it's out. Thank you, Kash. Thank you, Gili. I really do appreciate the time and the opportunity to be here. So thanks.
+Kasthuri Gopalan RanganGoldman Sachs Group, Inc., Research Division · Head of Software Coverage
+Thanks for coming back. Let's give her a round of applause.
+Amy E. HoodMicrosoft Corporation · Executive VP & CFO
+Thank you.

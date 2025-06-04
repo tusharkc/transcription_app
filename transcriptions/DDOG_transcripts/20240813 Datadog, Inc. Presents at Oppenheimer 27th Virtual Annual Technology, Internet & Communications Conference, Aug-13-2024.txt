@@ -1,0 +1,225 @@
+Datadog, Inc. Presents at Oppenheimer 27th Virtual Annual Technology, Internet & Communications Conference, Aug-13-2024 02:05 PM
+Event Details
+August 13, 2024
+2:05 PM EDT
+Corporate Participants
+David M. Obstler Datadog, Inc. · Chief Financial Officer
+Conference Call Participants
+Ittai Kidron Oppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Event Transcript
+Revised August 13, 2024
+
+
+Prepared Remarks
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+All right. So good afternoon, everybody, and thanks for joining us today for this session. We have David, the CFO of Datadog. My name is Ittai Kidron, and this is the second day of the Oppenheimer Annual Technology Conference, our virtual conference, and guess the only ones still doing that virtual. So I guess we're unique on that front. I guess it's a good thing.
+David, thanks for joining us today. And for the audience listening in, needless to say, we'll love to get you involved in discussion as well. I'll be monitoring the webcast application. So please post your questions over there, and I'll work them into the discussion as needed, or on the flip side, you can e-mail me at Ittai, I-T-T-A-I.kidron at O-P-C-O opco.com, and I'll be watching my e-mail and working your questions in.
+David, thanks again for joining us today, really appreciate it.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Thank you for having me. Appreciate it.
+
+Question and Answer
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+I'd love to start with more of a bigger picture question. You've been public for a few years now. How is Datadog today very different than the Datadog at the time of the IPO?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, very interesting. I think when you think of Datadog as a product-centric company, land-and-expand platform company, the company started out with an infrastructure product. And when we went public, we were just expanding to APM logs. And today, we announced, I think it was a couple of quarters ago, that infrastructure crossed the $1 billion, but logs and APM each crossed $500 million. And we just announced on this call that our digital experience suite of Synthetics and RUM had crossed $200 million.
+So I think one of the biggest changes in Datadog over the years has been the product introductions and the expansion of the platform and the adoption of the platform in DevOps as we've expanded the product offerings and the adoption.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Got it. Right. So great product diversity, clear adoption on multiple fronts with the products with customers.
+When you go to the website, the first thing that you see are the words monitoring and security, which clearly came from the monitoring space. Security is more of a recent push for you. Maybe if I will try to jump not too far into the distant future, maybe 3 or 4 years out, are those words are still going to be the operative mantra of the company or you think that, that could evolve and change as well?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. I refer back to our Investor Day, and I think the slides are posted. And there was a vision posted of expansion into cloud service management. So there are various different capabilities that might fall under that. So I think that may be how we evolve.
+Datadog started out mainly in monitoring. I think as we've talked about, the things we monitor and the level that can get to moved into things like security and code deployment. And then more recently, in service management, event management, some areas that might move from here you can see what is the issue to here is a workflow tool that you can use to remediate and organize the workaround. That might be a good way to think about the vision to service the DevOps world in the future.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Got it. Super interesting. All right. So it seems like clearly many more opportunities ahead for the company.
+Maybe we should move into the consolidation path. Consolidation of the observability space, consolidation of tooling has been something that's been discussed for quite some time. Where do you think we are? If you had to use a baseball analogy, what inning are we in the industry consolidating? Meaning in the context of having an enterprise at down 15 to 20 tools into I don't know what you think would be the right balance, but where are we in this process? How do you feel about your positioning in this process?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. Yes. That's a great question. I think we're still early third inning. As you know from research, companies have 15, 20, 30 tools. We don't believe that this will consolidate to having for all use cases, an enterprise having only one tool because there are different use cases. But what has been happening in the use cases has been a trend towards consolidation. We believe we've been a market share gainer. Hello?
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Yes. We can hear you.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Okay. Okay. A market share gainer, and that we've been effected this for a number of years. But I still think we're pretty early when you look at the amount of tools that are being deployed and also our market share in monitoring, which is still down 10%, 15%, whatever. So there's a long way to go here.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Okay. That's great. When you think about the personas you're selling into, clearly, infrastructure, you started from there, so perhaps a little bit more weighted towards the ops people. Now you're doing more with APM. Clearly, you've had great success. So getting more traction on the developer side as well. But is there, from a persona standpoint, someone who's trying to lead the consolidation path? And how do you think about that?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+I think we've been leading the consolidation path in the area of DevOps. So when you think about the acts of creating software, putting it in production and monitoring or mediating, I think we have expanded our suite in many ways.
+And I think if you look at where we were, you talked about when we went public or even before that, where we were so far down the list in terms of market share, and now I believe, publicly, we have the #1 market share in observability, I think we've been the consolidator, the one that's captured that through our product, et cetera. So I think part of the driver of Datadog has been us capturing this market share.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Interesting. Maybe just off the top of my head, when you think about the growth that you posted from, let's say, for the last 2, 3 quarters on average, is there way to think about how much of that is coming through consolidation of vendors versus just true expansion whether vis-a-vis new customer or expansion of existing? I'm trying to think how big of a driver is consolidation to your overall growth.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. The drivers -- if you look at it -- and I think we disclosed that 75% of the growth of revenues over the last year has been from existing customers and 25% from new customers. Within that 75%, it's been about 75-25 products that the customer owned a year before and new. So -- and that probably underestimates because you're ramping newer products. So I think it would be fair to say that the 25% of the 75%, which is around 20%, and a reasonable amount of the newer business has come from consolidation or replacement.
+Another way to look at it would be, if you take where we are, the revenue run rate in the mid-$2 billion, and you think about infrastructure having been over $1 billion and the other products being -- we talked about the $500 million, et cetera, you see that over half of the revenues are coming from non-infrastructure products, which -- of which some of it's greenfield, but a reasonable percentage of it would be consolidation. So that's another way to sort of put some posts around the contribution there.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Okay. So it's clearly meaningful, but obviously, you're having great success with it, and the value proposition resonates with the customers on that front.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. As we said, our customers tend to think of it as being one product to platform. It's much easier for them to have more and more data and more and more utility in the platform.
+And so yes, there are existing point solutions. Yes, there are contracts. Yes, there are champions. But our customers prefer to buy off of a commitment, which is the way we sell, and to be able to use the products as they see fit in monitoring their environments. So it's been a very big impetus of the growth of the company.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Got it. Right. And just to fine-tune on this, when you say commitment, it's sort of like a card blank, right, there's a dollar value that's committed to spend, but it's not necessarily tied to a specific product and they can ramp up and down as they go with the different products.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+We offer a commitment, and then they can choose whether they want to reserve commitment by product or they want to have that flexibility. There's price -- different pricing for that. They can also choose term and things like that.
+So we try to provide -- and we didn't invent this. AWS and other hyperscalers, it's the way cloud products have been bought. So yes, our clients increasingly are able to buy a commitment on a dollar basis and then be able to use the products in real-time production environments.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Okay. Very good. Switching to the macro comments you've made in the last quarter. You've talked about improving fundamentals with the large customers. Can you give us just a little bit more color on that? And what in your opinion is driving the recovery with your large customers here?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+So what's -- there was a period where there was both increased economic uncertainty and overexpansion. And so we went through this optimization period and work with clients. We think that bottom -- if you look at the historical time series, the most intense was the second to third quarter of last year. And many clients right-side their environments. And then we started to -- when we communicated this starting in the third and fourth quarter, clients go back to what they had been doing, which was long-term rolling out of digital applications. And so that's what we've seen, which has created the stability and the growth of those customers.
+What we've added this time was we said it was most intense in larger customers and in cloud native, and then we said that group had stabilized and had started to grow again. This time, we gave additional color saying that the enterprise customers, more traditional enterprise, defined as companies that had more than 5,000 employees, that would be weighted a little more away from cloud native than the SMB had actually grown at a higher rate than the other sectors. Meaning they were evidencing even more normal back to the practice of digital introductions.
+And that makes a lot of sense because they probably are behind. They probably hadn't overexpanded as much. And so their net retention, we don't want to make too much out of it, has gone up above SMB, whereas SMB hasn't gone down. It still is growing, but it's growing at the same rate that it was growing in the previous 2 or 3 quarters.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Okay. So SMB has kind of stayed steady from a growth level standpoint.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Growth level, but still growing, the same amount of growth.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Same amount of growth. So whatever the rate was, it maintained to it as they say.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+And then the large enterprise, meaning over 5,000, there's been an improvement in this.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. Yes.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Okay. Improvement, but are they above the SMB level or below? How do I think of them?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+They're now growing above the SMB level. Oli on the call was very careful to say that since they have been very close to each other over a longer period of time, we don't want to read forever into 2 or 3 quarters. But we're letting everybody know the trends that we're seeing in the market.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Okay. I think you also talked about an expansion of duration in the quarter. It was that tied again to that cohort of 5,000 above. Meaning, those that are spending a little bit -- [indiscernible] a little bit more are now more engaged also with a little bit more longer-term commitments with you. Is that the right way to think about it?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. That's right. The enterprise segment and some went into the mid-market has increased duration in the latest 12 months up to this quarter relative to the previous latest 12 months. That -- we said in previous quarters is we think that shows confidence, one, in them understanding the workloads; two, they're committing to Datadog long term; and three, there are some small price concessions we do on volume and term, which they're taking advantage of.
+There are some cloud native that are also larger and operating that way. But the behavior has tended to be more pronounced in the enterprise.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Interesting. Interesting. And when you see them with these longer durations, is there -- when you look into the details of that, is that just in the context of their existing tooling, they're just willing to commit there? Or consolidation is part of that path that -- I'm trying to think how much of that is to your point, they were a little bit behind the digitization. They're trying to -- versus also taking the advantage of the opportunity to consolidate tool and get some economics back through that [indiscernible] move forward.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Definitely, consolidation is a factor here. What it enables them to do is not only get a better user experience and a more powerful platform, but they also can potentially save money through the consolidation. I think we gave in the comments in this quarter, the formal comments, there were a number of examples where the client had increased spend, had consolidated and had saved money. And that's like a win-win for everybody.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Got it. That's great. We have a couple of questions from investors. One is are customers less or more willing to spend over their commits in overages now versus prior?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+The overage amount is roughly the same percentage of the overall spend as it's been since we've been public. They -- essentially, the biggest difference is in the last -- from 2 years ago is they would go through their commit more quickly and then do another commit.
+Now with the net retentions being lower and what that they had been, it might take longer to get to their next commit. But they still have the same balance of overage versus commit as they've had as a percentage in these cycles. That has a lot to do with the fact that we do not engineer our sales effort, focused on them to overcommit for a number of years. We generally partner with them to understand their level of use.
+And so we don't have a huge amount of overcommitment. That's a lot of the reason why we said over and over, we haven't had a lot of unused funds also that we've taken in the revenues. It isn't really the way we sell from a bottoms-up and consumption-oriented way.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Right. So customers generally are good in keeping within the limits of their spend.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+They are. They are.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Interesting. But it doesn't seem like that they -- once they hit their limits, they don't necessarily bring forward the renewal right now, right?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+When they hit their limits -- so it used to be -- let's say, they did a 1-year commitment, and they would get past -- when the growth rate was higher, they would get past that level of commitment at 6 months. Now that might be 9 months or a year, but they still understanding the burst nature and the flexibility in cloud applications still. And we do as well want to have -- we don't want to pay for committed capacity that will burst, and we won't use the next day. So we still want to have some flexibility. And that's how generally the commitments are structured, and that behavior has not changed. It has to do with the bursting nature and the flexibility of cloud delivery of applications.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Got it. Okay. We have another question here. Now that we are passing those 2Q comps, where we saw most intensely the optimizations last year, if usage growth stays at the same level as this last quarter, wouldn't the business begin to decelerate?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+That would depend on the ratio between the usage growth in that period a year ago and in the period. So far what we said is that the usage growth in the periods, in the last 3 or 4 periods have been higher than a year ago. To the extent that the usage growth was lower than the year-ago period and new logos did not make up for it -- we said new logos have been very steady. They have been like -- they have not moved as volatility, then you would have deceleration. To the extent that the organic growth was higher, the usage growth was higher than the period a year ago, you would have higher.
+Now what we said, just to give everyone the premise, is that we had deceleration of usage growth, which looked like it bottomed in Q2, Q3 of last year. And since that time, we've had recovery. We haven't gone back up to the higher end of the range. We're more in the middle. So if we stayed in the middle, you would have a stable growth rate. If you went above it, you would have acceleration. If you were below it, you would have deceleration.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Got it. Okay. Interesting. The nuances of usage growth.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. Nuances of usage. Our life is looking at this usage growth every week, so yes.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+But nonetheless, I mean, the usage growth clearly right now is higher than it was a year ago. And over the last 12 months, you've added a very good healthy amount of new customers, which perhaps don't consume that much. But by now, we have 12 months of accumulated new customers that could account so -- got it. So something unusual should happen for you to decelerate, which in this economy, of course, can happen, but...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. I mean, we don't control some of the biggest factors, which would be the economy and our clients' activities. But we've given commentary that we see that we have recovered from the trough and stabilizing to return to growth. So again, what happens from here will depend on a number of those factors, some of which we can control and some of which we can't.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Okay. Going back to the smaller customers, the SMBs, you've talked about them being steady growth, if I remember correctly. It's a little bit strange, right? I mean, one would think that those type of customers in the current macro environment will be much more sensitive and will look to cut a little bit more spending. How would you put your finger on this? How would you explain the fact that they've been so solid for you?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. It's a good question. So they are not growing at the same level they were at the peak of growth. But the fact that they still grow indicates to us a couple of different things. One is we're most likely operating, we believe, at sort of the higher end of SMB.
+So SMB can mean a lot of things. It can be 50 employees or it can be 900 employees. So one of the things that might be different about us is we may be operating because they have applications in production that were -- that are being monitored, that were operating towards some of the higher end. And if you look at the gross retention over many periods, even for SMB being in the 90s, it might indicate that we might be one of the last things that might get affected that is mission critical. And you might do things around your headcount or your real estate or whatever. But these would be some of the reasons why our SMB would show potentially more resiliency than may have been communicated by other companies.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Got it. Okay. So more M than SMB, I guess what...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Could be. I think that probably is the case. Difficult to know completely, but it looks like that from who our customers are.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Got it. Excellent. On the net retention side, you've disclosed NRR of mid-110s in the past quarters. What are some of the factors that we need to think about over the next 2, 3 quarters that can drive this up for you?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. I mean, the biggest factor, of course, with 75% of the growth coming from existing customers and 75% that coming from the same products they've had is that would be the most impactful, right? So that gets to 50%, 60% of the growth of the company.
+Then I think another would be looking at the cohorts and seeing how they're ramping. So newer cohorts ramp have always and continue to ramp at a higher growth rate from a smaller base than more mature cohorts. What is the nature of that trend? And that really has a lot to do with new logo. Are you landing enough new logos that then can ramp in an adequate. So those would be the main things and then, of course, cross-sell. It's all the things that we've enumerated in the calls.
+And there could be other things like the advent of AI, more AI in production, more workflows. There could be a number of things or our products that we've introduced capturing more market share. Nothing different than what we had talked about. But the trend line, that, that will determine the net retention.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Got it. Is this a metric you follow closely within the company? Or sort of like at the end of the quarter, you kind of wonder how it came out without necessarily managing it?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+We follow it very closely, and we slice and dice it all the different ways, by the segment. We look at it by industry. We look at it by cohort. We look at it by geography. The metric of the net retention we -- is a core metric for Datadog.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Got it. So is there any color you can perhaps provide on that metric specifically on either region or the customer, too, the large ones and the SMB ones? Like...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Definitely. We base -- yes. And I think that -- sorry, finish what your thought was. Sorry to have stepped...
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+No. That's the question, right? How do I get some color on the customer tiers and regional? What can you say about that?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. So the biggest factors of what we said on the call, the biggest factors are the higher net retention in recent periods of enterprise, the higher net retention relative to what it was of larger customers. There is not a geographical element that is very pronounced in it, and the product level has not changed that much. So it would be the drivers of the ones that we pointed out were the most pronounced, which were enterprises and size.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Okay. All right. That's great. Switching to AI. Maybe you could talk about, first of all, the diversity of the customers here. You've talked about 4%, if I remember correctly, being from AI. But maybe you could talk about how much of that is using your traditional observability tools like infrastructure, APM, logs within those AI companies versus true LLM monitoring being that 4%. How do I think -- or make up that distinction?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. LLM monitoring, as you know, we just launched it at DASH, and it's being used by a small number of customers. We like the traction. So the vast, vast majority of the revenues are coming from a subsection, in this case, of AI tools companies whose whole business is delivering a cloud-based application, which has been growing quite rapidly as clients are using them for either training or inference or experimentation. And so it would be very much similar of infrastructure logs and APM.
+And then we have a couple of other metrics that are much earlier, which is that of our customer base in the 29,000. 2,500 of those are using our integrations into AI tools. So that would be around a little less than 10%, something like, say, 7% are using the tools mainly around experiment. And we have some good traction in the LLM monitoring, but very, very early.
+So the answer to the question is the revenues we've seen so far are mainly -- and it's the early signal, those AI tool companies using the Datadog Observability suite.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Got it. And those companies, always -- a large number of them are companies that 5 years ago didn't exist, right?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+That's true. Yes.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+And so how much of -- so the point of consolidation, I guess, doesn't exist with them. Do you already land with multiple products with them? When you think about the average number of tools that you land with a customer, in that subset, is it much higher than normal just because it's all greenfield, they've never really had anything before?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. I think it's -- it is higher. I don't have a metric that we've given out. They tend to be like -- are better or more. Exactly that you're saying, they don't have anything. So again, I -- maybe next time we can give a metric on the sort of the cross-sell in that sector. But we try not to like take the cross-sell down to travel companies do this or financial services because it may be volatile and it may create the wrong impression.
+So I would say they tend to be some of the better customers. They're growing. They're -- and they're using a lot of our product, but we haven't given out a metric of the degree of cross-sell or adoption in that group versus the base of customers.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Got it. And I guess, lastly on this point, a question I got from an investor here. Those customers, since they're growing so fast, right, and clearly, their big focus is on market awareness to get their solutions out there. It's clearly have become very crowded and a top of mind for many large enterprises to implement AI. How much work are they doing on optimization?
+Going back to the year ago process, where enterprises were optimizing with you, are the AI customers running optimized? Or they're not paying that much attention to spending in this category right now because they've got just bigger fish to fry as they would...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+I don't know. They are growth companies. I don't know the percentage that have optimized. I think they will go through -- like all of our customers, essentially, the whole optimization discussion got intense. But we even said at IPO that we're -- what we do, clients put workloads out there, and they optimize. So there should be some of that. Again, where this is 4% of the revenues, so the effect of all this may not be that high. But if they act like other customers, they will go through optimization cycles at different times.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Awesome. Switching to gross margins. You don't have an explicit gross margin guidance. But I'd love to get your point of view on kind of the puts and takes of gross margin not just now, but how do I think about a year or 2 down the road?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. We've been -- we said we generally have -- and you know this from following us, have been in the upper 70s to low 80s. We said there's going to be variability because it has to do with what we put in the platform, if we're putting new functional in the platform and we haven't scaled it yet or it's redundant with existing functionality and we haven't ordered everything over or we haven't optimized like any -- most companies.
+So I think generally, the movements are going to be due to that, and we said that's good for us. That may result in better ability to deliver the products to clients. There's also the types of ways we buy cloud, and there's regional cloud introductions.
+So all of that variability comes in that range we've communicated. And the range that we had this quarter is due to functionality, put some functionality. It's higher than it was last year, a little lower than it was the quarter before. And that has to do with just R&D projects that are in the platform.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Got it. Okay. One question I'm getting from investors is on your work with AWS and Azure, Microsoft Azure. Can you kind of compare and contrast the interaction with those 2 cloud guys? In what way are they different in the way they work with you? In what way are they similar in the way they work with you?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+They're very similar. We started out first with AWS because they were servicing the type of clients. We, over the years, became cloud-agnostic, both in what we can monitor and how we deliver. We look to the clients to tell us if they have a preference. We have technology partnerships. We have data centers. We have marketplace actions, cross-sell going with all 3 of them.
+We started out later with Azure, and Azure tended to be more enterprise. And so we've seen some good rapid growth with Azure from smaller numbers. But it's very similar how we work with all 3.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Okay. And how should we think about the correlation of growth in their business -- their cloud business to the core to your growth and what we argue tied versus not?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. Well, they have a much broader business with lots of other things, including on-premise and back-office software. And so it's hard to get the exact correlation. Over time, you have a core like galvanizer on the number of hosts. If you knew the number of hosts employed in modern DevOps, it would be more correlated. Then we've been higher growth because most likely modern DevOps has been higher growth. Two, we've had the consolidation of multiproduct. And then there may be another factor going the other side, which is because we benefit from applications, which in the infra side, there may be more cloud or infrastructure or testing or training that's going on that may cause their numbers to go up more in the shorter period of time. So over the longer period of time, it's correlated, but it's not going to move 1:1 because of all the things I mentioned.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Okay. That's great. On the infrastructure monitoring side, the core where you started and still the biggest part of your business, how much of the -- first of all, any way to benchmark the growth in that specific product area, how mature it is for you? And how much of the growth here is just expansion of existing customers versus new logo wins in this category?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. It's been good growth. It's -- there's -- if we're growing 26, 27, all of the growths are within some range. So infrastructures had very, very consistent growth. It's been host-based. It's been the expansion of the product. And I would say it probably has the same sort of dynamics of 75-20 as our overall suite.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Okay. Is this still the product you most often land with before adding others?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+We always land with infrastructure or, say, the vast, vast majority. And then because we land most of the time with 2 products, we would normally land with infrastructure and then either APM or logs or some combination of that. That hasn't changed at all.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Okay. Very good. Want to chime about security. We haven't talked about that in our conversation here. First of all, how do you feel about the depth of your portfolio here? And if you and I will talk 2, 3 years down the road, what should we expect really in this category for you?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+We're still building. We're essentially focusing right now on bundling it. We introduced bundles with DevOps products. It's the way our clients have tended to buy. We're focused on more aggressive DevSecOps. So I would say in places where either security is closer to DevOps or DevOps has sort of a role in monitoring the security of products, we would tend to have a better presence. I would think we have not yet, and we've been honest about it, gone directly to CISOs in a material way.
+We're still building out the product. We've made -- there are some things that -- where products were immature. I think in SIEM, we've talked about the fact that on a number of different levels, we've had to repop the product. That has to do partly with the way we architected it around the use of logs. Flex Logs is really helping in terms of being able to use logs and manage the retention in a way that's conducive to Cloud SIEM. And we started to get some better traction there.
+So I think that we still -- we've -- last time we announced a number, we had 6,000 out of the 28, 29 who are using it. Those are mainly more in DevOps, DevSecOps use cases. And we're still optimistic about the attach to monitoring. But as again, we're still in build.
+So I think there's some really good signs. We're optimistic about that SIEM is going to be a more impactful product and that the bundling is working. But again, many of these things happened between the fourth quarter of last year and now. So we're still early in them.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Got it. How far are you from making this your next $100 million product category?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+We haven't commented on that and reserve the right to comment on the nuggets we have on size as we choose and we choose -- and not choose, so.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+All right. I'm giving you a chance here, David.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. Yes. But we're not going to answer.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+All right. Very good. Nothing ventured, nothing gained.
+But nonetheless, clearly, you're doing this, as you say, more of a DevOps angle, more of a bundling exercise. How far do you think that can take you in this category? Meaning, is there a point in time where you think you're going to have to really step in,with either completely new portfolio, organic or nonorganic, to make this into -- I'm trying to think longer term. Clearly, your goal is not just to make this on to $100 million. You want to make this up to $1 billion.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Definitely. Definitely.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+So with the path there, can it still reach those targets down the road just in the path that you're going, or somewhere, you're going to have to make a bigger bet here, if you like to call it?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. I think it reminds us a lot of APM where we had an APM business and it was like a pretty good business, but it didn't cover the full functionality. And there were a lot of legacies -- we're still in that. There are a lot of legacy solutions there that we went about replacing.
+So I think that there's a lot of lessons there. We have the build to do to get to parity. We have a replacement cycle to the extent they have something else. And then we have something we don't know, which is how quickly is DevOps going to have responsibility in a distributed way in real time for security. And that will determine the split of what we do between our distribution through our DevOps distribution or whether we have to do another more centralized distribution motion, which should be to the CISO.
+Most of the other players that have gotten to size or leading the public and private have really done the CISO motion. And they've designed a product that would be more centrally controlled and would be done in a way that security is done that would be sold through channels, and we've taken another approach. But we'll have to see as we get to product maturity, whether the buying motion and the use motion, whether it be the buying sector and then the user have evolved or whether we have to make changes to address where the market is. And I think Oli has been very transparent about this for some time, that we don't know the answer. But we'll let all you know as we know the answer.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Okay. And is there a timeline by which you think the answer would reveal itself?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. We haven't given that.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Okay. David, I want to keep you on track. This is fantastic. Really appreciate it. Thank you very much for joining us. Thank you for the great work, and regards to the rest of the team.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Thank you very much for having us, and have a good end of the week, everybody. Thanks.
+Ittai KidronOppenheimer & Co. Inc., Research Division · MD & Senior Analyst
+Thanks, David. Have a good one.

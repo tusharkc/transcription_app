@@ -1,0 +1,211 @@
+Atlassian Corporation Presents at The JMP Securities Technology Conference 2023, Mar-06-2023 11:00 AM
+Event Details
+March 06, 2023
+2:00 PM EST
+Corporate Participants
+Martin Lam Atlassian Corporation · Head of Investor Relations
+Conference Call Participants
+Patrick D. Walravens JMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Unknown Analyst
+Event Transcript
+Revised June 07, 2023
+
+
+Prepared Remarks
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Awesome. Look, so we're just delighted to have Atlassian with us today. And sitting on my right is Martin, who is the Head of IR, and Martin has been there since 2015. And before that, he was at Salesforce for 3 years. And so we're going to go through the house business and a macro and why I think it's getting worse and all that, we'll get all of that, right? But -- as looking over your bio kind of reminding me as like I said, he joined before the IPO, right?
+Martin LamAtlassian Corporation · Head of Investor Relations
+Yes.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+And you've been through 4 CFOs.
+Martin LamAtlassian Corporation · Head of Investor Relations
+I guess so.
+
+Question and Answer
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+So just remind us -- so what were you talking about 10, 15 years ago, right? 7 or 8 years ago, what was this company like when you joined? Salesforce was this right incredible thing and you got recruited away. What was it last time like?
+Martin LamAtlassian Corporation · Head of Investor Relations
+It was a far different place. I think I was employeed around [ $48,000 ].
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Really well.
+Martin LamAtlassian Corporation · Head of Investor Relations
+Over 10,000 employees. So it's -- I've seen a lot of change. I've seen a lot of growth. What's been exciting is that the culture hasn't changed. I think that's what's kept me there that the people -- continue to be good people, people that you want to work with. And ultimately, the company is focused on the long term. I think that really resonates with me. And the way Mike and Scott run the company is always guided by the long term.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Yes, I tell us a little bit of -- a little bit more about what it was like in 2015.
+Martin LamAtlassian Corporation · Head of Investor Relations
+We were in a dumpy little office in Harrison Street and 7th Down. It was a warehouse. It's a lot different, obviously, in terms of we were just getting started in terms of our....
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+It was Jay? Jay Simons was basically running the U.S., right? He was a I saw.....
+Martin LamAtlassian Corporation · Head of Investor Relations
+I saw him 2 weeks ago as well.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+And the founders were -- I mean, in Australia, most of the time, how often were they here?
+Martin LamAtlassian Corporation · Head of Investor Relations
+About once a quarter.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+And how much now?
+Martin LamAtlassian Corporation · Head of Investor Relations
+In COVID world, a little less, obviously, the past several years. I was actually just in Australia last week, meeting with Scott.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+So when you do earnings, where do you do it from?
+Martin LamAtlassian Corporation · Head of Investor Relations
+We do it remotely. Everyone is in their own home.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+And are you guys -- by the way, do you know what's happening today at the Salesforce Tower?
+Martin LamAtlassian Corporation · Head of Investor Relations
+Don't know.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Today, thanks to their new CEO, Brian, thousands of Salesforce employees are supposed to be back in the office today, thousands, 4 days a week, supposedly. So we'll see how many actually show up. But where are you guys on this whole....
+Martin LamAtlassian Corporation · Head of Investor Relations
+We've kind of taken the exact opposite approach in sense that. 2 months into COVID, we really leaned hard into remote first practices, which means we give employees the option of where they want to work. Whether it's in the office, outside the office, whatever is their first choice. We've always been like this in the sense that we've been a distributed company from day 1 as Pat was talking about with Mike and Scott based in Australia, about 1/3 of the company has always been in Australia. So we've always had kind of one foot in the Bay Area here, and one foot out in that sense. And we've always operated with a distributed mindset. So it hasn't been a huge change for us, probably relative to other companies.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Okay. So we're going to do this a little differently. We're going to do your 8 years quickly by CFO. How long did you overlap with Eric? Not only at all, right? We won't do that one. So then Murray came off your board as one of the greatest CFO is intent. I mean he's incredible, right? And so in those 3 years, 2015 to 2018, what was sort of the -- what was -- most Murray trying to accomplish?
+Martin LamAtlassian Corporation · Head of Investor Relations
+Murray helps us take public. That was obviously his biggest remit. I think he came off the board. He was Audit Committee Chair. He had been previously the CFO at Adobe. So he came with great experience, and I think he helped develop the muscle to help us become a public company.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Yes. And then James came in, in 2018, another sort of world-class CFO.
+Martin LamAtlassian Corporation · Head of Investor Relations
+James came, he was previously CFO at McKesson, Symantec before that, CFO at American Airlines. So he came from a much bigger scale than we were. So he really helped scale Atlassian to the place that we've got to today, which is 10,000 strong, obviously, on the path to $4 billion in revenue. And really helped us scale and again, think about how do we appropriately scale and place capital allocation accordingly different products.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+So let's just do one, but like what's one of the biggest things you learned from him as he's going through that process of scaling?
+Martin LamAtlassian Corporation · Head of Investor Relations
+I think James brought a level of humility. I think what he brought in terms of how do we place our bets accordingly across the different market opportunities? And how do you engage with the founders at that level? Because I think the founders obviously have their opinions on, on how to run the business, but I think the founders have always shown this intellectual curiosity and willingness to learn. And I think that holds true today in the sense that as we think about the different opportunities...
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+We're not done today yet. So how did you decide where to place the bets, give us an example.
+Martin LamAtlassian Corporation · Head of Investor Relations
+A lot of it is just on where are we best strategically positioned. And where do we see the biggest opportunity. Again, back to this concept of we run the company for the long term, where are the largest opportunities in front of us.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Yes. But on to know what data do you use to decide? Well, give us an example, what was an example you decided was a big opportunity during that period?
+Martin LamAtlassian Corporation · Head of Investor Relations
+I think our ride in DevOps continues to be guided by that, right? Like you've seen the influence of software continue to grow. You've seen the growth of developers over time. And then what you've also seen is the sphere of influence that developers have within businesses continue to grow. So how do they interact with the business in terms of how do we bring products to market, how do you integrate it with your existing technology stack. So that has continued to grow. And I think we continue to invest appropriately there as we've seen that evolve.
+Another area is in ITSM. We've seen the blurring of lines between IT and development. We recognize that trend quite early on. And so we said we would double down on that market. That's been another area where we've really placed our bets accordingly and evolved that ITSM offering. And today, that's going to be a sizable business. That continues to be an area we have pretty significant momentum.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Yes. And when you guys exited HipChat, was that -- in this -- what year was that?
+Martin LamAtlassian Corporation · Head of Investor Relations
+That was back in 2019.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Okay. Yes. So that was in the James Beer period. So that's another example right? How did you decide that, okay, we're not -- because we're pretty passionate about HipChat at the beginning, right? So how did you get to the point where you're like, okay, we're not going to be Slack, right?
+Martin LamAtlassian Corporation · Head of Investor Relations
+Yes. So for everyone's background, we previously had a chat offering called HipChat, which competed directly with Slack and Microsoft teams. And then several years ago, we made the decision to -- in hindsight, the pragmatic decision to exit that market because it didn't make sense to run through it. Given our opportunity in DevOps, our opportunity in ITSM and other areas of work management, the investment it would have required to continue to just play in that market. The returns weren't nearly as attractive as we saw in those other market opportunities. So we made the decision to exit and partnered with Slack. We sold the IP of HipChat to Slack. And in it, I think that was the right decision.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Okay. And so now in September 22, CFO #4, right? So -- what does Joe bring? What's his...
+Martin LamAtlassian Corporation · Head of Investor Relations
+So Joe came from Microsoft, where he's operated at even larger scale. And I think what he's seen as in his ride at Microsoft over a 20-year period is how finance can play a role in helping the business make decisions. And so just getting better reporting, better understanding of cost to serve for every level of -- or every dollar of investment that we're placing, what's the corresponding ROI. And so getting sharper on that will allow us to make better business decisions to guide us to achieve our long-term goals.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Okay. So people get really mad at me if I don't talk about the macro in house business. So let me start with my standard health business, what would you say?
+Martin LamAtlassian Corporation · Head of Investor Relations
+I think we continue to be challenged in the short term by macro impacts in 2 specific areas. It's around new customer conversion from free instances of our products to paid offerings of our product and then with seat expansion within existing customers. That's the more impactful area on revenue. So those 2 areas, we continue to see challenges from the macro and those continue to grow and impact. And then we continue to be vigilant around other areas. There are other growth drivers that we have, like cloud migrations, upsell, cross-sell. We continue to do well there and track along with our expectations and see solid growth. But with vigilant that those areas could become impacted.
+What hasn't changed is, again, that long-term outlook. I think if anything, we have been almost more bullish about the long-term opportunities. And this environment, I think it helps us in this perverse way in that we are this high-value, lower-cost offering. I think we have opportunity to play offense and you're seeing us invest more in this environment to get after those large long-term opportunities.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Your guidance assumed that things burn, I don't want to use -- get the words who, but I assumed it was that things were going to get worse, right? So tell us what the right words were for that? And then what did you base that on?
+Martin LamAtlassian Corporation · Head of Investor Relations
+So those 2 areas that I previously called out in new customer conversion from free to paid, that's the rate that people upgrade from free to paid as well as that seat expansion within existing customers. We've seen macro impact those progressively worse. From Q2 was much more pronounced relative to Q1. So we now have a clear trend line. And so we're assuming in our guidance that things will continue to get worse. And then those areas that we haven't seen any macro impacts like migration, upsell, cross-sell, dollar-based churn. Those things were allowing for those areas to be impacted at the bottom end of our range.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+So one of the pieces of evidence you used to support your conclusion that things are going to get worse as the trend line from Q1 to Q2. What else did you look at?
+Martin LamAtlassian Corporation · Head of Investor Relations
+So another thing that we've seen is December tends to seasonally be a slower period. And so we saw that become much more pronounced in December, particularly, we announced amongst SMBs. We saw that business was much more pronounced in that area. And then typically, when you see business bounce back in January after that seasonally slow December period, this year, it didn't bounce back to the same level at which we would have expected it to. So again, we continue to see that same trend line. And I think it's just more data points around this. And so assuming that this continues to be greater impact from the macro.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Yes. This is the first -- is this the first time in your 8 years that you've seen sort of this dynamic in the macro for Atlassian?
+Martin LamAtlassian Corporation · Head of Investor Relations
+The early COVID period was a little bit different, of course, and that was quite short-lived. But yes, I think -- Atlassian, though, however, was born in 2002, so born in the tech bust as well as gone through '08, '09. So we've seen different cycles as a company, and I think we've taken some of those learnings.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Do you think the sort of product-led growth philosophy at Atlassian then makes you more susceptible to when things slow down?
+Martin LamAtlassian Corporation · Head of Investor Relations
+So the area that we've seen the impact on seat expansion, we let that motion happen organically. So these are existing customers adding seats, going from 100 users to 200 users to 500 users. So we don't look to actually unnaturally influence that seat expansion. .
+We have a little more influence around other areas like upsell and cross-sell and, of course, migration where we're looking to hold the hands of those customers that need more handholding. But in terms of pure seat expansion, that is an organic motion, and we're not going to look to unnaturally influence that. So in that sense, yes, we are more susceptible in that area.
+Again, we've seen much more pronounced impact amongst SMBs, who oftentimes choose monthly billing. We give the customers option to be build monthly or annually in the cloud. And as those SMBs slow the rate of user growth, you're seeing that impact revenue much quicker because of the monthly dynamic. At the same time, when things get better, you tend to see SMBs be the early indicator and come back quite a bit faster in that regard.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Yes, okay. So last one on this sort of big picture topic. So when you're looking at your factors to drive your, okay, things are getting worse and you sort of break that into different markets, is it just SMB and non-SMB? Or are there more licensed?
+Martin LamAtlassian Corporation · Head of Investor Relations
+We've tried to slice this a couple of different ways. So we've looked at it by geo, by vertical and industry as well as even by product. And when we look at the trends of actuals versus our forecast, the results are incredibly parallel to each other. So it's very consistent across geos industry even by product where you're not seeing any one area and outperform another and there's a trend across...
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Really. Is that surprising because like everyone thinks like there's more layouts in tech and travel on the other hand is cranking, right? So does it surprise you that there's not more differentiation between the different verticals?
+Martin LamAtlassian Corporation · Head of Investor Relations
+No, in the sense that when you have 250,000 customers, you have very broad customer base in terms of customer diversity. We, of course, see the same headlines that you see in terms of the layoffs in tech. I think that speaks to how diversified our customer base is. And I think it also speaks to the mission-critical nature of our products in the sense that you were not seeing contraction within the customer base. We're still seeing absolute seat growth. It's just at a much more moderated pace than we've historically seen.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Okay. One more for me and then we'll open up to questions. The -- so I was just looking at your cloud growth and you basically had -- here's my little chart, right? 4 were up and now 4 down, right? So just walk us through what was going on? What led to the acceleration and what's driving the deceleration?
+Martin LamAtlassian Corporation · Head of Investor Relations
+Well, again, where we've seen the greatest impact over the past 2 quarters now is on that seat expansion. That's much more pronounced in our cloud business. As the cloud customer base is much more skewed towards SMBs. That's really changing over time as our largest customers who today are on our on-premises offering, so on server and data center. As they migrate over to cloud, that's beginning to change more and more. But as I kind of pointed out earlier, migrations, that continues to tick along that. We haven't seen any macro impact there. So it's on that pure organic seat expansion, that's really impacted the past 2 quarters.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Yes. What's the definition of SMB for you?
+Martin LamAtlassian Corporation · Head of Investor Relations
+It's generally less than 1,000.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Under 1,000 employees. Okay. All right. I think -- hopefully, people agree that I've beaten the macro thing to death. Any questions from our audience?
+Unknown Analyst
+[indiscernible]
+Martin LamAtlassian Corporation · Head of Investor Relations
+Yes. So the question is around the time it takes to go through a migration. And so we've always known that this migration to cloud is going to be a multiyear journey. We announced the end of life of our server product line around fall 2020. That will go end of life February of 2024. So server will go away. We still have that data center cohort of customers that we continue to migrate over to cloud. And that's actually seen an uptick in the number of seats continuing to migrate to cloud. So this past quarter, 50% of the seats are coming from data center today, which is up from about 1/3 of the year prior. And that's really encouraging because we're not really pushing on that data center customer base, right?
+They're just kind of naturally organically moving over to the cloud as they see the maturation of the cloud platform. So that helps validate a lot of the investments that we're making. And to your point, that is what we're doing. We're investing more in migration because there is a lift involved to get these larger customers over to the cloud, and we're driving a greater level of investment there to try to speed along that process.
+With every migration, we learned a bit more. So this past quarter, we went through 2 of our largest migrations to date. And as you go through those, you take those learnings, you apply them to things like migration tooling. How do you help the customers to come in the future years get to cloud easier? And again, there's normally 3 buckets where we see customers when they look at cloud and why can't they get to cloud yet? One is on the scale side. So a couple of years ago, we could only accommodate up to 5,000 users in the cloud.
+Now it's 35,000 users and soon it will be 50,000 users. So we continue to go up the scalability side of things on the data and compliance side of things. Every quarter, we joke, we have to check off a new 3, 4-letter acronym. And I think we're making really good progress there. And then the third bucket is on the extensibility side.
+So for some of these larger customers, they oftentimes will be running several different apps, which they may have purchased in the marketplace or that they've custom built on their own, that will never see the light of day in the marketplace. And those customers facilitating that move to the cloud is important to be able to have that same functionality in the cloud.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+The first one was scale. So why? Why was the limit 5,000? And then what was the second 15 and going to 30?
+Martin LamAtlassian Corporation · Head of Investor Relations
+So today, it's 35,000.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Today, it's 35,000. And you said it's going to go to what?
+Martin LamAtlassian Corporation · Head of Investor Relations
+50,000.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Where are these pretty hard number ceilings coming from?
+Martin LamAtlassian Corporation · Head of Investor Relations
+I view them less as ceilings. It depends on the complexity of a customer really kind of...
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Why isn't it just elastic?
+Martin LamAtlassian Corporation · Head of Investor Relations
+That's the goal. We, of course, want no user limit to ever be an area whereas customers move over because....
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+But why is it not elastic today?
+Martin LamAtlassian Corporation · Head of Investor Relations
+A lot of it previously was our old cloud infrastructure. And part of that was several years ago, we've replatformed our cloud infrastructure from our own self-managed data centers to AWS instance to a multi-tenant environment. And so that allows us to progress and raise up the scalability limits.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+I got it as one more time. But the whole point of AWS is that you went to your on, you just keep going. So why is there a limit at 35,000?
+Martin LamAtlassian Corporation · Head of Investor Relations
+A lot of it is due to the customer complexity, right? If you have a much more complex environment that you're running with a lot of these apps and a lot of different customizations that you've built over the years. As you move it over to cloud, you want that to be a good experience for them. We could lift above 35,000 users today, but you want to make sure it's a good seamless experience those customers.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Yes, you guys are drawing that line.
+Martin LamAtlassian Corporation · Head of Investor Relations
+That's right. That's right. That's correct.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+So it could -- so it could be 40,000..
+Martin LamAtlassian Corporation · Head of Investor Relations
+A much less complex environment, it wouldn't be an issue for you, but we want to make sure it's a good experience when we move those customers over.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Yes. So I remember when you used to go to the Atlassian user conferences, they were so great because like the energy was really good. And you would walk around and you would meet a vendor and you'd be like, okay, what do you guys do? And they'd be like, oh, we make it so that when you're in or whatever pick a product, you can change the color, so you could put your background in here and you could -- it has like -- well, that's nuts. How can that be a separate company, right? That's totally something that Atlassian should be doing the cells, right? And that would go ask Mike and it'd be like how could this be goes, oh, yes, we leave those gaps. -- right? We've built this massive because that effectively has become our Salesforce.
+So we leave those gaps and they yes, another. At Salesforce, they would have offered that functionality, right? And we built this incredible ecosystem that is effectively our outsourced sales effort as a result, right? But now the issue is translating that to the cloud, and it's harder, right? So this has been a multiyear journey. How is that process of getting the ecosystem....
+Martin LamAtlassian Corporation · Head of Investor Relations
+That's the challenge of getting every customer over to the cloud. And so part of that is helping build the platform in which these third-party developers can build that equivalency in the cloud.
+So we introduced what we call the Forge platform several years ago. That allows us to or allow third-party developers to build on top of our infrastructure and so third-party developers focus solely on the innovation side of things, and we'll take care of the infrastructure side. From a customer perspective, that's also more attractive because then as the customer is doing their diligence on Atlassian cloud, they check the box and are comfortable with our cloud, they don't have to go through the list of 4 or 5 other third-party vendors and say, "Hey, where are they hosting my data?"
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Right. So how far away through?
+Martin LamAtlassian Corporation · Head of Investor Relations
+It think it should be a multiyear journey, yes.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Halfway?
+Martin LamAtlassian Corporation · Head of Investor Relations
+We haven't put a number around it.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+All right. More questions from our audience?
+Unknown Analyst
+[indiscernible]
+Martin LamAtlassian Corporation · Head of Investor Relations
+Yes. So -- our server customers, in particular, have been anchored at an incredibly low price point. And oftentimes, when they move over to cloud, there is a step-up to cloud. So I think we've been cognizant to not move cloud pricing too much as we progress through this journey. Over the past couple of years, we have taken about 5 points price on our cloud products, so relatively modest. But I think we don't want to create a moving target for customers because that is ultimately the goal.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+This is an incredibly low price point, really?
+Martin LamAtlassian Corporation · Head of Investor Relations
+Even our cloud offerings today, they're generally priced $5 to $7 per user per month. It's incredible value, especially when you compare it to other software vendors out there. I would argue, we're always going to be the high-value, high-volume provider, and that's kind of core to our philosophy. So that will never change. And if you think about it, our model is really predicated on price not being a barrier to add additional users. So when you add additional users on your team, you don't never want price to be a barrier for that motion.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+All right. So Martin, you had these conversations all day long. So what would you say are the 1 or 2 things that investors are not really getting about Atlassian today? You really like the 1 or 2 sort of understandings on the story today, what are they?
+Martin LamAtlassian Corporation · Head of Investor Relations
+So I think the biggest one is probably, we are, unlike a lot of other companies continuing to invest through this period, right? I earlier spoke about the fact that we're guided by the long term. We continue to have incredible conviction around those longer-term opportunities across all 3 of the markets as well as certain strategic initiatives like serving enterprise customers in a better way, like migrating these customers over to the cloud.
+And so we're trying to drive a level of investment to facilitate some of those motions faster as well as play offense, right? We want to take share from competitors in this environment. So we'll continue to invest. At the same time, we want to balance that level of investments with responsiveness to the macro. So that's the balancing act that we're going through. And so it's about trying to balance while investing in the opportunities in front of us.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+Anything investors don't get that?
+Martin LamAtlassian Corporation · Head of Investor Relations
+I think investors generally are supportive of the longer-term opportunity and our desire to, but of course, in this environment, people want as much more on profitability.
+Patrick D. WalravensJMP Securities LLC, Research Division · MD, Director of Technology Research & Equity Research Analyst
+They really do, yes. They really do. Well, thanks so much for coming and chatting us. We really appreciate it.
+Martin LamAtlassian Corporation · Head of Investor Relations
+Of course. Thanks, Pat.

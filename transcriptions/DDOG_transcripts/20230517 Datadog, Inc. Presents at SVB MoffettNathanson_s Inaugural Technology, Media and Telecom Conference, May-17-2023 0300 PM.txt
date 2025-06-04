@@ -1,0 +1,244 @@
+Datadog, Inc. Presents at SVB MoffettNathanson's Inaugural Technology, Media and Telecom Conference, May-17-2023 03:00 PM
+Event Details
+May 18, 2023
+12:30 AM GMT+5:30
+Corporate Participants
+David M. Obstler Datadog, Inc. · Chief Financial Officer
+Conference Call Participants
+Peter Sterling Auty SVB Securities LLC · Senior Managing Director of Software
+Event Transcript
+Revised May 17, 2023
+
+
+Prepared Remarks
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+I'm very happy to have with us David Obstler, who's CFO of Datadog. David, thanks for joining us. Really appreciate it.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Thanks a lot, Sterling, for having us.
+
+Question and Answer
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+Let's just jump in and hit some things head on in -- there's been a lot of concern over macro headwinds, et cetera, and we watched a lot of the public cloud hyperscaler revenue growth deceleration, yet you guys still put up greater than 30% growth in the last quarter. How are you able to outgrow what the hyperscalers are doing?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. Well, we are correlating. We've always said that we are correlated to workloads that are put into the cloud, but there are some differences. One, we are most aligned towards modern development workloads. The evidence of that would be workloads, the applications built with containers, et cetera. And those growth rates have been different than the clouds because they've been higher because the clouds have a much broader set of workloads they're handling.
+Secondly, we have been expanding our platform and from the initial infrastructure to the 17 SKUs we have, and some of our products are synthetic testing or log ingestion or log indexing. So as the platform has expanded, the growth rate has been higher than the growth rate of the hyperscalers. And there's also market share with consolidation on the platform that's been a growth driver.
+So in some cases, we are correlated, meaning if the hyperscalers are decelerating, we've tended to also decelerate but we've tended to maintain a higher growth rate than the hyperscalers over time.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+So AWS, in particular, commented that -- in their call that the month of April saw further deceleration. Obviously, you reported after so you saw a lot of that and gave the guidance that you gave, what gives you the confidence? What did you see in your business?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Well, first of all, all of our guidance always assumes more conservative assumptions than what we're seeing. So in the guidance, we haven't changed -- you've known us since we went public, we've always given guidance assuming more conservative drivers on both net retention as well as organics. That's 1 thing.
+And secondly, I think what we said on our call was that, since the market change, which was in the middle of the second quarter last year, we've seen the organic growth rate or net retention decline. And we said, in Q1, it was a little bit higher than in Q4, but not as high as Q2 and Q3. And what we said about April was that it was too short of a time and we hadn't seen any difference than that broad trend, which was essentially lower than it had been before.
+So I think, I don't know if they gave more insight than we did, but we said that April looked like the similar months in the affected period, meaning that up or down relative to what we've seen since the market changed in the second quarter of last year.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+One of the other things that you called out was kind of the patterns you're seeing in some of your larger customers. What -- any more color there in terms of what was driving that behavior?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. So customers that had ramped very rapidly, either their business ramp they were in sectors where they ramped or their use of the cloud ramp very significantly, have tended, and we said this starting in Q2 last year to be more focused on cost containment. And because the spend was larger, there was more to work on than customers that were either younger and just ramping or were smaller.
+And that's continued through -- from the second quarter through what we said in our comments on the last quarter. In some cases, that optimization or that work is leveled off. We said we don't know if there'll be another wave, but that has already been optimized. And in other cases, there is -- that work is still going on.
+So that's what we saw. So the difference between a combination of the amount of spend and how quickly it grew, whether you were in certain industries and affected how much you concentrated on cost management.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+I was remiss in kicking off to remind people that there is a QR code up on the screen. So if you do want to submit a question, scan the QR code, and it will come up to me here on the iPad. Let's drill into that cost containment or cost optimization. How does that either directly or indirectly impact the business? I believe you also rolled out some tools to actually help customers in that process?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+We did. We did. So our business model is that is land and expand. So clients generally can use the platform. They can use the platform based on a commitment over, let's say, a year of capacity. And then they -- we charge that from we meet or if they go over that, they have an on-demand. And so the way that this manifested itself was not the cross-sell and not the unit price, but on the number -- the speed of the number of units consumed.
+So that's -- so they were clients who were cost managing and optimizing leveled that off more than they had. And so what that means is because our clients have not tended to over commit, they extended to say, sure, that means generally, they're spending their commitment as they had before, but they are not as quickly getting to their next commitment and that's affected the rate of growth of the client, mainly in the number of units consumed.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+That makes sense. And have you seen a change in appetite in terms of the duration of that commitment?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, a little bit. We -- clients have, over time, as they become more enterprise, I mean larger, have wanted to go multiyear a little more around the edges. We don't drive it that way. We don't incentivize to it, but clients have moved a little bit, but this is around the edge. Essentially, the average contract duration has moved out a little bit, but not materially relative to what it was before.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+And that's also kind of match that to cash flow. Your payments and collections also are similar in terms of that duration. It's not like you have a large multiyear collection.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+We really don't. Very few of our contracts are multiyear. So there are some times that we have individual bills -- I know this is 1 of your questions, that create a departure of RPO or billings from revenue, but weighted average that's noise in a sort of a year, and it tends to head back pretty much pro rata to revenues.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+Yes. Just I want to back close loop on the cost optimization. Is there a sense -- I mentioned it's difficult given you have so much customers, but is there any sense like what portion have kind of started or gone through the process? Or is there a way of saying like in baseball analogy, are we in the fifth inning of this, the seventh inning stretch or still in batting practice?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+I mean we're assuming our -- from what we're seeing, we're assuming this will continue throughout the rest of the year. That's what's implicit in our guidance. That is largely based on the fact that we're not economists, but generally, the Fed is not -- won't stop until what they're doing is going to have an effect on the economy and on inflation.
+And so in looking at past cycles, economic slowdown has continued past when they stopped tightening. So we're just assuming that's going to continue through the year. We're not smart enough to know, we may have that wrong. We think it will end. We think it will be in a -- we think we have a very long-term opportunity and that clients can optimize forever.
+We also see that in the fact that our gross retention is staying very high. And that means clients aren't leaving us. Clients are modulating the spend. So we think this will be over, but we were very careful on the call and otherwise not to make a call. We're not smart enough to make a call of an exact month.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+And within that, are the optimizations just narrowing the speed of the expansion? Or do you actually have customers that are reverting some of the workloads back out of public cloud?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Not really. No. What we have is -- for the most part, we have clients flattening the growth of spend. It would be -- or in the case of a few examples we've given their business has been substantially disrupted, meaning their volumes are less. In those cases, that's not moving volumes out of the cloud.
+That's the volumes are declining. But for the most part, most of our customers have tended to flatten more their growth than replace. We haven't really had that or reduced.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+I can imagine that the immediate thoughts are going to go to financial services, crypto, some of those areas. Have you ever articulated what part of the business are associated with various industries?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Well, we have -- we said we're very, very diversified and we don't have concentration that we represent the digital economy. We said crypto is very, very low single digits, not a lot of exposure. We said that consumer discretionary, which was e-commerce, food delivery that type, we said that was very low double digits in exposure.
+We said -- at the time of COVID, we said that travel was around 10%. We said that we don't have any dominant sector, but financial services is 1 of our largest sectors, which is a good thing because almost all of it is things like insurance and credit cards, and we have some payments companies, but it's tended to be -- from just the customer names, it tended to be pretty stable. We don't have regional banks.
+It probably has most to do with what they do in their business rather than us. So we don't have a lot -- we have a lot of boring insurance companies and things like that. So that's good. That makes you feel good at this time. So yes, it's 1 of the larger, but it's been very stable. And again, except for crypto, if you take crypto out and we don't have a lot of crypto.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+That makes sense.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+And there are other sectors that that matter are tech software, gaming. Again, none of these -- we're really the digital economy. So I would say if financial services was 75% of the digital economy, we would -- but it isn't, it's maybe 20% or something.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+Yes. Yes. And as you're alluding to tech, the follow-on question that I get is exposure by size of the company because it's usually people are asking, what about your exposure to small tech, start-up tech.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+We're about 1/3 enterprise, which is 5,000 employees or over or about 1/3 middle, mid-cap or midsize. We are midsized -- Datadog is midsize, 5,000 employees. So I don't know if you consider Datadog at [ $20-some-billion ] market cap to be an SMB, but I don't think so. So that's -- so -- and then we have 1/3 that is 1,000 employees or under.
+We haven't said 100 employees or less, but I'd say we're pretty diversified across that. So we haven't seen a cycle so far of death of company in any material. We don't know. Maybe that will happen, but that hasn't happened. Another thing that's that because the gross retention in this SMB or 1,000 companies or lower, has been stable, hasn't changed through all of this and has been in the mid-90s.
+That indicates to us that, as you're trying to save costs, there're certain things that you have to have. And if you have a digital business, you're most likely going to have a monitoring. So you're probably going to do a lot of other things before you cut there.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+Yes. With -- you made the comment optimizations -- you can't -- you're not going to cut to 0. So as that kind of plays out, is there something that you see as a catalyst to reaccelerate demand?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Well, 1 thing that is interesting is that the cycle of the caffeinated cycle or COVID, whatever you want to call it, we said on our call, broke in May of last year. So when you think about it, when your comparisons are versus that period, and you're at a different level of consumption, you're going to be decelerating until the period you're in matches the period that you're comparing it to.
+And what we said was that Q1 was slightly less than Q2 and Q3 last year. So if that was to continue, then it just mathematically, there would be some slighter deceleration. So you're lapping those compares from a different environment. So that means the rate of decel is likely to go down, but then the question is, do you excel? And then you have to get -- you have to start seeing the weighted average spending of customers grow at a higher rate than the period of a year ago, we have -- we said on the call, we haven't seen that yet. And that's what we're watching for.
+If that happens, then there's a little less cost pressure because, essentially, most of our revenues in the near term are created by customers we have already. Most of our revenue growth in the future is by customers that we're getting. And we said that's been fairly stable. That's the good news. We've been getting about the same amount of business, but it's the existing customers that have continued to exercise that cost constraint.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+On those new customers, what's the land experience like now versus maybe a year ago? Are you landing larger, smaller? And what's the profile?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+It's very similar. Our Q1 was very similar to the land, the same land we had a year ago, tend to land with 2 products. And we tend to land in a huge distribution between sort of landing and replacing what's there so you might have some multimillion dollar lands all the way down to really small.
+Remember, we're land and expand. So most of it is on the smaller end. And the average land has gone up slightly over time, but essentially has gone up like this. So I would say the landing has been very, very similar in the Q1 we just experienced with -- versus the Q1 we had before the change of environment.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+And that's both on number of modules, as you said, as well as kind of the use cases?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+It is. It is. And the spread -- the spread, some traditional industries. I think if you read our -- and listen to our earnings and you heard that, you saw a variety of industries, you saw cloud native, you saw expansion, you saw takeouts, you saw -- and that's been going on for quite some time and is still what's going on in the land cycle.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+And that early expansion phase, given the comment that it's more in the larger customers, have slowed, so landing is about the same, but is the expansion about the same as well?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Expansion is higher than -- so large -- larger already expanded have the lowest expansion rate. And then the next would be in terms of the size of -- the size would be the smaller expanding and then higher than that would be the new landers in the first year.
+They are still growing higher than the existing customers. We've always had the initial land and expand cohort be faster than a more mature cohort, but all those cohorts are lower than they were at the top of the caffeinated period. All of them.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+And again, when you say faster, on a percentage, not the dollar terms because the figure...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. So essentially, if we were -- I'm making something -- if the average was a 70% growth rate for those that landed 1 year, the comparison of the spend -- when they landed a year ago and today, that might be 50% today, which is higher than those other cohorts, but lower than what it was because cost consciousness and the business effect is pervasive. It's everywhere. It's just -- the relative intensity of it is different in these cohorts.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+Has the competitive intensity changed at all given the environment?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+It hasn't. We still have winning, we believe, increasing market share in new business. And we believe in the areas where we are strongest, which is modern dev development, client-facing applications that are high priority, meaning they can't go down, and that's what we've always won at.
+So it hasn't changed. We haven't seen a movement, and there's been a lot of writing about movement to in-source or open source or -- it hasn't really changed. We still think, long term, the movements towards the packaged solution. And it's, for some time, been net-net balance of movement towards the platform, meaning consolidation on the platform. So the competitive environment has not changed very much since the more difficult economic times have occurred.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+I imagine you see different competitors depending on that 1/3, 1/3, 1/3 in terms of size of the company.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+No, we see different competitors based on the business activity. So you could have a modern dev critical application in the U.S. government or the largest enterprise where that they would choose a Datadog or in an SMB. That's why those who conducts that activity has largely been determined is what the activity and the function is that's being -- that's determined whether Datadog wins.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+Is the buying process different, meaning, in other words, are these all RFPs where you're working down to a short list? Or because of your position, especially with hyperscalers, you're actually winning some business without necessarily seeing that RFP...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. A lot of it is greenfield and doesn't go through RFP. And one thing that I think has intensified in this economic environment is more scrutiny. So more procurement groups being involved. That's manifests itself mainly on existing customers, but I think you will see, I would say, more -- whether they mean it or not, I could choose this, right? So the gross retention indicates they're not moving, but this is the way that procurement departments are operating more aggressively in this economic environment of more cost management.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+Besides the cost optimization, do you find that the procurement process, it's lengthening, but not stopping? So I -- harken back, if we remember the great financial crisis, we got to the point where it's very quickly, "Hey, we just don't want to do this project at all. Let's revisit this a year from now versus are we at the stage where it's just lengthen the sales cycle, but things are still coming through?"
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+No. And I don't think we've even said the sales cycles lengthen. It could be, but since the new logo production in both dollars and amount has been very stable over the last 5, 6 quarters, we haven't seen much of a change.
+And we haven't -- we've seen that the projects that are important and are prioritized continue on. We always have at the end of a buy and maybe some size, but back and forth, whether it be security or price or whatever, that's buying. And that's happening. I don't know, we haven't seen the pipeline conversion from what we see in qualified pipeline entering the quarter change that much over the past 5 or 6 quarters. Maybe we have, but it's hard to tell. It's really hard to tell when you look at sales force data and you analyze it.
+But the fact that we have had about the same number of new business so far indicates that, that's continuing versus the growth rate of existing customers, which had that change.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+So does that mean that, including those existing customers, that is the top of funnel activity that's changed that the conversion rates are similar?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+No, it's the existing customers that are already using the product and essentially are up for their new commitment who are, over that period of time saying, "Somebody should look at this and see if we're using all of it." That's what's been happening to us. The new business has been pretty steady and solid.
+Like I said, the first quarter had more logos gross than the first quarter last year and had about the same amount of business. So that -- the first quarter is always lower than the fourth quarter every year. So the only conclusion we can have, maybe it's a fast conclusion is that, that buying of new business is stable and hasn't changed very much.
+Yes, there are other things that could account for that. One, maybe we're distancing ourselves in product, so we're winning more. Maybe we're getting better at selling. Maybe we do have a larger sales team. So those are things that -- it's hard to know all that, right?
+But the amount of new business and the breakdown of the new business that's been created, meaning they weren't a customer before, is very similar to what it was a year ago in the first -- it was in the first quarter.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+You mentioned...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+I know others have said something different. We're just reporting back what happened to us.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+No, we appreciate that because that gives us a chance to do that comparison because we are seeing different experience.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. I think they are different. I think the fact that -- I think a land-and-expand type of motion probably is able to continue more. Like when you -- when everything is top down, you got to do this in multiple millions for 3 years. We don't do that, that much. So I'm not a data -- we're not a data [indiscernible], but I would assume that's a harder thing to do in an economic environment than land and expand and start with 10,000, 50,000, I would assume. But -- that's my understanding of human nature.
+But again, we don't do that. We're not a top down. So maybe that's indicative of the fact that our -- the land and expand is easier, keep chugging in more difficult economic times, could be.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+Small chunks, I think, are easier.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, could be.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+You mentioned the larger sales force. Maybe help investors understand kind of the rate and pace in which you've expanded specifics. But just qualitatively, what's happened over the last year or so and especially the maturity of the sales force.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Last year, we expanded our sales force to end with quota capacity that had -- was growth around 50%. And that was a combination of hiring people and ramping them. We've also had lower attrition rate in sales. The environment is less competitive for enterprise sales and/or we're doing a better job with training and retaining.
+And so we expanded. And so that expanded capacity is coming online this year. And on the other hand, what we said was we have a lot of that capacity coming on, and we're going to slow down or get more, I would say, prioritized in the growth rate of capacity because what we said on the last call was that, we'll end the year with expense growth in the low 20s and that headcount would be about that.
+So we are slowing down the growth of increasing capacity, but there's a lag effect in the ramping of capacity, so the quota capacity will be increasing at a higher rate for this year than the amount of head count in the year.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+And you mentioned on the retention, but easier to higher I would imagine?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+It is. Yes, it is. I would say that market, it is. To get the right people, it's still not like we're swimming around in people and tech, and good tech people in certain areas are still challenging, but it's a much more benign labor market than it was last year.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+And have you changed like the mix of how much of the business is coming through partners like the hyperscalers versus what you're doing direct?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+It's always -- we always, we don't care. We essentially want to deliver in any way the client wants. We're a heavy player on their marketplaces. The main advantage of going through the marketplaces is that the clients can use their hyperscaler purchase commitments. That's the main advantage of it.
+And so that's been increasing over time, but we essentially -- we're indifferent. We basically -- however you want to buy is fine and so are the hyperscalers pretty much. That's been increasing as a percentage. We also have slowly increased the percentage from the systems integrators. But again, we're not the kind of a sale where it's not like a channel sale where we don't even touch it. We touch it together. So we're always working with them in co-selling.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+Plus the system integrator is a little bit tough given how fast you can actually deploy the solution.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Exactly, yes.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+You've said a number of occasions that, listen, the best way to judge the health of Datadog is revenue. It's not billings, it's not RPO. Why is that?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+The -- so it's that and then it's the computation of that to UAR. And they're very linked. There's a slight adjustment you have to make based on linearity, right, which we've gone through. And the reason for that is that we don't engineer the company for when the bills go out. We are lucky enough to be cash flow positive and to have been for a long time.
+So for us, we're not trading off paying like in a big lump sum upfront for the structure, pricing and value of the deal. So the billing is an output. And because we don't engineer the company that way, it isn't the little micro things that make it farther away, aren't that helpful. So what we do is every time they get out of whack, every time there was a big bill that went out or it was a different [indiscernible] we -- if you look back through our earnings, we pro forma it out either way. If it's above, we go, don't look at that as this. If we go -- so we're not being selective, we're always.
+And the reason is that the driver of revenue and production for Datadog is not about when the bill went out, it's about the clients use of a commitment, and that's the reason.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+So with that being the case, you put yourselves in the shoes of an investor that's trying to understand kind of directionally if the business is getting better, getting worse. Outside of revenue, is there any other things that you would be looking at?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, the linearity, so we've -- of ARR. So basically, that's what we said there was a factor in Q4, where we said all the time. We're between 34 and 36. And what that means is that the run rate -- exit run rate of the business is higher than 1/3 -- multiplying the revenue times 4, right? And then so we basically say -- when we say it's normal linearity, what we mean is it's around 35. So you can use that. When we say it's not normal, it might have gone down to 34.2 and maybe a little above. So we give little tips like that. So that's the thing.
+I think that the other things, billing an RPO, if you look at the average of that and you basically take our pro forma, then you can get something into it. Now it all gets sort of back -- you see if you do the pro forma of everything that we did on the call, it all is around 30 something -- low 30s. So I think there's something in it as long as you remove all the things that are not related to the recognition of revenues going forward.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+Yes. Yes. On the split of the business, the core cornerstone of the company was built on infrastructure. It's been around the longest, but you talked about how now the APM and log suite has gotten to that $1 billion rate. What does that tell us around the rate and pace of the different franchises, infrastructure versus?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Well, first of all, we have a platform that actually we often don't even control this basically. They have all the functionality. They're looking at using the observability platform. And we want to make it that way. And that's 1 of the things that's happened. So that's 1 thing. Two, is we've always said that if you are fully ramped in buying the other 2, you're going to be in the spend between 2 and 3x infrastructure. And guess what? Right now, we just showed, it's pretty easy math, it's 2x, right?
+So on a weighted average -- and that's including the fact that there are a lot of customers that are still not using the other 2. So if they all use the other 2, then it goes more towards the 3. So what that means mathematically is that the rate of growth of infrastructure has been higher than the hyperscalers, still is. And it's been -- but -- and this has been for a long time, lower than the growth rate of APM and logs as penetration of infrastructure companies who then take on APM and logs, which we didn't have 5 years ago happened.
+And that's still the case. If you go back and look at all of what we said, you'll see that it's been going like that, meaning if this is infrastructure, it's been going, I think Yuka said, there are some little things in your math. I think your rate of growth and infrastructure is lower than it really is, so maybe it's just some little details, but then APM and logs have been higher than that.
+I think that they're getting -- I think that APM logs, most probably are growing still a premium -- a significant premium, but may not be as high as the premium was when we had no penetration of APM and logs on infrastructure base pretty much by definition.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+Yes. Yes. Law of small numbers.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Law of small numbers. Exactly. Exactly, yes.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+Along those lines, you had mentioned the 17 SKUs that are out there. What are some of the programs or things that you're doing to help drive that adoption, especially in this environment?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. Well, we have a whole department of customer success. Main metric is none of them driving that adoption. So essentially, we have a commercial sales team for the non-enterprise that lands. As we said, most are landing with 2 modules. And then we have a large department of account managers and a large department of technical account managers that do nothing other than help clients discover and use the additional products.
+And so -- and we invest in that more and more given the breadth of the platform. And then we have an enterprise essentially, the targets and the way it's structured is there are certain people in enterprise, who are spending more time on hunting a new logos. And there's others that are spending more time on upselling the product suite and getting to new divisions. So a very large percentage of the go-to-market organization does and always has been about upselling the various parts of the platform.
+Now it isn't that we have to get a new sales because, in a platform sale, they can also self-discover. So there's another sales team out there that is really important, and that's the customer, who's actually using it in a frictionless way. And that's really important for Datadog.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+I think, even prior to the IPO, you had those customer success teams that...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+That we did. Definitely, we did.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+Across the customer landscape.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+It's the same -- so basically, whereas when we went public, you had infrastructure and then they were working on the infrastructure and then they were landing APM and logs. Now they're landing -- sure, there are 17 SKUs, but there are families of this. So they're working on landing the families of the different SKUs.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+So this conference, you can't go any session without talking AI. So how do you think about -- let's say, first, how are you using AI to actually change the way that you run a business?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+That's good. So there's -- I think there's 3 or 4 ways that we're looking at AI. It's very early. We are essentially very early in experimenting with everything from the marketing department, generating collateral to developers. And when I mean very early, I think there has probably been a real big excitement, but commercial organizations have to look at their practices, their security, their governance, their privacy.
+So what I mean early meaning we have some users of it. And we're essentially plan to increase that over time. So we think there will be efficiencies for us internally. That may be as copilots as they say, in helping everybody do their job better or it might be, over time, ways of creating more menial tasks that are being done automatically. So that's how we're using it.
+Secondly, I think we always have had the type of customer that's an AI customer has -- is a good customer for Datadog because they're basically a cloud-native analytics data company. And we highlighted 1 in our speech, in our prepared remarks, but we have many others that had, for a long time in AI who have been Datadog customers. And we think they're perfect Datadog customers because of what they do, how they provide their service.
+And then you have the -- you have the fact that pretty much in the history of Datadog, anytime there's been a technology change that has meant you have to organize the development of software that runs over Datadog, and all of these models are going to require that, meaning they're dumb unless they run off of organized data, right? And training. So it's too early, but we think there'll be lots of workloads and cases that are perfect for Datadog in our customer base.
+And then the last thing would be in our platform itself, which is to create greater utility to discover problems and use. And we've always had machine learning and automation, and we've been on that journey for a long time. And we're optimistic that we're going to be able to add parts to the platform. We have a number of things we're working on. We tend to announce things at DASH. So we're working on different things to see if we can find the things that will be most useful to customers and then have the time to get customer feedback to sort of be on that schedule.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+Yes. It would seem like the companies with the largest data sets are perfectly aligned to benefit. And given what you've done with logs in particular, it would seem like putting this -- putting it into the platform to enable your customers to be able to is going to -- beyond just like is your application running, it's more -- can you actually put some of the utility into the log system and so...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, definitely. The announcement we made, which a lot of -- which is a -- which is an AI integration -- which is an API integration to open AI, we have over 600 integrations. Our -- at the very core of the platform, we want all of the software that our clients are using to be able to be monitored and how that's interacting in a production environment. So that was what that was. That's like a -- that's like 1 thing you do, but that's not embedded in the platform, and that's what I was speaking about in my previous remarks about embedding the large language models within the platform.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+Do some of these kind of newer areas bring an incremental level of investment. And where I'm going with this is, your gross margins have actually run above 80% -- kind of above the long-term target. Do you leave those long-term targets because you think that there is going to be this incremental investment to handle some of this incorporated into the platform?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+We leave the long-term targets to be able to make investments in the infrastructure platform, which we've had at different times so that we can have inefficiencies that might take it down in the short term but will enhance the cost effectiveness of the platform long term. That's what happened in our Husky, which is the data stores. It could happen here.
+So everyone asked, well, you've been running against that a long time, and we might run at that level forever, who knows, but we want to have the ability to essentially work on the platform. And when you work on the platform, you have to leave the old stuff running because you have existing clients. So you have built in inefficiency or when you have a new data center. So all of that is to permit us to do the right thing in scaling the platform over time.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+So you've been very diligent in terms of the margin improvement in light of the balance between growth and profitability. One of the questions we're starting to ask more companies is, wait a minute, let's say, whether it's later this year or into next year, whenever it is, when we start to see economic improvement, do you think that you'll rethink again and say, "Hey, listen, if the opportunity is there, you'll take advantage and step on the gas and maybe give back some of the margins to capture more market and growth opportunities?"
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. Hard to know. It's really a trade-off between the scalability and economies of scale in the business, right? So when you get customers and you retain them and grow them, it's more efficient than if you had to produce that new business every -- there's lots of efficiency. So it's really essentially that economy versus the investment. So far, we've been able to balance that.
+We want -- we pretty much have given some guidance for the rest of the year. And we take what we say seriously, so we want to balance that. I could see a time when there'll be investments that will be no brainers. And we'll tell everybody this is what we're doing. So I think we want to leave that flexibility, but we also understand that we're an over $2 billion run rate company, and that, as software companies grow, they're maximizing both -- they're maximizing the free cash flow compounding over the long term, which is a combination of the top line and then profitability, and we're trying to balance those 2 things.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+So we talked about infrastructure. We talked about APM logs, but let's kind of dive into security of -- with the time that we've got, in particular. Where is that kind of security attach within the customer base? Let's start with that.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. So we said and repeat that it's attached -- it's being attached through the customer base. We're not selling security stand-alone without -- so far without them having our DevOps. It is attaching successfully in places where security is relatively near DevOps. The functions or the ability of DevOps to use security is either happening or being permitted.
+Like we had in APM, the state of the development is that it satisfies some use cases, but not all use cases. And it's being successfully attached to our existing customers when we said we got to 5,000 customers.
+We still have quite a bit of build. We have to get to product parity versus some of the other competitors, which are not there yet. And then we have to then from there, figure out whether the -- our strategy is going to be to lead with security into the CISO, which is more of a top-down sale, or to have it in, again, specializing in places in a more fulsome way, where it's attached more to DevOps.
+And we've said all along, and as the question has come out in specialized sales team, et cetera, that we don't know the answer right now until we have the product fully built, we won't know the answer. And we're happy with the success in attaching it where we are, but know that we have to build more functionality in order to be a leader of this in long term.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+For those that are less familiar with the security segment, when you talk about parity with competitors, who are those competitors that you think about?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. So the -- and this, by the way, is not endpoint security. This is cloud security or cloud SIM. It is monitoring the workloads in production environments or the applications in cloud. It is not monitoring the endpoints or laptops or others inside the company or firewall. The leaders in that today are Palo Alto through their Prisma product.
+They, of course, are 1 of the larger security companies. They have made significant investments in cloud security as well. And the emerging companies with the names of Wiz and Orca and others like that, there are -- as you shift further over towards the development side, this goes more into preproduction. You have companies like Sneak. So essentially, that's the playing field that you have today that is in this cloud security or cloud security app.
+The name that's being bandied around is CNAPP, and that's what cloud-native application.
+So this is different than the endpoint market. It's also different than the network market. And there'll be players like Palo Alto that go across it and there be players that are specialists in 1 of them. And the landscape is still evolving. And those of you that follow security probably know this well, but you really have to plot that out in order to understand the landscape for security.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+Palo Alto has also approached it much more aggressively through acquisitions.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+They have.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+And you've done a lot more through kind of internal innovation. Is that going to be kind of the continued focus?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+We've made 2 acquisitions. We made a relatively large acquisition for us for screen, which was application security. And so far, what we've done is -- these are more acqui-hires. And I think we'll continue the way that we always have, which is we find good teams that can integrate in, don't forget almost everything we rebuild on our platform.
+So we're not looking for point solutions stand-alone. So if we can do it and accelerate it in an effective way through -- we'll continue to do that, and we've been doing that. And -- but if we can't, we're building it organically. So it's likely to be a combo, but in the end of the day, it will be 1 unit all knitted together.
+Peter Sterling AutySVB Securities LLC · Senior Managing Director of Software
+Makes sense. With that, David, thank you so much for joining us. We really appreciate it.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Thanks a lot. Thank you very much, everybody. Thanks. Good questions. Enjoyed it.

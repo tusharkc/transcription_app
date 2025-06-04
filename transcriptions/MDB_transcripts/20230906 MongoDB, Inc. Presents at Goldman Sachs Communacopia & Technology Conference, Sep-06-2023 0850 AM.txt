@@ -1,0 +1,207 @@
+MongoDB, Inc. Presents at Goldman Sachs Communacopia & Technology Conference, Sep-06-2023 08:50 AM
+Event Details
+September 06, 2023
+4:50 PM GMT+1
+Corporate Participants
+Dev C. Ittycheria MongoDB, Inc. · President, CEO & Director
+Michael Lawrence Gordon MongoDB, Inc. · COO & CFO
+Conference Call Participants
+Unknown Analyst
+Event Transcript
+Revised September 06, 2023
+
+
+Prepared Remarks
+Unknown Analyst
+All right. Good morning, everybody. Is my mic turned on. Okay. Now it's turned on. Good morning, everybody. Thanks for making it to the second day of the Goldman Sachs Communacopia Technology Conference.
+A real delight to be able to host yet again, the amazing MongoDB management team, Dev Ittycheria and Michael Gordon. We all are really happy to have you guys present.
+As you can see, the number of investors is roughly 2x of what it was last year. So definitely more interest and not less interest. The rate at which you guys are putting up numbers, maybe we'll have to upgrade you to the grand ballroom one of these days. No promises, no forward-looking statements, but if we keep up the Atlas growth of whatever it is, and one day ballroom.
+So with that, although it's fine use terms like double-click, segue, drill, then drinks are on me tonight at cocktails. So we'll try to not use cliches, but just use natural language search because we're learning, and we're going to use natural language to conduct this meeting. With that, Dev and Michael, welcome back.
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+Thank you.
+Michael Lawrence GordonMongoDB, Inc. · COO & CFO
+Thanks for having us.
+
+Question and Answer
+Unknown Analyst
+So Dev, you've been on this journey, the shift away from relational to non-relational. You've been absolutely spot on. And I keep asking the same question. So what does the company look like 5 years from now? And is the answer going to be the same as you said last year? Or there are some nuances, some new developments. That really change your view or enhance your view as to what MongoDB is going to look like and what you want it to look like in the next 5 years?
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+Yes. So I think last year, we talked about our vision about a developer data platform. But let me just for context, walk people through the journey we've been through so you understand, where we came from to better understand where we're going. So when I joined the company, this was 9 years ago, actually, this week, ironically, we had just done about trading $30 million in revenue, and we're still considered an interesting toy, a cool technology, but we're still very unproven and our job -- and Michael joined me soon thereafter, our job was to really show people that we could be truly a viable technology for mission-critical use cases.
+We did that. then our job was to say that we could address a wide variety of use cases that we could become a general-purpose platform. We did that, and that's when our customer accounts started growing quite aggressively because of the variety of use cases people run. Then the third step of the journey was to introduce a cloud service. Now we did this in 2016 before -- this is before Snowflake was popular, before Elastic, before Confluent and there's a lot of skepticism about could an independent company, both partner and compete with the hyperscalers.
+And a lot of people thought we'd be roadkill for someone like AWS. We obviously proved that. And a year later, after we went public, AWS announced their MongoDB clone, and there was some panic, oh my goodness, as MongoDB numbered. And we -- at that time, I said, I think this is a massive validation for us and turn out to be true. And Atlas was 2% or 3% of revenue went in public and now it's 63% of our business.
+So the next edge of our journey is really executing on this developer data platform. What that really means simply translated is we want to be able to enable customers to address a wide variety of use cases across a wide variety of deployment models. And so that's our run and grow strategy. And so you're seeing customers, and I'm sure many of you have done your own channel checks. We are one of the most popular technologies in the software industry. You go to any corner of the world, someone using MongoDB for something. And they could be trading platforms on Wall Street, billing systems for telcos, streaming platforms for media companies, gaming, et cetera, and start-ups now doing -- building AI applications.
+So I think to answer your question succinctly, we believe that we will be a modern platform to enable people to build the most modern and performing applications on MongoDB.
+Unknown Analyst
+Got it. Michael, over to you. So you occupy a very important role at MongoDB. One of the -- your responsibilities is to help scale the company from a system standpoint, go-to-market, whatever it is. As you crossed $1 billion in revenue as you approach the next several billion. What are the key pillars of the strategy -- growth strategy to help the company scale into a multiple of its current size?
+Michael Lawrence GordonMongoDB, Inc. · COO & CFO
+Yes. So a few different things. we're blessed with a very large market. And so if you think about the market today for the IDC numbers is a little over $80 billion in 2023, growing, I think, to $136 billion in 2027. And for those who are newer to this, that may seem like fairly rapid growth, right? You think of the database market, the developer data platform market as a relatively mature market. And shouldn't it grow something closer to global GDP, not at 13%. And the reason is, as Dev sort of indicated, we're at this very critical role in enabling companies, our customers, businesses globally to compete, right?
+Software is the basis for competition for companies today. That's how you differentiate -- can differentiate with off-the-shelf package software. And so we're continuing to go after this very large market, we're now at $1.5 billion revenue scale roughly, and we're closing in on 2% market share.
+So it sounds a little bit boring and consistent because we've talked about this for a while, but the real focus is on execution. We have this very large opportunity ahead of us. We have this incredibly well demonstrated product market fit, we have incredible developer mind share, sort of the hearts and minds and developers. But they still -- we still have to sell. We still have to go out there and tackle the opportunity. And that's sort of what we focus on day in, day out is the execution.
+Obviously, the investments in the developer data platform help that. And you can see that with the incremental workload adoption that we're getting. But there isn't some sort of big bang that we need on the horizon to happen. It's really about just going after and capitalizing the opportunity. Our market is different than most in that -- it's not a sort of top-down sale and you sort of displace a competitor now every single application within Goldman moves to MongoDB, right? It's sort of workload-by-workload. And so that's different than most of the software and obviously I recognize many of you are proud of yourselves on your pattern recognition skills. So this is -- this doesn't quite fit the pattern. It's a little different...
+Unknown Analyst
+It kind of screws you up.
+Michael Lawrence GordonMongoDB, Inc. · COO & CFO
+And so we have to go after workload-by-workload. And obviously, each subsequent workload is faster and you get the benefit eventually with an account of standardization, and you can see the sort of increased sales and marketing efficiency, but it's really a focus on execution.
+Unknown Analyst
+Yes. This is something that have not really planned. But as I listen to your talk, Michael, Who are your role models for helping scale the business? I mean who do you look up to in this tech industry or outside and say, you know what, that's a d*** good recipe for?
+Michael Lawrence GordonMongoDB, Inc. · COO & CFO
+There's not some one company that like we aspire to be them. Obviously, the -- where we have obviously a lot of respect for a lot of companies out there, I mean, starting with AWS, obviously, they built a great franchise. They created the whole cloud industry. Then there's other companies like ServiceNow who've grown very fast and also delivered very healthy margins. Being able to use a core technology to expand to a bunch of different verticals, which is similar to what we're doing now in terms of expanding to bunch of different use cases. So I think those are kind of analogs we think about. But ultimately, we kind of stay more focused.
+Unknown Analyst
+Somebody is waking up.
+Michael Lawrence GordonMongoDB, Inc. · COO & CFO
+We're more focused on trying to listen to customers. And I think that journey I described earlier was really a function also listen to customers on how -- we realize how the buying behavior is potentially changing and what opportunities that gave us.
+Unknown Analyst
+Got it. Got it. Got it. Dev we have a good fortune of coming out to MongoDB live in New York. I was just blown away by product after product after product announcement. I don't know where to begin and where to start, but we could go multiple places, but let's start with the Vector Search. I know that you've you have fielded a lot of questions about the direction of this market. So maybe help us understand what exactly does MongoDB want to accomplish with your Vector Search product. what kind of opportunities this could open up for MongoDB then we can talk about the streaming capabilities, which were equally mind bending?
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+Right. So I think the reason vector has gone a lot of hype because obviously, AI is at the top of mind for everyone. And the 1 kind of -- 1 of the key tangible ways people can look at AI is through these new things called Vector Search or vector databases, right? What I need to remind people here is that vectors are really another form of an index. In fact, it's called a reversed index. And every database has an index. We have an index other databases have indexes. And my belief is that over time, every database or data platform will embed some sort of vector search functionality, much like they do today with regular indexes.
+The differentiation of why someone will win is the developer experience they offer in terms of how well integrate us into the platform, how well it enables the overall developer workflow to build applications. And that's where -- if you talk to people who are using these stand-alone vector database solutions is still quite painful. They have to marry the vector database with another database, in many cases, MongoDB to store the metadata and have pointers to the actual data.
+They are now trying to build functionality that we already have functional like scalability, things like sharding and fail over things like distributed capabilities so on and so forth. And in some ways, we have seen this movie before. 3, 4 years ago, you have been asking me about time series databases or graph databases or new SQL databases that we're trying to modernize SQL, right?
+And all those things kind of with the shiny new toys and then they hit a plateau. And the reason they had to plateau is that ultimately for customers to really embrace new technology. One, you have to have a massive developer mind share and to get massive developer mind share, you really have to have -- add compelling value to their development workflow. And so we believe the best thing for developers is to embed Vector Search functionality into their existing workflow MongoDB, leveraging the MongoDB Query Language, leveraging the document model, leveraging all the performance, scalability and resiliency that we have built into the product and is available day 1 and it just enables them to do more things.
+So our preview product has been massively oversubscribed, has tons of customer interest and customer interest from large enterprises, even though we have a lot of starts, but large enterprise interests because they see the benefit of using MongoDB because we're already in there inside the 4 walls of their enterprise. And so it's much easier to leverage MongoDB because they know MongoDB and know how popular it is inside the organization, then using another bespoke solution.
+And that's the last point. Customers have realized buying the next new technology for the next new use case has diminishing returns. The cost of learning, managing, supporting those different technologies becomes quite cost prohibitive. And so that's -- again, back to our developer data platform. We want to enable more things on one platform that enables customers to consolidate onto a fewer set of technologies.
+Unknown Analyst
+So when you talk about the several hundreds of customers that are building applications -- generative AI applications, Vector Search is an important component of that?
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+Correct.
+Unknown Analyst
+So it's already scalable. It's...
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+I want to be cautious. We have customers using our preview technology in production use cases, yes they are a minority, a lot of people are playing with it. But people are already using the underlying MongoDB platform as the basis to run these AI applications already.
+Unknown Analyst
+All of them are vectors.
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+Yes, yes. Correct.
+Unknown Analyst
+Got it. Got it. Got it. So. On that particular topic, what is the difference between Vector Search capability and a full-blown vector database, we [indiscernible] .
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+We think the one is the same. It's just the way it's encapsulated is you have to install a separate point solution or you embed it into a broader platform. It still serves the same needs.
+Unknown Analyst
+Yes. Recall it's about 12, 13 years back or so, we had this explosion -- Cambrian explosion of non-relational databases. And you're right, they were -- I remember writing your report, we talked about 25, 30 companies. your MongoDB was one of them and I think it was called a different name, this 10 years, 12 years back.
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+Yes, the company name originally was 10gen but their product was always called MongoDB and there's a decision made prior to me joining but the company realized we should just leverage the product name as the company name.
+Unknown Analyst
+It was a good decision on their part. You talked about the direct benefits MongoDB you can see from generative AI with Vector Search. But can you talk about maybe some of the indirect benefits because I think that's one of the more compelling aspects of the narrative around app modernization or developer productivity yielding new workloads. Can you talk about that opportunity?
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+Right. So we believe we're going to be beneficiaries on 2 key dimensions of this AI wave. One, all these cogeneration and code assist tools will make developers more productive. Now I think it's too early to give you a quantitative number. Some people say 20%, some people say 40% there's a lot of numbers banded out and no one's really done a true A/B test and the tools are still quite early.
+But there's no question that developers will be more productive. And some people said, well, if it's 30% more productive do you need 30% less developers, actually, I disagree with that vehemently because every development team, I know, including ours, has a big backlog of things they would like to do, but they just don't have the development capacity to do them.
+Now suddenly, if you increase development capacity by 20%, 30%, 40%, you're going to be able to do more things. So by definition, you're going to produce more software, produce more applications, which means needs more databases. So we're a net beneficiary of that.
+The second thing is modern applications need modern platforms for all the performance and scalability requirements. So I think we're -- have an inherent advantage over some of the legacy platforms.
+The other thing that's happening is what generative AI is doing is basically moving AI from the world of data scientists, where it's still somewhat theoretical. People build these machine learning models, then you have to figure out how do I deploy the model, how do I actually use it. Some of these models never get used to being moved to the developer where now we got to where the -- every business is encapsulated in software. Now you're making things real.
+Now you can make things like I can be more intelligent around my supply chain. I can be more intelligent around like how I'm driving more efficiency of my support staff. I can be more intelligent around like what new products to build. And so I think the world of moving to developers will make AI more real for companies and then you'll see this explosion of new things that they can do.
+Unknown Analyst
+And you talked about the importance of app modernization and you recently released Relational Migrator for general availability. So can you talk about the importance of that product and maybe the reception with this new generative AI paradigm shift?
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+Yes. So as Michael mentioned, we have less than 2% share. And the bulk of the workloads and the wallet share in our space is essentially SQL apps. And we have lots of customers. When we went public, we mentioned that 30% of our new business was SQL migrations to MongoDB. By the way, that's also a lot of people never thought that we could even win any of that business. The biggest challenge we have in getting people to migrate an app [ as the switch in homes ], right, because there's 3 components to migrating an app.
+One is the schema. How do I map a SQL schema to a MongoDB schema. Second is the data, how do I move the data from a relational database to MongoDB. Those 2 things, frankly, we've already automated with Relational Migrator. The third thing is how do I rewrite either all or parts of code to run on MongoDB. That is the most manually-intensive part of the job, and that's what gives a lot of customers pause.
+And so we believe that as CodeAssist and cogeneration tools become better, there's an opportunity to leverage AI to reduce that switching cost where all of a sudden, I can start auto-generating code that will allow my app to now run on MongoDB versus being stuck on relational. And so that is -- we view as a big opportunity for us.
+Unknown Analyst
+So Dev, on that point, the CodeAssist, what products are you guys using [indiscernible]?
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+So we announced a partnership with Google, where they're already using coding to train ODI on MongoDB. So we have, obviously, a huge corpus of data, best practices, et cetera, that's publicly available that we're giving I don't want to say too much, but you can expect that there'll be some other announcements with some other partners as well on this front because we want all the cogeneration tools to be trained on how to program in code in MongoDB because MongoDB is very popular. They're also very motivated to do that.
+Unknown Analyst
+I'd love your view. I mean you've been in the tech industry for a long time. I remember [indiscernible]
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+That's your way of saying I am old.
+Unknown Analyst
+What's that?
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+That's your way of saying I'm old.
+Unknown Analyst
+So I am I. I mean I remember the IPO that I worked with you on -- I think you founded a company called BladeLogic, correct me [indiscernible]. So you've been through a distributed computing cloud, et cetera. So it's very rare to see. So do you have a view on LLM whether it's Microsoft's or Google's, how does this kind of shake up from your perspective? And what does it mean for MongoDB as to which partner do you choose? Does it even matter? Which LLM you need to bet on. What are your views?
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+Yes. My belief is that the world will go into a fragmented. Fragmented sounds [ majoritive ] but a wide set of foundational models for a variety of reasons. One, no one's going to want to feel comfortable using only proprietary models because they don't want to be reliant on any one vendor. So you're going to see this advent of a lot of open source models, and you're seeing a lot of companies essentially produce more and more open source models. .
+In fact, some of our customers -- we have one customer, working with a partner to basically train an open source model for the pharmaceutical industry because this pharmaceutical customer wants to use these foundational models to be able to start thinking of how to generate new molecules and ultimately new drugs to address a certain set of diseases.
+So you're going to see why I think very use-case-specific foundational models. And I think that's the way the world is going to go. Obviously, it may gravitate to a smaller set that become most popular, but I think that's the way the world is going to go.
+Unknown Analyst
+Is this something about the document model that makes Vector Search a natural adjacency that you could credibly take on?
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+Well, I think that what's proven with the document model that it's incredibly flexible. So when you talk to developers who use MongoDB, they can add features very, very quickly. They don't have to go through something what's called the ORM process, ORM stands for Object Relational Mapping, which is mapping code in your programming language to data sitting in tables.
+You just think a simple example, if I'm thinking of like customer data, that one object could be spanning across multiple tables on a SQL database, name, location, history, et cetera. where in MongoDB, it's just managed as another object entry in a document. And so it becomes a very powerful way to work with data, which is why MongoDB is so popular, right?
+That's why developers have flocked to MongoDB because it made their life so much easier. I think with Vector Search, the variability of the types of data and the unstructured nature of the data, again, vectors are indexes, but the data associated with vectors ultimately is very unstructured. That's well suited for documents.
+Unknown Analyst
+Got it. I have one more for you, and then we'll go to Michael. We want to talk about this thing called consumption, which will be a heavy topic and then cash flows. So you got enough meat on the bowl coming your way. So Dev, on streaming, so when you announced the streaming capability, it just made me wonder, is this the beginning of a turning point where the core technology platform can do so many things. I mean Vector Search is one, maybe there is streaming and who knows other capabilities that can be added on as adjacencies. And the streaming market, where do you see the white space? What is not being done well? Is this even a big market in the first place? and what is the thing that you're doing for?
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+Yes. So it's important for people to understand there's really 3 types of data categories. There's the operational data the LTP, there's the OLAP data or what's called the warehouse data. And then there's the data movement, right? And so the modern version of data movement is these cost-cut cues, right? And so I'm confident, built a business on top of -- building a proprietary business on top of the Kafka technology. The -- that I think, over time, will ultimately get commoditized. What's really interesting is not so much the data movement because there's plenty of plumbing to do that. What's really interesting is how can I process data while it's moving. So I can get insights faster.
+So then consequently, I can make decisions more quickly or take actions more quickly. And so stream processing is the new interesting things. So it's not the streaming plumbing, but the processing of the streaming data. So the Confluent folks made an acquisition of a company called Immerok, which is based on a technology called Apache Flink, that's another type of technology called [indiscernible].
+We looked at both technologies, and we were somewhat underwhelmed because they are very rigid schemas. They make a developer's life very difficult. And we felt we were well set up for 3 reasons. One, it's very developer-centric; two, the data is all in JSON; and three, the variety and variability of the data moving across is well set up for the document model. So that's why we felt and we talked to a bunch of customers, and there was a lot of receptivity for us to doing this, which is why we announced this capability.
+And obviously, we've been working on it for a while. And the reaction and the demand to get access to our private preview was enormous. So we're really excited about the customer interest that we're seeing. And the megatrend that you may be asking, so what's the big deal, the megatrend here is event-driven real-time applications is they kind of become more and more of the norm. So being able to get insights and take actions on those events and automate that into your application is critical. For -- as you run your business.
+Unknown Analyst
+Yes. So your realization was that Kafka and Flink were not exactly flexible non-developer friendly...
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+Flink.
+Unknown Analyst
+Yes. Flink. Yes.
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+Yes, our stream processing does run on Kafka, but it's a different type of processing engine than Flink.
+Unknown Analyst
+And did you develop that organically?
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+Yes.
+Unknown Analyst
+Okay. So that's the secret sauce?
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+Yes, because we're using our own ingredients, right? We're using the document model and all the understanding, knowledge we have with working with JSON data and creating that streaming engine.
+Unknown Analyst
+So we've been talking about real-time databases for a number of years, right, including the VEX company, Tipco from the late '90s. And I asked this question of [indiscernible] as well. So what's different this time? So can this really be a big market because he had been which been talking about it for 20 years back. We're going to take over the relational market. Real-time is there is that. What has changed that has gotten you interested in this market?
+Michael Lawrence GordonMongoDB, Inc. · COO & CFO
+Yes. I would say, to me, it's less about -- I described those 3 categories. I am not convinced the middle category, the data movement category is a category onto itself. I believe that will ultimately be subsumed into a larger platform, and I believe will be subsumed into an operational platform because -- and it's all about processing and working with data for real-time to building applications. Now there'll always be pipelines to warehouses to move data and so people can run reports and do other things downstream. But from a real-time point of view, I think it will be my belief long term will be subsumed to a larger operational platform.
+Unknown Analyst
+Got it.
+Michael Lawrence GordonMongoDB, Inc. · COO & CFO
+And I would just add, the result -- this is all the result of being pulled by our customers, right, and sort of following developers and following what customers need. To the earlier comments, we're in this huge market. We have very low market share. It's nothing because we need to sort of access some additional TAM or anything like that. It's really just responding to where customers are taking us.
+Unknown Analyst
+So Michael, on consumption. So you guys were the first ones to call out slowing down of consumption in April 2022. As you exited the quarter, what is your observation of consumption trends? Are we at a point where we've bottomed and things are stabilizing, maybe even you see a bit of a bounce because clearly, as Jan Hatzius, our Chief Economist, has been same for quite some time, we're not the property recession is lower than what we thought before. We probably are headed for a soft landing. And I'm going to call it software landing.
+So nobody else can use that on the sell side. So it's a Goldman Sachs thing. So -- if that's the case, then shouldn't consumption growth start to pick up?
+Michael Lawrence GordonMongoDB, Inc. · COO & CFO
+Yes. So let me describe what we've seen and we've tried to call out all the trends that we've seen, including back in at the end of Q1 of last year. And so what we've seen is starting with Q2 of last year, slower growth of existing relationships or workloads. The new business environment has remained robust for us in terms of winning new workloads. But as I mentioned, we don't just win an account once and then all the other workload flows sort of a workload-by-workload dynamic. So the winning of new workloads, we've been able to successfully navigate the macroeconomic environment.
+The sales teams have done a good job. We continue to be sort of mission-critical and kind of top of the must-have versus nice-to-have list. And so we've been able to navigate that very effectively. We're really pleased with the results there.
+In terms of the existing workloads, though, what we've seen is we've seen, starting with Q2 of last year, slower growth of those existing workloads. And really what that translates to is the underlying query activity, right, the underlying reads and rights. We have this very tight value linkage between our customer usage, the value that they get out and their bill.
+And what we've seen is just slower growth in the underlying database activity and therefore, slower growth in those existing workloads. In our Investor Day in June, we helped try and provide some incremental visibility in that and sort of showed a chart that we're back over several quarters.
+And what that showed is sort of in the several quarters prior to macro, there's certainly some seasonal fluctuation, but you could kind of draw a line as we did sort of the average of what the week-over-week growth rates look like. And it was at a meaningfully more elevated rate than that same kind of starting Q2 and beyond average.
+We've seen that generally stabilize within a range. There's certainly seasonal puts and takes to that. Q2 -- the other thing you can see on that chart is sort of Q2 is like slightly seasonally lower on a week-over-week basis relative to Q1 momentary parenthetical, not to confuse people who are focused on the Q1 being seasonal low because of broad numbers of days. That's absolute comment, but what we tried to do in this chart is sort of normalize for all that by looking simply at the week over week. And on a week-over-week basis, you can see that Q2 from that chart that we presented in June. Is slightly weaker until we saw that play out. I'd say we've been at a stable range. I don't know that I can call it a bottom, but certainly, we haven't seen deterioration. At the same time, we haven't seen acceleration -- and so I think that the high-level comments.
+Unknown Analyst
+Math wants to ask you a cash flow question. First, let's get to Dev and then the cash flow [indiscernible] ties in nicely, but you talked about new workloads being the unit of competition for MongoDB, right? And you recently announced another iteration go-to-market for Atlas. Can you talk about kind of the importance of that change, how you see that accelerating new workload acquisition, then we can tie that in with Michael and kind of disincentivizing of -- you know upfront commitments, how well in back half.
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+Yes. The key thing is, again, it's important, we may sound like a [ stuck record ], our unit of competition is the workload, not the customer because in every organization -- any large organization, either that MongoDB workloads sitting next to Oracle workloads and maybe even SQL servers workloads. So we have to win app by app or workload by workload. So we've reoriented the whole company on the product side, offering more and more capabilities. So we're more attractive for more workloads.
+And on the sales side, and the go-to-market side, basically orienting our go-to-market organization to just acquire new workloads. Now as you can imagine, in a traditional software kind of philosophy, you pay a salesperson to go get someone to commit to you to doing some business, and that was our approach. The challenge, though, when you do workload-by-workload is very hard for a customer to predict what exactly the usage of the consumption that workload would be over any period of time.
+So we were naturally forcing customers the commitments because salespeople operate by the way they're compensated and customers said, well, if you give me a better deal in terms of discount, I may commit to a bigger number. And it was this awkward kind of tension in the discussion. So over the last 3 years, we've been slowly reducing the emphasis on commitments.
+So it's been a journey, and this past year, we stopped paying our salespeople on even on 1-year commitments because our retention rates are very high, so it's that -- why force the customer even to a 1-year commitment and just get them to deploy the workload and as they see it grow, if they want incremental discounts, they'll come to us and saying, hey, my app is growing quickly. I want a better price, and then we'll say, let's talk about the longer-term commitment.
+So that reduction or that removal of that friction based on the change in comp plans has really helped us accelerate the acquisition of new workloads. But again, I want to say it's like a slope of line, it's not some inflection point. And we're really pleased by the velocity of workloads that we're acquiring. Both of them are start very small because they are new workloads. So it takes time for them to -- they don't really have much impact in the quarter -- in the current quarter, but over the years, we should see that impact really show up.
+Unknown Analyst
+I imagine the incentive mechanism for sales reps now is that they participate in the underlying application growth.
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+There are some incentives in terms of the quality of the workloads as well as the number of workloads. So we try and balance P&Qs.
+Unknown Analyst
+Michael on the cash flow transition and what that may look like? And also maybe just some context around kind of Atlas pay-as-you-go versus upfront commitments today?
+Michael Lawrence GordonMongoDB, Inc. · COO & CFO
+Yes. So a few different things. This is, as Dev mentioned, been sort of a multiyear journey. I think it shows up, particularly in the Q2 numbers, if you look at sort of the delta between the non-GAAP OP income and the operating cash flow. Part of that is just Q2 is seasonally a low quarter from a collection standpoint. You can see that by the ending Q1 AR balance.
+But certainly, this dynamic that we're talking about also factors in -- we shared on the call, if you think about Atlas year-over-year growth rate was 38%. Dollars committed upfront was actually down 15%, right? So that sort of helps put some numbers or order of magnitude around the dynamic that we're describing here.
+We also shared, I think it was in Q1 of last year -- to also help people understand this dynamic that around 80% of Atlas doesn't flow through deferred, right? So if you think about there are people who, yes, will still enter into an upfront paid commitment. Usually, as Dev said, now driven going forward by them pushing for that as opposed to us -- the sales rep having an incentive to do that. A side footnote that is incrementally helpful from a discounting standpoint, right, the balance and the negotiation shifts to the customer asking for the commitment rather than a salesperson having that increment, you don't suddenly gravitate towards the math and the discounting matrix.
+And so you see some improved discounting discipline there.
+You also have, obviously, plenty of customers who are pay-as-you-go, sort of sign a contract -- will billed -- be billed monthly invoicing in arrears. Obviously, that's what the self-serve basis is. And so again, this has been part of sort of a multiyear journey, but it particularly shows up in Q2.
+The last thing I'd say is we're not all the way through the transition, but we're certainly not at the beginning of this. And so to the extent that you see a meaningful divergence in the amount committed upfront, that will still be a factor and I would expect that would play into next year. But at some point, we'll sort of normalize or stabilize and then we'll kind of return to traditional relationships.
+And the last thing that's worth mentioning in case it isn't obvious, I'll just make it explicit. We still collect the same amount of cash over the course of the year. It's really just a timing factor, but I want to call that out.
+Unknown Analyst
+So a quick liking ground in the 55 seconds that I have. I have 3 things. You can feel free to be brief, yes, no or something. Earnings fee for calendar '24 budgets. Number two, would you consider accelerating your hiring if the environment stabilizes. And three how do you get -- how do you price Vector Search. I mean, is that a separate SKU or...
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+I'm sorry, I didn't catch the first.
+Unknown Analyst
+The calendar -- your feel for calendar '24 budget?
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+Customer budgets?
+Unknown Analyst
+Customer budgets. Yes, yes.
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+My sense would be somewhat the same as this year. I don't see -- I mean, obviously, AI is getting a lot of hype. I personally believe there's going to be a little bit of value to spare. I also believe you kind of -- people overestimate the impact of a new technology in the short term but underestimated long term. And so I think you're seeing a little bit of the hype cycle going on right now.
+But I think we're seeing large enterprises, but they're being very thoughtful and methodical about how they think about AI. So I think that's going to be more of a long-term phenomenon. But overall, I think budget [indiscernible] will be the same.
+Your second 1 -- very quickly on the lightning round. On hiring, yes, our hiring as reflected in the guidance is back-end weighted. We're obviously adjusting a bunch of investments from fiscal '23. So we have plenty of hiring in the back half of this year and then back to [indiscernible] Atlas.
+Unknown Analyst
+To be enough.
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+No. We'll show up an Atlas consumption, as opposed to a separate SKU.
+Unknown Analyst
+Perfect. Thank you so much, gentlemen. Amazing presentation. Thank you for showing up [indiscernible].
+Dev C. IttycheriaMongoDB, Inc. · President, CEO & Director
+Thank you for having us.
+Michael Lawrence GordonMongoDB, Inc. · COO & CFO
+Thank you.

@@ -1,0 +1,185 @@
+Datadog, Inc. Presents at Goldman Sachs Communacopia & Technology Conference, Sep-06-2023 10:10 AM
+Event Details
+September 06, 2023
+10:40 PM GMT+5:30
+Corporate Participants
+David M. Obstler Datadog, Inc. · Chief Financial Officer
+Conference Call Participants
+Unknown Analyst
+Event Transcript
+Revised September 06, 2023
+
+
+Prepared Remarks
+Unknown Analyst
+All right. David, thanks for coming to the Goldman Sachs conference.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Thank you for having us again.
+Unknown Analyst
+Absolutely. And I believe that you're former Goldman alumni.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+I'm a long time ago, I started out as an associate, and investment banking at Goldman Sachs. Yes.
+Unknown Analyst
+Wow. And we have another Goldman alumni here, too, Yuka.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes.
+Unknown Analyst
+Welcome back.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Thank you.
+Unknown Analyst
+So you were here last year, really happy to have David Obstler, by the way, CFO of Datadog. In case you do not know, you probably know him quite well. We have more and more people coming in as we speak, which is great.
+So as you look at the company 4 to 5 years from now, what do you and Oli and the rest of the executive team wanted to be? What are your goals for the company 4 to 5 years from now?
+
+Question and Answer
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. I think they've been very similar since the founding of the company that Oli, Alexis and founders have wanted to provide a platform that is one of the first things, if not the first thing that's turned on and use when DevOps professionals come in, in the morning, and they're on it all day. And that they're finding a persistent and increased utility in monitoring -- deploying monitoring and remediating problems in mission-critical real-time apps.
+And so that can be in terms of having more and more data ingested, to have more and more functionality and more and more utility to clients, but basically having it being ubiquitously just deployed platform that all those professionals are using every day to increase the utility of the work.
+Unknown Analyst
+Got it. And when you think about the evolution of the company, what are the problems that you see solving for customers a few years from now that you're -- you don't have the ability to solve them because you just don't have the resources. But if you had all the resources, what are new things you could be solving for your customers 4 to 5 years?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, definitely. There's -- one of the things that is increasingly being demanded is the injection of security and looking at the security of applications, at the point of deployment and in production. And so we have been providing a platform that allows clients to see the uptime, latency, what are the -- the developer -- whether the applications are working. And one of the increasing demands that we see in the future is to put security. Another would be to have early and early examination of applications in the developer cues, which is our CI/CD. And another, which I know we're going to talk a lot about is to use AI and large language models in the platform and to monitor those workloads. So those are some of the bigger themes as we develop the platform over time.
+Unknown Analyst
+And I did manage to attend DASH briefly in San Francisco. There was a lot of generative AI announcements and also core platform-oriented developments for the logging product, which we'll get to in a second. But I was really, really intrigued by the LLM observability product. It looks like it's in controlled beta, and I loved bits to bits. Bits AI, chatbot. Can you tell us a little bit more about what is the opportunity, maybe just rephrase a little bit as to what is the LLM monitoring they're all about? What is Bits AI? And then if you can tell us what is the opportunity set that you're going after with these 2 key products?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, definitely. So glad you asked. One of the largest portions of our product release was in the LM. And essentially, as we believe our clients are going to be injecting AI as we just talked about into their platforms and their products, we have to be ready to help them monitor that, which is the LM product. We think the -- what's going to happen over time, and this has happened repeatedly is this will produce more and more data and hosts in our clients delivering their platforms to their clients. And in the LM side, we want to be prepared for that. That's number one.
+Number two is our own platform, not our clients, being able to inject AI into it. And that's what bit is essentially. There are many areas, as you mentioned in our platform that we've been enhancing, whether it'd be the log side, whether it'd be ITSM into the platform. And this is another area, which we think will enable our clients to use our platform more effectively, make inquiries, improve the time to remediation. And that's what bits is. And then there's a third leg of it, which we talked about on the earnings call, which is a number of companies are providing tools to their customers which is what we said we're up to 2% of our ARR from clients who are providing those type of tools.
+Unknown Analyst
+Managed-services kind of...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+They're providing that. So all of that are -- those are the 3 main areas of opportunity. And as you've said, thank you for coming to that, you saw a number of those launches and the ways we're thinking about providing more value to our clients through AI.
+Unknown Analyst
+Got it. Got it. And this Bits AI, it seemed like a really ChatGPT meets Datadog kind of a thing. It was speaking your language at the same time, it had remnants. It looked like a familiar user interface of ChatGPT.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+We use the Dog.
+Unknown Analyst
+We use -- okay. Okay. Okay.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. It is very much so. When you think about what happens, our use cases are real time and speed is of the essence. So it's very important for our clients in DevOps and security to be able to see what's going on. And this is a continuum. It's not like this is the first time we've had machine learning or AI. We've constantly been innovating, so to provide ways for the client to speed up their investigations. In this case over time, they'll be able to go in and make inquiries and get and speed up the time because, as I said, time is of the essence. So that's the vision and what we're working towards in order, again, to provide more value to our clients.
+Unknown Analyst
+Okay. Great. And what is the early feedback on LLM observability and Bits AI so far?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+It is early and we tend not to overpromise. But I think you were there, you heard tremendous reception. It's very logical to our clients. Our clients are trying -- are starting to deploy large language models in their platforms. And they very much want Datadog to keep up with that and be able to monitor. So there was sort of a rousing reception at the DASH conference and then in feedback since. And we're very optimistic that this will provide, again, value to the clients and being able to be monetized.
+Unknown Analyst
+Got it. I think we were talking about this thing just before we started the conversation here. How are companies monetizing this? We're starting to see some divergent streams. Some companies still stick to the view that you can call as a separate SKU and charge a separate price list for it. And some of these seem to think that what we need to just include this functionality in the base product, and find a way for customers to migrate to the enterprise version as opposed to standard version. How are you thinking about pricing and packaging of LLM monitoring and Bits AI?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. Good question. We were talking about that. I think it is early. We're all trying to figure this out. In terms of the LLM monitoring...
+Unknown Analyst
+You should ask the LLM, how should I price this.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+We should. Exactly. And maybe we'll get an answer. LLM probably is a little clear in that it is likely to produce more data flowing into the platform, more hosts, more processing. And therefore, we are likely -- again, we don't know for sure, we're likely to monetize this through volume. And that's what's happened in Datadog as applications have gotten more complex.
+Same thing as Kubernetes and containers and microservices. It's produced more data and more appetite for Datadog to organize. So we think that's the way to monitor although it's early, and we don't know yet with bits. Often, we release functionality. We get feedback for clients. As we talked about, many of our platform enhancements are parts of the platform themselves, embedded in the platform, we have a very large investment there, and others are monetized as SKUs, and we were talking about this. And we don't know the answer yet, but we're going to get, as always from clients and before we figure out how to price that.
+Unknown Analyst
+Got it. Got it. To dig into the core product monitoring such amazing runway major, major success. Typically, when products like that hit mainstream adoption, the consumption gets to be very rapid. And then you realize that as a customer maybe I'm spending a lot of money on this thing for good reason. But at some point, it starts to work against itself that the success of the product becomes an impediment for further adoption. How are you thinking about pricing for core monitoring and ensuring that, that if you want this to be multiples of billions of dollars of business, it's priced increasingly more attractively so as to make this a mainstream customer discussion.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+It's a good question. One of the best examples of that, again, at DASH was Flex logs because essentially, from the beginning, we priced our logs to enable a lot of data to flow in, meaning less pricing on ingestion and more of it on the action of indexing. But then over time and as we've evolved our platform, our Husky platform, et cetera, we've realized that clients have different use cases in logs, which is one of the more sort of used as sensitive. Some clients want the logs hydrated and rapidly available. Other times, it can be archived.
+So we've done a lot of innovation trying to separate out the pricing and indexing and that's what Flex logs are. It's a good example. I think we saw -- there was a lot of clapping when we announced that at DASH.
+Unknown Analyst
+I saw that.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+You saw that?
+Unknown Analyst
+Yes.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+And that's because, like you said, this solves clients' problem in being able to use logs as they need it, but not overspend. And in this case, we're essentially chunking up indexing.
+So those that need it faster, those that need it real time, they can pay a price. But if you don't and you can have it in a different way that you can have that. And this can open up a lot more use cases in security, in network and transactions, which is a very, very good example of what you're saying, and how we're trying to slice and dice the product to provide value, but also make it affordable.
+Unknown Analyst
+Got it. Will that be applicable in monitoring as well, the core cloud monitoring, infrastructure monitoring?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, it will be part -- it will be likely -- it will be part of -- it will be a SKU or a way that you can consume logs, and it will be part of the core monitoring platform.
+Unknown Analyst
+Got it. Got it. So -- because the SKU for logs is different from monitoring, right...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Definitely. So going back to that, so the way we price is essentially by SKU. And the main SKUs are host or infrastructure, the main containers, Kubernetes, serverless. Then in APM, we have really 2 main structures. We have a post-base based on the -- what you're monitoring and then we have a whole digital experience, Synthetics. And then in logs, which is sort of the third main SKU, we have ingest pricing and indexing pricing. And this will be another variation of the way we're doing index pricing. Losing out storage and compute more to allow clients to have more control over how they're using the log products.
+Unknown Analyst
+Got it. Got it. So how much of that is applicable to the core monitoring products? Could you do this kind of pricing tiered pricing for the core monitoring product as well the cloud infrastructure monitoring to?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, we are because essentially, it's the same thing. So essentially, it opens more use cases, but also allows you to calibrate your logging in the observability. Well, it both opens up more use cases and provides more efficiency within the core monitoring program. Again, in the log pillar.
+Unknown Analyst
+Yes. And I don't know when this change was made, but what is the customer's reaction to the new pricing?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+We are sort of -- we're -- I think we just are in the process of launching this, but you heard the reception. So...
+Unknown Analyst
+For logging. Yes.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+For logging, we're very confident. So this is based on -- and we're really good at this. This is based on feedback from customers. This is a place where you're able to get a lot of feedback because you can see how clients are using logging. And in many discussions with clients, how they might be overusing logging or not realizing the full potential. So this, as you saw at DASH, got a big reception because of that type of feedback. And it was created both at the platform level with us trying to innovate the platform to make both storage and compute and indexing more effective, but also being able to monetize this and offer this type of product to clients.
+Unknown Analyst
+Got it. Got it. And then I guess you have 3 tier standard Flex archives. Can you tell us a little bit about how you price the 3 different offerings. And will customers ultimately buy more because there's a tiered approach and so they can use the [ P-Time ] SKU and spend more with Datadog? Or what are they?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+So the pricing -- I don't think it's out yet. It will be. We're working on it. But yes, the idea is twofold: one, for them to be able to afford and have logging in new use cases. Security, it might be something where you can take it out of archives, where you don't need it real time. So it's both to get additional use cases and to make it more efficient in the use cases that clients are currently in observability.
+So both. Again, it's early. We'll report on this more. Again, it's not out yet. It's introduced, but it's not being used by clients, but we'll give some more metrics on this, but we do think it's solved both, which is greater efficiency of existing use cases and more use cases.
+Unknown Analyst
+Yes. I saw the demo of the logging product, and there was a very savvy customer that had worked with other legacy technologies that we shall not name here. And their minds were blown looking at the demo. They said, can you -- it was a live demo. Can you pack -- can you put in 2 terabytes as opposed to 1, whatever that system just flew right through it. And it was visceral. So not so often that you see the visceral feedback, the client's like they came in a skepticism, yes, I know we've tried this logging from this company that company. Their eyes lit up, and they were like, "Oh, can you do this? And they were testing double the number of terabytes. I want to check the response speed. Was it like 10 million seconds. They're taking all these notes, and they were done exhausting the demo guy with all kinds of demands, and they came back and said -- and I asked them, what do you think? And they said, wow, this is mind-blowing stuff.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Well, when you -- when the keynote was happening, and there are a lot of products, so there's enthusiasm. But there was clapping and standing ovation for that. And then the feedback we've been getting is similar to what you're saying. So that makes us feel good. It makes it good or listening to clients, and that can provide opportunities for Datadog. So the more data that flows into the platform, the client is happy about the more use cases and the more ways to monetize, and so we feel good about this as an opportunity for us. Thanks for the feedback.
+Unknown Analyst
+Absolutely, absolutely. So let's talk about consumption trends. Big debate in the industry, at least in our industry in your industry as well. So can you tell us a little bit about the trends that you saw as the quarter unfolded. It sounded like you guys came out of the quarter feeling a whole lot better than going into the quarter. Just a view for the dynamics, how things change for the better as you talk more about that, if you can.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+So there's a lot of pieces of this. So this optimization, which started pretty much in Q2 of last year is continuing. We, I think, have said that we see some signs of stabilization, particularly in the most effective customers, that's one sign where they've maybe finished their optimization. It looks like it and have stabilized an amount of spending. And so that's one sign we talked about.
+In terms of the quarter, what we said was overall Q2 showed more optimization than Q1. But it had been essentially focused more in the middle of the quarter and towards the end of the quarter and into July, we saw some better trends.
+Now we want to be very careful because we can't predict this. We don't control this. So when we provided our guidance, we didn't take that into account. We looked at the usage that when the optimization that was happening weighted average in Q2 and then discounted that. But at the same time, we wanted to provide that information that the pressure was relieved a little bit at the end of the quarter.
+Now we caution everybody, we're talking in micro days here, and we can't predict that it will persist and aren't going to give an update from what we said on the call from here. But there's a number of positives and negatives. The new logos look strong. The RPO was higher. The optimization continued but was a little bit more benign towards the end of the quarter and in July. So it's confusing out there and what that probably is, is that you're getting towards some end of this, but we can't be precise about when it is going to be over.
+Unknown Analyst
+Got it. And also some clarity on the number of customer adds. I think you have some adjustment to the base. Even if you make the adjustment, you certainly had good CRPO, but the number of customer adds was a little on the lower side. Was it because you had larger deals? Help us understand the dichotomy between the customer adds and the CRPO that came in actually [indiscernible].
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. so in terms of gross customers or the numbers we brought in, it was very consistent with the previous quarters, and it was larger average customers. So it was a larger gross adds. And then we said at the lower end, we've had sort of boring on free tier eliminations from the customer base, which depressed the net customer.
+We also noted that we had a cleanup of a couple of hundred customers totaling $50,000 of revenue. So not significant from revenue, which was just tuning up our processes is about who's using the platform or not because there is that net number that we...
+Unknown Analyst
+80 versus 130 whatever, yes.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+We wanted to make sure that the gross number was pretty consistent and larger customers, but then it was depressed by this sort of low end.
+Unknown Analyst
+Got it. Okay. So not to read too much into it. Okay. Got it. Can you tell us more about -- I mean, you had a couple of big customer wins, the 7-figure land and the broadcaster replacing a legacy solution. What are customers replacing? And why is Datadog winning all these replacement deals?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes. Very good point. We've been watching this. We see a persistent and increasing trend towards consolidation. As we said, one of the benefits of the Datadog product is the platform and the way everything can be seen in a single pane of glass. So those were lands where they already had workloads. It was not greenfield, but they decided to consolidate on Datadog. And in some of those cases, they were replacing another software solution. And in some, they were replacing open source. And so we see both happening and continue to see the market flowing and consolidation towards our platform. And those were some larger examples about -- this has been going on for some time and was strong in the quarter as it has been.
+Unknown Analyst
+Okay. I want to just fly a little bit higher on altitude and then come back down. And the topic of budgets as you talk to customers, how are they developing their views on what calendar '24 is going to be for them from a IT spending perspective, strategic objectives? Because we've been through a period of past 18 months of uncertainty, but now things seem to be kind of stabilizing. Jan Hatzius, our Chief Economist, is calling for a lower probability of a recession and a soft landing. We call that software landing. It's patented at Goldman Sachs, software landing.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Software landing. Okay. Did you trademark that?
+Unknown Analyst
+Well, it's already -- it's in public domain. So no -- and it's advertisers at Goldman Sachs branding things, so it cannot copied.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, it's been -- so we've had -- as we talked about, good greenfield and consolidation behavior. So in the most important projects, we've had consistency. Pipelines have been strong. They continue to be. That's a sign of confidence Yet at the same time, we have the continuation of cost control and sort of where budgets land will most likely be the intersection of those. Too early to tell. I think we said we see some troughing and so there's some good signs. But again, we're sort of a follower to that and need to wait to see how budgets develop for 2024. Although we do have confidence that given the gross retention rate, given the fact that observability is important, given the fact that the number -- percentage of workloads in the cloud is still low and modern applications are increasingly important to our clients that we will have a time when those IT budgets are restored and we're confident of the long term here.
+Unknown Analyst
+Got it. Got it. Got it. Let's talk about hiring. How restrained had the company been in hiring as we were working through the spirit of macro uncertainty? And where are you with hiring? Because if you do see the growth opportunities next year, will you be tempted to accelerate hiring back again?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+So we made a lot of investments in the previous 2 years. Sales, for instance, we expanded our capacity. That capacity is ramping. We have lower attrition in sales. So this year, we are getting the benefit of a number of the pace of investment in the past. But we did get more cautious as we began to see the environment change. But unlike a lot of companies, we've continued to hire. We've continued to hire strongly in R&D. We've continued to hire in the regions in sales and marketing, where we feel we're underpenetrated, and we haven't had risks or anything like that. So we've continued to maintain it. And I think what we'll do in planning for next year is sort of calibrating what we're seeing. And because we believe there's a very long-term opportunity, we'll continue to make bets based on where we see the environment. But we haven't been as much stop and start as others. We are still been hiring this year and making investments given the long-term opportunity.
+Unknown Analyst
+Got it. I wanted to pause to see if there's any questions from our clients here. If you have a question, just raise your hand and we'll try to get a mic over to you. Okay. There's a question all the way in the back.
+You did an excellent job in expanding your operating margins. How far can you go before actually compromising maybe your top line growth?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+So I just -- I couldn't hear exactly. Is that the question...
+Unknown Analyst
+You've done a great job on margins. How much higher can they go without compromising their top line growth rate?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Exactly. That's what we think about all the time. I mean, we're a product-led company. I think if you look at our R&D as a percentage of revenues, we continue to invest rapidly and think there's a long-term opportunity. On the other hand, there's a lot of scalability in our model, which has been evidenced in gross margins and our overall margins. So we are building for the long term. We are going to invest for the opportunities that are in front of us. And so I think we're in a good place now and still prioritizing some of the higher priority projects. And certainly, we'll prioritize growth going forward given the large opportunity we have.
+Unknown Analyst
+All right. Any other question. I have one on -- the consumption model, are there limits to predictability of margins? I mean, if you have a spike in consumption, the margins go nuts. How do you, as a CFO and a management team give yourself predictability into the margin outlook?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Definitely. It does limit the predictability, which causes us when to plan as sort of a lower consumption rate, which we really have. And as we've said, if consumption goes up above expectations, we cannot invest fast enough, the whole margin is down. That's what happened during the COVID period. And also means that because we can't predict it, I spend a lot of time thinking about what the data shows and making sure that we're prioritizing investments.
+So it means there is a lag in the investments to that. We've been pretty good at it. I think, we've been able to control margins and manage it, but it can't be done perfectly because you can't move resources as quickly as consumption. So really good. It's a limitation on the speed that you can correlate investments to consumption those.
+Unknown Analyst
+Got it. There is this gentleman who was asking the question about do you -- at what point do you start to compromise growth in term for margins? I wanted to intersect that idea with the question of leverage from channel partners. Can you -- what kind of leverage can you get from channel partners such as the hyperscalers, number one, and then other channel partners?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes, there's 3 ways we think about it. First of all, the hyperscalers. So it's very important, and we are to be aligned. We think we have good partnerships with all 3. And that includes technology, that includes being able to offer our service on their platforms. And it also includes being on the marketplace. It's been quite a competitive weapon in this cost environment to be on their marketplaces because clients can use their credits to buy Datadog. So that's very important. And that's really good leverage. It can be technology leverage, it can be sales leverage or it can be procurement leverage.
+The next would be resellers, and this expands our distributional scale. And that's been very important in a number of countries where clients want to buy through resellers like Brazil or Korea, or they want the resellers to handle the currency risk. So that's been pretty important in getting our competitive position in those countries as leverage. We then tend to fill in with our own salespeople in order to accelerate that.
+And then there's systems integrators who we don't have as much the professional services opportunity, but we have the consulting and recommendation and those would be Accentures, et cetera. And all of that is leverage that we are working on. I think the -- I think we have more to go in systems integrators. We probably haven't because of the less professional services tap that fully, and we're looking to do that. In government, it's also very important. All the government spending comes through resellers and channels. And so all of that has to be taken into consideration and leveraging your distribution.
+Unknown Analyst
+Got it. In the minute or so that we have curious your thoughts on how you're using your balance sheet, M&A, tuck-in relative to the goals of the company, what's the role of cash?
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Cash has a higher return than it did 2 years ago.
+Unknown Analyst
+5%...
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Yes.
+Unknown Analyst
+Pretty damn good.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+So cash is flexibility for us. Yes, we want to make sure we invest it. In terms of acquisition, our major goal has been product and technology led to figure out how we can accelerate the product pipeline, accelerate hiring of R&D teams and tuck it in. So we continue to do that.
+We're not adverse to a larger acquisition, including customer base, et cetera, but we really want to make sure that technology fits in. So that's been a use, but it's been because of that limitation that's been slower than a consumer of cash. And then over time, we have no plans, but we evaluate such things as capital management, capital allocation, return of capital to shareholders. We feel fortunate. We like this position of having that flexibility, meaning we're not limited in what we can do by our balance sheet.
+Unknown Analyst
+Exactly, exactly. On that note, thank you so much for coming to the conference. David, really appreciate it. Yuka, thank you so much.
+David M. ObstlerDatadog, Inc. · Chief Financial Officer
+Thank you, everybody.
+Unknown Analyst
+Thank you for your question.

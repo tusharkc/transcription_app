@@ -1,0 +1,226 @@
+ServiceNow, Inc. Presents at KeyBanc's Technology Leadership Forum 2023, Aug-08-2023 12:00 PM
+Event Details
+August 08, 2023
+2:00 PM EDT
+Corporate Participants
+Chirantan Jitendra Desai ServiceNow, Inc. · President & COO
+Conference Call Participants
+Michael Turits KeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+Unknown Analyst
+Event Transcript
+Revised August 08, 2023
+
+
+Prepared Remarks
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+All right. Hi. Welcome to day 2 and final day of the KeyBanc Technology Leadership Forum in Vail. Really nice to be here with everybody here in the Rockies. I'm Michael Turits, enterprise software analyst here at KeyBanc. And I'm very happy to have CJ Desai from ServiceNow here today, President and COO. Thank you very much, CJ, for coming.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Thank you for inviting, and it's a pleasure to be here.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+Great. So a quick background on CJ, CJ has been at ServiceNow for 6 years?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+6.5.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+6.5.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+Okay. 6.5 years, President and COO now up until I guess about a year ago, he was also Chief Product Officer, it was another large software companies and tech companies, including EMC, Symantec and Oracle. So it's -- I think what I'd like to do is start talking about ServiceNow and the history of ServiceNow, where it's come to at this point. But then move on to the subject of generative AI and talk about it in a general sense. And then at the end, come back to where ServiceNow is involved there.
+So funny thing, of course, about ServiceNow is ServiceNow is going to be an $8.5 billion company this year in our model. And yet, you can still search and say, what is ServiceNow? What does ServiceNow do? And ServiceNow even has its own videos describing what it does. So it's really amazing to me, and I hope you don't mind if I'll just tell a little bit of an anecdote for it.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Please do, you can.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+But in trying to understand what ServiceNow does, sometimes people say that it's enterprise workflows. But I have to tell the story, the first time that I met ServiceNow right around the time they were going public and their founder, Fred Luddy, was in the room. And he had been a Chief Technology Officer, among other places, at BMC Remedy and at Peregrine, some predecessors too in ITSM. And he said, well, if you really want to understand where I began to really understand, where Fred said you can understand the breadth of what could be done. He said looking at what some of these ITSM companies were doing and where they were being applied, and he said, "If you're in the U.S. Navy and you are feeling depressed, unfit for service, unable to do whatever you need to do on the deck, then you actually fill out a form that says, I'm unable to do this and I need help." And that's an ITSM trouble ticketing form.
+And when you're able to return to work, that trouble ticket is closed. And when he saw applications like that, he said, "This is something much bigger." So I tell that as an anecdote, but then I'll go back and ask CJ to talk about beyond that for instance, about the history of ServiceNow and how it came from being something about trouble ticketing to such an important company today.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes. Absolutely, Michael. And it's great to be here. Fred is a great innovator. Even today, he still codes, which is awesome. And once in a while, he will actually log into our build system and say, "Why is this, this way?" So just an amazing inspiration to ServiceNow engineering community.
+But when Fred created this company, 2003 when he had the idea, so we are still 19 years old because 2004, it was officially incorporated. And he basically said, "I'm going to create this very simple design principles. I'm going to create a cloud-based platform," and platform was important because PaaS as a term or Platform-as-a-Service was not even that well-known. So I'm going to create a cloud-based platform where anybody can route work seamlessly. So I'm not creating an ITSM company, but I'm creating a platform with core tenets of tasks, orchestration, notification approvals. So when you want to get anything done, you can get that done via ServiceNow platform. That's it. And ITSM was the first killer use case that was built as a demo on ServiceNow platform and, of course, then over time, productized fully.
+And then like Michael was saying, whether it's for IT ticketing, whether it's for HR ticketing, whether it's for customer service and many other areas, when you want a task to be done in a certain sequence and there are notification and approvals that are required so that the task or a ticket gets resolved, that's how Fred created this company. And he always told me even when he hired me, he said, "CJ, this platform has unlimited TAM." Like of course, a founder is going to say that the platform has unlimited TAM. What he really said, you can build any type of application on this platform, any type of workflow on this platform, all you need is which process you want to automate and you can build it because the platform provides all core services.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+So I think that's -- it's an amazing thing. And one of the things that's important to understand when I gave that $8.5 billion number, they've achieved that with essentially organically. They've been talking acquisitions but there have been no major acquisitions. And everything has taken -- you buy it, it takes -- what would you say from the time you buy something to the time it actually gets out onto the platform because you don't roll it out, make it part of the platform.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes. So our acquisition strategy has been pretty simple. We typically either buy an amazing team that we want to be part of ServiceNow or we buy a piece of technology or a technology, and then once we buy that technology, specifically, we do not want to put that complexity of integration on our customers. That is the core principle. So Michael, as you said, we will take that technology and integrate in ServiceNow's core base, and that typically takes us 9 to 15 months. Sometimes we are done in 6 to 7 months, but typically 9 to 15 months. Worst-case scenario, maybe 18 to 21 months, but the median is in the 1-year-ish range that we typically do so that customers know that now this is just part of ServiceNow platform. We have done that with RPA. We have done that with our AIOps technologies and many other. Its just part of the platform.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+So again, the first use case, as you said, was ITSM. And I don't know if this is a pocketful of story or not. But supposedly, I heard that Fred actually came to some of his early investors and said, "Oh, I have this thing, it can do workflows." They said, "Nobody is going to invest in that. You've got to tell them what they're going to use it for."
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Correct, the use case. Yes, that is correct.
+
+Question and Answer
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+Okay, fine. I'll start with IT service management and trouble ticketing. But you did start with that and took on and really disrupted the industry. But talk about how you've moved from there into these other areas of the enterprise, in HR, et cetera. And then why that was possible.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+So if you look at an organization, our customers, all enterprise customers, the CIOs typically are in service of their peers. So if they buy CRM, then the CIO will run the CRM software. If they buy ERP, the CIO will run the ERP software for supply chain or a CFO, right? So typically, the CIOs are running software for their peers and make sure the software is up and running, so you automate CRM or supply chain planning or procurement or whatever the case might be. Whereas ServiceNow, CIO is our people. And we said, this is ERP of IT, and we are going to create products starting with ITSM, but we are going to create products for the CIO's organizational structure. So CIO has somebody who's running service management, somebody who is running operations management, 2/3 of CISOs typically report to the CIO and then you sometimes have risk reporting, project management.
+So the beautiful thing that ServiceNow team did is literally map the product portfolio serving the CIO, that we are building this product for you so that you can keep service management, operations management, asset management and all that in control.
+And then Michael, once we just made sure that, that focus, CIO being the core, core stakeholder for ServiceNow, we said this help desk concept could be extended to HR because when somebody has an HR-related issue, they actually call somebody in HR. It typically happens over e-mail or a phone call. Like 20 years ago, there were some 1-800 HR number for every company. So we can create similar thing for HR, HR help desk. And then we also said why not we do that for customer service because customer service, you typically, hey, I'm calling you for a request and then you will orchestrate a workflow. And then we continue to expand that now in procurement and few other areas, but the core perimeters are always very, very simple.
+And we always take help of our CIOs to introduce us to the CHROs, to the Chief Customer Officer, and that's why that point is super important that we were serving the CIOs, we always will serve the CIOs and then we ask them, hey, can you introduce us to the CHRO or Chief People Officer because we have a product for HR organizations?
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+So that's from a business perspective. How about from an engineering and technology perspective? There's this thing in ITSM called the configuration management database or CMDB. So you've got all the data on every IT asset, every connection and to what I've said, every user or IP address in the...
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+And across the clouds. So whether you are using private cloud, you are using one public cloud, you are using multicloud, you still have assets in all those clouds. You still have physical machines, virtual machines, containers and others. And our goal is to provide the CEO with that full visibility on where are my assets, how are they doing, are they secure?
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+So how important has that been in terms of, let's say, get it, I won't call it getting a monopoly on workflows within the enterprise, but really getting a fix on that so it's easier for someone to add another workflow to ServiceNow than add a third-party workflow.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+This -- so Michael, you bring up a good point. For IT, we are the system of record. So we have the system of record, and that allows us to be a system of record because we have the asset repository as in configuration management database. And then the same principles because one of the other things we have done, every single product that we have created in ServiceNow's history has been built on the same platform. So when a customer, say, a large corporation in financial services is using us for ITSM and they want to use us for HR, they literally go to the platform and turn on the HR functionality and all the similar mechanics of request management, case management and others work in the exact same way. So we are very unique that even with end of the year $8 billion plus subscription revenue, we have done all of our products on the same platform.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+Can you keep going? In other words, can you keep going with just this platform or sooner or later, would you need something to attach to it?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes. So I get asked that question, Michael, every single time by our customers as well as our investors. And coming back to your Fred story, I fundamentally believe on behalf of ServiceNow that we can continue to build additional products where we see that workflow provides value to the customer, and this platform can still keep going.
+So we started our, what we call original ERP workflow, but it's mainly for the office of CFO in finance and procurement. We started that product last year. The pipeline build so fast because it was workflow that works with the system of record like an SAP. And you can just say SAP, SAP has ECC, which is still alive in many corporations, then they have, of course, S/4HANA. But SAP has a lot of other products like Ariba, Concur and so on, and we work with all of them, right?
+So we are the system of action on top of the system of record. And there is so much work we can do for that particular stakeholder as in the CFO or Head of Procurement or Head of Supply Chain, that we believe that we are just getting started on that specific workflow, and we can continue to build.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+Yes. I was going to -- I mean, first of all, I was going to ask you -- it begs the question at this point. If you're moving into ERP, you say ERP, and we think SAP and we think Oracle at this point.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Oracle, yes.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+We were just talking HR a minute ago, you think HR and you're going to think Workday and arguably, Oracle and SAP as well. You talked about customer service management, and we're going to think about Salesforce, et cetera. So -- and I think you're in a great position to talk about this because you've been at other large enterprise software companies. You've been at Symantec, you've been at Oracle, been at EMC. So let's make sure we understand how you fit in, how do you fit in doing HR relative to a Workday, customer service relative to a Salesforce or as you were pointing out, ERP relative to an SAP.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes. So this question comes up all the time because when we go and do our...
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+You make feel like I don't come up with anything original, I'm sorry.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes. No, no, no. That the first -- when we go and talk to our customers, let's just say a large health care company and we say, we do HR, their first question is, hey, I already have an HCM, one of the flavors that you described. So they are like, "CJ, so are you saying we have to replace that?" And I said, "Absolutely not," right? This just happened last week with a very large pharmaceutical company. And what we do is a system of action on top of HCM. So let me make it very specific.
+The system of action on top of HCM is when an employee joins this health care company, they are a life sciences company, when an employee joins this life sciences company, you have a checklist that is specific to HR, which HCM will do, right? Hey, we need to fill out the I-9 form. We need to do this, do that, get the passport, et cetera, et cetera, identification. But then, you have to provision IT credentials for that employee. You have to provision security credentials for that employee. You may have to do badging for that employee. You have to say here is the facility location that this employee will sit in, whether it's hybrid or the person working in the office, all those are workflows, and HCMs does not provide those workflow.
+Once we explain that simply, in a second, they are like, oh, I got it. I still need my HCM, which is my people directory. I do performance management, talent management. But when it's workflow across the enterprise, that's what you do. Maybe we should have not called it HR product, and maybe we should have called it an employee product. So we avoid this confusion. But that's a few hundred million dollar business now for us, which just started 5 years ago because it's an end. You need an HCM and you need ServiceNow. Actually, some of our largest customers are some of those HCM providers like Oracle that work alongside of ServiceNow.
+And one last thing on customer service. Customer service, we say that when a customer requests something, I'll just take an example of a bank. I'm changing my location and I said, "Here is my new address." From my current address to the new address, I told that to the bank. And the bank's customer service representative said, "Hey, CJ, that's going to take you 10 to 12 days before our records reflect that." And I said 10 to 12 days, why? They said, well, you have an account with us on the asset management side. You have an account with us on credit card, this, that. Those are all different systems, and we will need to upgrade your address in 57 different systems before we say, now CJ's this is new address.
+So what ServiceNow did for customer service is the workflows that are mid-office and back-office workflows, not just the engagement layer. And that's how we created a business. And Michael, you have known all of our CEOs in the past, and Frank Slootman was still very reluctant to say, should we go after this particular space because there are incumbents, as you mentioned and should we go after that space? And we all said, yes, absolutely, because there are a lot of workflows that happen after customer makes a request to change the address. And now that business is doing very, very well for ServiceNow.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+So a million other things I could ask you about ServiceNow just because it's a fascinating company that I've been associated with them one way or another for a long time. But I'm going to use you to speak about the generative AI topic. And for me, I mean, this -- we're all talking about this lots. We started with a keynote yesterday morning by our Mosaic group who had a number of consultants and technical practitioners of generative AI and AI in general. And then I hosted a panel yesterday here on investing in AI, mostly VCs, but also some crossover investors. And so now I'm going to get your enterprise company view of it, both what -- just how you view the overall landscape and then what you guys are doing in particular.
+So I'm going to start off with the most general of questions, which is really, at this point, we all know we've been doing AI/ML for years. So what is the difference? What's different in what happened since November '22 with the general availability of ChatGPT? In what sense is generative AI different than AI as we've known it?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes. So I would say even ServiceNow has been on the AI road map since 2017. That's when we first did a technology tuck-in of a company that did supervise machine learning. And we said, how can we make that part of ITSM or our platform stack initially for ITSM customers. So we have been going through the supervised machine learning, deep learning evolution over time. And for us, when we looked at 2022 and announcement around ChatGPT-3.5 plus, what was clear is machine's ability to understand natural language and provide a response back in natural language, we saw massive improvement compared to previous NLP technologies.
+That's it, literally, that, hey, now you have machines can understand that when I type in something, it actually understands that question, and then it carries forward that context, right? So since you're from New York, if New York Knicks are playing, you say, "Okay, who won the game?" It will say, "Okay, Knicks won the game." And you say, "Who was the lead scorer?" It knows that, that's in the context of New York Knicks. And you can keep on going in that context in that game, that never happened before, right? You had to do one at a time what you ask of machine.
+So this, basically the aha moment or the inflection moment, that AI technologies working where you can communicate with machine in a natural language and machine will respond back and carries forward the context like a human does. We said, "Okay, this is really good. Now let's figure out how it can be applicable to ServiceNow use cases." So ServiceNow has employee-facing use cases. Some of them I touched on, customer-facing use cases, partner-facing or supplier-facing use cases. And we can leverage this capability, you can compute, compute fast. The response comes pretty good, accurate, 70%, 80%, 85%, 90% of the time. And that's why it was a true inflection moment in terms of just AI technology compared to the past.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+I'm going to stick with some very big-picture questions. What do you think will be the biggest -- this is a completely open-ended question, but what do you think the biggest impact will be on the way that we all do business because of this?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+So I would say at the highest level, I have -- there are terms that have been in the industry now, whether it's a Copilot, this, that, so on. But I think that the level of assistance that machines provide to human has gone to the next level. And I think that's the biggest productivity gain for any type of user, even if you're a marketing human being. I'll tell you at ServiceNow, our CIO, he's amazing. He tried for our inside sales team, they were writing e-mails when they reach out to our customers. And he said, "Now can I use generative AI so that they can write these e-mails faster?" And he saw that they were able to write e-mails faster. And when we send to our customers, customers could not tell that e-mail came from a human or that e-mail came from gen AI.
+So when I think about the impact it is having, it is just making humans do their job better in a variety of industries, broad-brush speaking. And we'll have to just look for based on the use case, what are the error rates, meaning hallucination rates or accuracy rate is number one. And second thing in certain industry, like you would not want an HR department use generative AI. And if there is an HR case where an investigation is going on, generative AI makes a decision that this particular employee's -- employment should be terminated. You would need explainability on how that decision was made, and you will still need human in the loop. So I think this is an augmentation of human getting work done at a much faster pace, depending on certain tasks.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+So I'd like to drill down a little bit on some of the more technical or infrastructural -- infrastructure-related things that you're doing in order to enable gen AI. And it's been striking in terms of some of the press releases that you've put out, the partnerships that you've had. You're not only announcing SKUs, capabilities but you're talking about and working with the industry to develop, I would say, all the way down the stack. So I'm going to ask you about that infrastructure layer. So for example, what are you doing from a large language model perspective, whether it's -- the simple thing to say, okay, we're using OpenAI. We're using Azure OpenAI services. So are you just using those models? Are you developing your own LLMs? How are you going about it?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Right. So we were very fortunate, and I want to say fortunate rather than saying we had the foresight is in 2020...
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+You can take credit for that, that's okay.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+No. In 2020, we were able to welcome this amazing Canadian company called Element AI. And Element AI, I'm just going to round it off, had close to 200 amazing people, lots of PhDs. Yoshua Bengio, who is a Turing Award winner and wrote the seminal paper on LLM became part of ServiceNow. And the researchers from the Mila lab and many others, they became part of ServiceNow.
+And at that point in time, I still remember my conversation with Bill. I said, Bill, somebody reached out to us. These are great engineers, data scientists and researchers in Canada, lab in Canada, and we want them to be part -- become part of ServiceNow. They have no revenue, so this was a people acquisition at zero revenue. It's a people acquisition, and they will help us accelerate our AI road map.
+So Michael, to answer the question, we consider -- they have been working on ChatGPT 2.0. And you talked about 2022, in 2021, at our November off-site in San Francisco, they came, the researchers came and showed me a demo of text-to-code. And they said, "CJ, for ServiceNow-specific code, you can type in something, top 20 IT incidents that happen with severity 1, and it spit out the ServiceNow code in seconds." And I literally thought that was science fiction. I'm like, ah, this can't be true. This seems too science-y and so on.
+So we are very fortunate that we have critical mass of researchers, data scientists and engineers. Because right now, if you want to go and hire one at a time, good luck to do that. So that's one because you need people. So you need people for AI, then you need the platform in which you can build in. So we are absolutely building our own LLMs. We've already built them because hundreds of billions of parameters on OpenAI.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+Just I've heard, do you start with open source models? Or...
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes. We did partnership with Hugging Face.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+Right. That's what I'm asking you about.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+And our design principle was pretty simple. We said, "Hey, there is no way ServiceNow will run a 175 billion parameters model in our own cloud. We just can't." And we can't send our customers' data because it's our customers' data that's in ServiceNow Cloud to OpenAI, because we -- when customers signs with ServiceNow, there is a trust that we'll protect the privacy of the data, not co-mingle data. It's a multi-instance architecture because you asked the infrastructure question.
+So our design principle was we want smaller models that can run on a single GPU, and can we do that? So that's what our research team worked with Hugging Face and first created a model for text-to-code or text-to-workflow. And this model on text-to-code, because we are ServiceNow, we know how the ServiceNow code should be written. All the code that our engineers have written including Fred's code, we trained that model, which is 1/10 the size of OpenAI model and is 40% more accurate.
+So now we imagine a software engineer on ServiceNow at a large telecommunications company trying to write ServiceNow code. This will act as a Copilot and help you write an accurate ServiceNow code. But if you write that code with OpenAI, it will be inaccurate. Because OpenAI absorbed the entire Internet, it doesn't know which one is the right code versus the wrong code.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+So do you use OpenAI as well and then you use your own code, your own LLMs also? Or is it primarily yours?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Primarily ours, because we want to run it. We want our customers' data to be in our cloud. But if a customer comes and says, "CJ, we want to use OpenAI or we want to use Google's LLM, whichever," we will give them that choice. That is their choice. But we say for ITSM or for the customer service management, here is our large language model. It runs in ServiceNow Cloud, your data will not leave the cloud premises, you have the privacy and that's it. So yes, our own LLM is our strategy going forward. And without this team, we could have never done it.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+And I just -- again, because I've been impressed by how much you been doing in terms of infrastructure and how you've also made that a way visible to us. You have this partnership, this project called the BigCode project, right, at the StarCoder LLM. So we've seen -- and this is with Hugging Face, that's very well-known in the industry. So just talk a little bit about that.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes. I mean we like the open source models. And when you have open source models, then you can train them on specific use cases, and those are great teams to work with. We collaborate well. And then based on use cases, we are spitting out LLMs per use case. So LLM for ITSM, specific use case 1, LLM for text-to-code. We will also do -- we are a workflow company, so LLM for text-to-workflow, and a lot of that functionality is coming out in our September release. And this will run in ServiceNow data center because they are smaller models on NVIDIA GPUs.
+And Jensen to his credit, because as all of you know that he worked very closely on the original ImageNet and all of that. When we acquired this company in Canada, he was the first one to reach out and say, you got great machine learning talent. Let's work together, and I will provide you with the right -- their DGX product line so that you can research better on LLMs. We are very proud of that partnership. Our engineers work hand in hand between NVIDIA and ServiceNow. And even last week, I was in New York, Michael, and talked to some of the largest banks and a couple of health care companies, and they all said NVIDIA and ServiceNow partnering together also gave us a lot of credibility in terms of what we are solving for, for our customers.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+So on almost every conference call these days, people talk about what they're doing with generative AI. And then they say, and so how do you plan to monetize generative AI? So you have talked about -- you did announce...
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+At length. At length.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+At length.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+To talk about -- you did announce your Pro Plus premium SKU. So can you talk about what that is and how it adds to the existing Pro and Enterprise SKUs? And we'll go from there. Let's start with that.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Okay. So ServiceNow, biggest product line is ITSM, followed by ITOMs, customer service management, HR, those are like top 4 product lines that we have by revenue, okay, and by customer base and so on. And in 2018 September, we released our Pro SKUs. Pro SKUs had 50% uplift and Pro SKUs had a lot of functionality, some AI functionality, some analytics functionality, some other functionality that were part of our Pro SKU based on the product line.
+We said on the list price, it was a 50% uplift, okay? List price, it was 50% uplift. It has now been close to 5 years. We were able to recognize 25% uplift, which is pretty good with all the Enterprise discounts and so on. We have large customers. But not only we have been able to get 25% uplift, the seat count went up by 10% over the last 5 years because there have been too many questions asked by our investors and customers, hey, will this cost seat compression and this and that? So why did the seat count go up? Pretty simple. As companies are digitizing more, they have more tickets or more incidents that happened with their digital assets. So that volume is so high that they need more ServiceNow licenses to just fulfill those requests. So I said, okay, you think about the simple framework of P times Q times R, and I know, Michael...
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+And by the way, we started with P times Q, you added R.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+I added R because this 10% was a very important point that the rate of growth in seats, you can now monitor by calling it 10%, assuming Q or P, however you want to do it. So that's our history with ITSM Pro. With generative AI, by us creating the large language models, that will add to productivity gains for our customers by use cases. And for that, we believe in certain use cases, the productivity gains are meaningful that we created Pro Plus SKU because that's very specific to gen AI, the LLM is running in ServiceNow data centers or our cloud. And then after discount, they will give us whatever the discount is, but the price we are charging based on our equation of the value our customers will get for those use cases.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+Okay. And that we have -- I think we are targeting, I think we talked about it a little bit more than on the original Pro SKU?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+60%.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+60%, right?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+60% is the price uplift on top of Pro.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+Okay. And so one of the things that you talked about in the earnings call I thought was really interesting was the assessment of value that you were seeing in your beta customers. So this isn't just a SKU. You've had this out. It's been in beta. Some of your customers are using it.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+That's correct.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+And you said, "Look, we'll charge more, but there's value there." And that's why the...
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes. I always said, Michael, if you remember our Q1 earnings call, which we are on, that we will charge price based on the value our customers will get. We are not going to charge you...
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+You lay that out for us. Can you talk about that process of how you looked at what your -- the value your customers are getting out of it?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes. So we are -- even when -- I'll just tell you, when we ran GitHub Copilot, right, so we bought somebody else's generative AI product. Our Head of Engineering, Pat Casey, our CTO, he ran full control experiment on how much productivity we gain for -- through GitHub Copilot for our engineers, right? So that way, we can justify how much we pay Microsoft.
+Flip that, for us, we said, okay, you use the Pro Plus SKU, Miss Customer and this 100 users will not use Pro Plus SKU. So whether you call that control experiment, A/B testing and then the task that benefit with Pro Plus SKU, how much productivity gain you get? And then those tasks make up what percent of your work week, right? Because you can say that, hey, this task with generative AI is 30% more productive. Okay, that's great. But then you are only spending 10% of your work week on that task.
+So then based on that, we did a proper analysis of our own, ServiceNow's own IT team, ServiceNow's own customer support team literally side by side. You're using generative AI, you're not, you're getting false positive, how much time you waste on a false positive. And we said, okay, the productivity improvement could be single digits. If it is in single digits, so let's just take 5% productivity improvement, average cost of that particular job function is say $100,000, that's a $5,000 value per year based on all this math of staircasing at [ data 11 ]. So that's $5,000 value. Would you be willing to give ServiceNow $500 a year and you keep the $4,500? That's it.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+So more value accruing to the customer.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+90-10 is our rule that we would like to. And now we have to prove by customer, by industry as we -- these kind of conversations are complex conversation, but we have to do outcome-based selling on Pro Plus.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+But I guess the point is if you're going to go out and seek a 60% uplift, maybe half of that in terms of yield, your view is that you've actually seen that productivity increase.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+In the first few set of customers for certain use cases, we did. And we said we are not going to charge for that.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+Because, by the way, you're not the only ones looking for a 50% uplift in pricing right now.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes, yes. That's correct.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+So I think we're asking ourselves this question is like how many software vendors can we actually pay an additional 50% to?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Correct. And what I would say is I've done a large team, a large engineering team, large customer support team. Microsoft could ask me the same question, right, because we use GitHub, for example. And I say...
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+And you probably use Office, and there's going to be -- there's a Copilot for Office.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+There is a Copilot for Office. But on GitHub, for example, because it matters to my engineering community, engineers are expensive people, right? Engineers are expensive people for any company, doesn't matter who, whether you're a software company or you're a manufacturing company or an auto company. And even if I can get a 5% productivity gain, is that worth me giving GitHub Copilot for Java code x amount of dollars? Yes.
+And will that -- so then I think, okay, so my engineers are more productive, so maybe they write more code so I can innovate faster, okay? That's one point. Second point I would say is when I hire engineers next year, right, would I hire maybe a little bit less engineers, 3% less than what I was supposed to hire instead of 197? That's how I think about that framework of how this will work over the next 3 to 5 years, right?
+And similarly, our customers, even in New York City, when I ran it by customers that, hey, this is the price uplift, here's the product. He said, "CJ, if you can prove it out, we will figure out where the budget is, whether the budget comes from the labor pool, or whether the budget comes from my incremental, I will get next year from my boss."
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+By the way, just for reference, when you rolled out ITSM Pro in 2018, that was then -- at this point, that's so, whatever you call it, 5 years later, what's the rough penetration of that base?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+40%.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+40%.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+So at this point...
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+40% customers have it, yes. Michael, what was interesting for me is that in that 40% customer, so yes, the standard customers, when they come for renewal, we tell them, hey, do you want to use Pro? But most of the new customers in the last 5 years, because your denominator keeps on increasing, right? Every year, we add a few hundred new customers. And most of those new customers will start with Pro because which customer says, hey, I don't want to use Pro, I want to use standard, right? When you have good, better, best, most people go with better.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+And then that's an uplift to begin with, and then you get the uplift on top of it.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Plus, yes.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+Okay. Let's quickly want to talk about a little bit about the product road map in terms of what will come out in terms of gen AI, at what point? What do we have already? What's on the road map?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Yes. So our Vancouver release is September. We do it after city names. In Vancouver, we are releasing ITSM Pro Plus, customer service management Pro Plus, HR Pro Plus and then a brand-new product called text-to-code, text-to-workflow, we haven't come up with a name, which helps engineers on ServiceNow write ServiceNow code faster. That's a brand-new product that we'll be releasing in September. So that's number one.
+And then we have a very aggressive road map. We have a fast-growing security business. So we are going to create product for security, incident management and so on. We have a fast-growing business on risk, right? So risk is a product line we created 5 years ago, and some of the largest financial services firms now use our risk products. That business is going to be a very large business for us over the next 5 to 6 years. So that's another business.
+Then when we look at our asset management business and a few others, so our release after Vancouver is called Washington, DC release, which comes out in March. You will have additional products and features that come out.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+We have a couple of more minutes. Any questions from the audience for CJ?
+Unknown Analyst
+When you think about the 40% penetration that you guys had or the attach with the Pro SKU, can you help frame up kind of what the early expectations are for the Pro Plus SKU?
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+I have absolutely no expectations. I don't. It's the truth, because I want to see how this plays out. So we have -- and I think Gina addressed that in the earnings call, that we are right now, we have not even released the product. We are releasing the product next month on September 20. I want -- because we started giving ITSM Pro projection after the first year to see what it took for the new customer as well as existing customers on the penetration rate. So I want to say that maybe in the January earnings release in the fourth week of January, we'll be able to say, here is what we learned in the first 3 months because the product is still not out yet. So I want to hold off. That's the right and short answer.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+Anything else for CJ right now? Okay. I think we'll leave it at that.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Thank you.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+CJ, thank you very much.
+Chirantan Jitendra DesaiServiceNow, Inc. · President & COO
+Appreciate it.
+Michael TuritsKeyBanc Capital Markets Inc., Research Division · MD & Senior Analyst
+Thanks, everybody.
