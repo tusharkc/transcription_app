@@ -1,12 +1,20 @@
 import dbConnect from "@/lib/dbConnect";
+import Transcript from "@/models/Document";
 import { NextResponse } from "next/server";
 
-export async function GET(request) {
+export async function GET() {
   try {
     await dbConnect();
-    return NextResponse.json({ message: "this api works" }, { status: 200 });
+
+    const transcripts = await Transcript.find({})
+      .sort({ venueDateTimeStamp: -1 })
+      .select("-fullText -transcription");
+
+    return NextResponse.json(transcripts);
   } catch (error) {
-    console.error(error);
-    return NextResponse.json({ error: "Server error" }, { status: 500 });
+    return NextResponse.json(
+      { error: "Failed to fetch transcripts" },
+      { status: 500 }
+    );
   }
 }

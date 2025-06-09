@@ -1,5 +1,5 @@
-import mongoose from "mongoose";
-import dbConnect from "../lib/dbConnect";
+const mongoose = require("mongoose");
+const dbConnect = require("../lib/dbConnect");
 
 dbConnect();
 
@@ -34,5 +34,5 @@ DocumentSchema.index({
   shortDescription: "text",
 });
 
-export default mongoose.models.Document ||
-  mongoose.model("Document", DocumentSchema);
+module.exports =
+  mongoose.models.Document || mongoose.model("Document", DocumentSchema);
